@@ -15,10 +15,10 @@ os.makedirs(json_folder, exist_ok=True)
 # Contador de arquivos
 file_count = 1
 
-# Cidades desejadas (em minúsculo para comparação segura)
-cidades_desejadas = [
-    "campinas",
-]
+# Cidades desejadas (convertidas para minúsculo)
+cidades_desejadas = [cidade.lower() for cidade in [
+    "rio de janeiro",
+]]
 
 # Baixar o feed XML comprimido
 try:
