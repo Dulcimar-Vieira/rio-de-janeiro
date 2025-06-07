@@ -1,0 +1,55 @@
+# .github/workflows/processar_feed.yml
+name: Processar Feed XML
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
+  workflow_dispatch:  # Permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  process-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar Dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Garantir pasta json_parts existe
+        run: |
+          mkdir -p json_parts
+          touch json_parts/.gitkeep
+
+      - name: Executar script.py
+        run: |
+          python script.py || { echo "Erro ao executar script.py"; exit 1; }
+
+      - name: Executar merge_json.py
+        run: |
+          python merge_json.py || { echo "Erro ao executar merge_json.py"; exit 1; }
+
+      - name: Verificar arquivos gerados
+        run: |
+          echo "📁 Conteúdo da pasta json_parts:"
+          ls -lh json_parts/
+          echo "📄 merged.json:"
+          ls -lh merged.json || echo "merged.json não encontrado"
+
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Commit e Push dos Arquivos JSON
+        run: |
+          git add -f json_parts/
+          git add -f merged.json
+          git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
+          git push || echo "Nenhuma alteração para enviar"
