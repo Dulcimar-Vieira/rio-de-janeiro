@@ -39,22 +39,22 @@ if response.status_code == 200:
                     elem.clear()
                     continue
 
-        # Filtra se o estado faz parte da lista desejada
-        if state.lower() in estados_desejados:
-            company = elem.findtext("company/name", "").strip() or "Confidencial"
+                # Filtrar se o estado faz parte da lista desejada
+                if state.lower() in estados_desejados:
+                    company = elem.findtext("company/name", "").strip() or "Confidencial"
 
-            job_data = {
-                "title": elem.findtext("title", "").strip(),
-                "description": elem.findtext("description", "").strip(),
-                "company": company,
-                "city": city,
-                "state": state,
-                "url": elem.findtext("urlDeeplink", "").strip(),
-                "tipo": elem.findtext("jobType", "").strip(),
-            }
-            jobs.append(job_data)
+                    job_data = {
+                        "title": elem.findtext("title", "").strip(),
+                        "description": elem.findtext("description", "").strip(),
+                        "company": company,
+                        "city": city,
+                        "state": state,
+                        "url": elem.findtext("urlDeeplink", "").strip(),
+                        "tipo": elem.findtext("jobType", "").strip(),
+                    }
+                    jobs.append(job_data)
 
-       elem.clear()
+                elem.clear()
 
                 if len(jobs) >= 1000:
                     json_path = os.path.join(json_folder, f"part_{file_count}.json")
@@ -64,6 +64,7 @@ if response.status_code == 200:
                     jobs = []
                     file_count += 1
 
+        # Salvar o restante
         if jobs:
             json_path = os.path.join(json_folder, f"part_{file_count}.json")
             with open(json_path, "w", encoding="utf-8") as json_file:
