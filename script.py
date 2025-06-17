@@ -14,7 +14,7 @@ json_folder = "json_parts"
 os.makedirs(json_folder, exist_ok=True)
 
 # Contador de arquivos
-file_count = 1
+file_count = 45
 max_file_size_mb = 90  # Limite máximo por arquivo em MB
 
 # Estados desejados
