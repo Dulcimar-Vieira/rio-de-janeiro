@@ -1,5 +1,230 @@
 [
   {
+    "title": "Ti | desenvolvedor(a) full stack",
+    "description": "<ul><li>Experiência com Python, NodeJS, PHP ou Golang; </li><li>Experiência com HTML, CSS, JavaScript e ReactJS; </li><li>Vivência com metodologias ágeis, como Kanban e Scrum; </li><li>Experiência na construção de APIs REST; </li><li>Noções de SQL e/ou NoSQL; </li><li>Experiência com testes unitários e de integração; </li><li>Conhecimento em conteinerização utilizando Docker; </li><li>Conhecimento de Gitflow; </li><li>Entendimento sobre os conceitos de clean architecture; </li><li>Conhecimento sobre os princípios SOLID, DRY, YAGNI, KISS; </li><li>Conhecimento sobre design patterns. </li> </ul><p><br></p><p>Diferenciais  </p><ul><li>Já ter utilizado MongoDB, MySQL ou PostgreSQL; </li><li>Experiência aplicando TDD; </li><li>Experiência aplicando DDD; </li><li>Conhecimento de utilização da Google Cloud Platform; </li><li>Vivência com GraphQL; </li><li>Experiência trabalhando com Kubernetes. </li> </ul><ul><li>Ter habilidade em colocar uma aplicação em ambiente de produção, dentre outras atividades e domínios; </li><li>Trabalhar para construir e manter serviços de Back End e aplicações de Front End com alta performance e escalabilidade; </li><li>Construir interfaces reativas, respeitando a identidade visual da companhia; </li><li>Escrever testes unitários e de integração nas aplicações; </li><li>Monitorar a saúde dos serviços em que atua; </li><li>Melhorar a qualidade da base de código em que atua; </li><li>Manter o fluxo de deployment e versionamento das aplicações consistente; </li><li>Colaborar com um time multidisciplinar para manter um ambiente de desenvolvimento saudável e ágil. </li> </ul>",
+    "company": "Hurb",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631612__1953?utm_source=1953&utm_medium=feed&keyword=Ti-desenvolvedor&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Ti | desenvolvedor(a) back end",
+    "description": "<ul><li>Experiência com Python, NodeJS, PHP ou Golang; </li><li>Vivência com metodologias ágeis, como Kanban e Scrum; </li><li>Noções de SQL e/ou NoSQL; </li><li>Domínio da escrita de testes unitários e de integração; </li><li>Conhecimento em conteinerização utilizando Docker; </li><li>Conhecimento de Gitflow; </li><li>Entendimento sobre os conceitos de clean architecture; </li><li>Conhecimento sobre os princípios SOLID, DRY, YAGNI, KISS; </li><li>Conhecimento sobre design patterns; </li> </ul><p><br></p><p>Diferenciais </p><ul><li>Ter noções de Front End (HTML, CSS, JavaScript e ReactJS); </li><li>Conhecimento utilizando MongoDB, MySQL ou PostgreSQL; </li><li>Experiência aplicando TDD; </li><li>Experiência aplicando DDD; </li><li>Conhecimento de utilização da Google Cloud Platform. </li> </ul><ul><li>Trabalhar para construir e manter serviços de Back End com alta performance e escalabilidade; </li><li>Escrever testes unitários e de integração nas aplicações; </li><li>Monitorar a saúde dos serviços em que atua; </li><li>Melhorar a qualidade da base de código em que atua; </li><li>Manter o fluxo de deployment e versionamento das aplicações consistente; </li><li>Colaborar com um time multidisciplinar para manter um ambiente de desenvolvimento saudável e ágil. </li> </ul>",
+    "company": "Hurb",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631613__1953?utm_source=1953&utm_medium=feed&keyword=Ti-desenvolvedor&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Ti | desenvolvedor(a) front end",
+    "description": "<ul><li>Experiência com HTML, CSS, JavaScript e ReactJS; </li><li>Vivência com metodologias ágeis, como Kanban e Scrum. </li><li>Experiência com testes unitários e de integração; </li><li>Conhecimento em conteinerização utilizando Docker; </li><li>Conhecimento de Gitflow; </li><li>Entendimento sobre os conceitos de clean architecture; </li><li>Conhecimento sobre design patterns. </li> </ul><p><br></p><p>Diferenciais </p><ul><li>Ter noções de Back End (Python, NodeJS, PHP ou Golang); </li><li>Experiência aplicando TDD; </li><li>Experiência na construção de APIs REST; </li><li>Experiência com GraphQL. </li> </ul><ul><li>Escrever testes com códigos por padrão;  </li><li>Ter habilidade em colocar uma aplicação em ambiente de produção, dentre outras atividades e domínios; </li><li>Trabalhar para construir e manter aplicações Front End com alta performance e escalabilidade; </li><li>Construir interfaces reativas, respeitando a identidade visual da companhia; </li><li>Escrever testes unitários e de integração nas aplicações; </li><li>Monitorar a saúde dos serviços em que atua; </li><li>Melhorar a qualidade da base de código em que atua; </li><li>Manter o fluxo de deployment e versionamento das aplicações consistente; </li><li>Colaborar com um time multidisciplinar para manter um ambiente de desenvolvimento saudável e ágil. </li> </ul>",
+    "company": "Hurb",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631614__1953?utm_source=1953&utm_medium=feed&keyword=Ti-desenvolvedor&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Auxiliar de loja - artwalk (2)",
+    "description": "<p>Ensino Médio Completo </p><p>Pacote Office básico (Power Point, Excel, Word) e ou usabilidade na ferramenta Google </p><p>Organização e foco. </p><p>Responsável por apoiar o time de loja na realização das atividades de forma geral, mediante orientação prévia. </p><p><br></p><p>Apoiar os vendedores dando suporte na jornada de atendimento ao cliente e organização do estoque. </p>",
+    "company": "Artwalk",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631627__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-loja&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Gerente comercial pj - rio de janeiro/rj",
+    "description": "<p>Como requisitos básicos, você deve ter:  </p><p><br></p><ul><li>Superior completo em Administração de Empresas, Ciências Contábeis, Economia ou cursos correlatos; </li><li>CNH B válida; </li><li>Certificação Anbima CPA10 ou superior (ativa); </li><li>Residir na cidade do Rio de Janeiro/RJ; </li><li>Disponibilidade para trabalho externo com visitas nos clientes; </li><li>Disponibilidade para realização de viagens semanais com duração de 1 a 4 dias. </li> </ul><p><br></p><p>Você se destaca, se tiver:  </p><p><br></p><ul><li>Experiência na área comercial, com relacionamento com clientes PJ e conhecimento em operações que envolvam crédito; </li><li>Desejável vivência no segmento Varejo; </li><li>Conhecimento e experiência com produtos bancários; </li><li>Conhecimentos na área financeira (matemática financeira, análise de balanço, análise de crédito, entre outros).  </li> </ul><p><br></p><p>É importante destacar que no dia a dia, você realizará as seguintes atividades: </p><p><br></p><ul><li>Realizar gerenciamento da carteira de clientes, desenvolvendo a verticalização de produtos e serviços junto aos clientes ativos e reativação dos clientes inativos; </li><li>Realizar venda de produtos e serviços bancários e visitas de campo; </li><li>Prospectar clientes com o objetivo de alavancar os negócios da Instituição; </li><li>Atendimento ao cliente para manter sua satisfação em relação aos produtos e serviços dos diversos segmentos do Grupo;  </li><li>Desenvolver ações que visem o cumprimento das metas orçamentárias da instituição, quanto às operações de ativos, passivos, serviços e despesas; </li><li>Analisar os resultados da carteira com o objetivo de otimizar os negócios e a fidelização de clientes; </li><li>Acompanhar as inadimplências e cuidar da regularização das mesmas; </li><li>Participar de ações que visam criar sinergia com os diversos segmentos do Grupo a fim de divulgar e disponibilizar os produtos e os serviços financeiros. </li> </ul>",
+    "company": "Tribanco",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631629__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-comercial-pj&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Banco de talentos - mulheres na operação",
+    "description": "<ul><li>Ensino médio completo; </li><li>Pacote office; </li><li>Identificação com nossos valores: Valorização da vida, Ética, Senso de dono, Simplicidade, Meritocracia. </li> </ul><p><br></p><p>Será um diferencial: </p><ul><li>Cursos de Eletricista e/ou Técnico em Eletrotécnica, Elétrica, Automação ou Eletromecânica. </li> </ul><p><br></p><p><br></p>",
+    "company": "Light",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631635__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Banco de talentos - pcd",
+    "description": "<ul><li>Ensino médio completo ou ensino superior em diversas áreas; </li><li>Identificação com nossos valores: Valorização da vida, Ética, Senso de dono, Simplicidade, Meritocracia. </li> </ul><p><br></p><p><br></p>",
+    "company": "Light",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631636__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Gerente de prevenção e perdas",
+    "description": "<p>Responsável por acompanhar o cumprimento do checklist de prevenção de perdas, fiscalizando os diversos setores da loja, bem como apoiando a gestão de processos e pessoas da área, contribuindo para o alcance dos objetivos da empresa. </p>Principais Atividades:<ul><li>Desenvolver e implementar estratégias de prevenção de perdas, criando políticas e procedimentos para minimizar furtos, fraudes e desperdícios;  </li><li>Monitorar atividades suspeitas por meio de sistemas de vigilância e inspeções regulares nos setores da loja;  </li><li>Investigar incidentes de perda, elaborando relatórios detalhados para a gerência;  </li><li>Conduzir treinamentos com os colaboradores sobre práticas de segurança e prevenção de perdas;  </li><li>Analisar dados para identificar padrões de perda e áreas de risco;  </li><li>Garantir o cumprimento das normas de segurança e procedimentos internos;  </li><li>Realizar visitas a lojas em diferentes cidades para inspecionar a aplicação das políticas de prevenção de perdas e assegurar a conformidade.  </li> </ul>Requisitos:<p>Formação: </p><ul><li>Graduação completa em administração áreas correlatas.  </li><li>Desejável: Curso Técnico em Segurança Patrimonial ou Técnico em CFTV.  </li> </ul><p>Experiência: </p><ul><li>Mínimo de 1 ano com gestão de prevenção de perdas, segurança patrimonial ou áreas correlatas.  </li> </ul>Conhecimentos Técnicos:<ul><li>Pacote Office (nível básico/intermediário);  </li><li>Conhecimentos em segurança patrimonial; </li><li>Análise de Risco: técnicas para identificar, mensurar e mitigar riscos no negócio; </li><li>Análise de Perdas: metodologias para detecção de falhas operacionais e análise de inventários; Gestão de Pessoas: liderança focada em resultados e desenvolvimento de equipes.   </li> </ul>Competências Comportamentais:<ul><li>Comunicação eficaz;  </li><li>Trabalho em equipe;  </li><li>Dinamismo e proatividade;  </li><li>Adaptabilidade;  </li><li>Empatia;  </li><li>Gestão do tempo;  </li><li>Inteligência emocional. <br></li> </ul>",
+    "company": "MART MINAS DISTRIBUICAO LTDA",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631786__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-preven%C3%A7%C3%A3o&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Executivo de vendas (closer) - sênior | v4 bs & co",
+    "description": "<p>Na V4 Company, não acreditamos em achismos  aqui, cada ação tem estratégia e propósito. Nosso time é movido por desafios e trabalha com um único objetivo: entregar resultados reais para nossos clientes. </p><p> Nosso jeito de ser: </p><ul><li>Transparência e clareza em todas as relações. </li><li>Cultura colaborativa  aqui, confiança é essencial. </li><li>Estrutura horizontal  você tem autonomia para tomar decisões. </li> </ul><p>Se essa cultura faz sentido para você, vem fazer parte da V4!  </p> <p  >O Executivo de Vendas Sênior é um dos pilares do crescimento da empresa, sendo responsável por negociações complexas e de grande valor. Sua experiência permite a otimização dos processos comerciais e o desenvolvimento da equipe de vendas. Nessa posição, seu desafio será liderar estratégias comerciais, atuar no fechamento de negócios de alto impacto e exercer papel fundamental na expansão da empresa. </p><p  >Principais responsabilidades: </p><ul><li  ><p  >Desenvolver e executar estratégias de vendas de alto impacto; </p> </li><li  ><p  >Liderar e treinar o time de vendas em melhores práticas comerciais; </p> </li><li  ><p  >Conduzir reuniões e negociações com clientes Enterprise; </p> </li><li  ><p  >Implementar processos estruturados para previsibilidade e aumento da conversão; </p> </li><li  ><p  >Gerenciar pipeline de vendas com foco em escalabilidade; </p> </li><li  ><p  >Estabelecer estratégias de precificação e upsell. </p> </li> </ul> <p  >Requisitos: </p><ul><li  ><p  >Experiência na estruturação de propostas complexas e pricing estratégico; </p> </li><li  ><p  >Habilidade em relacionamento e fidelização de clientes; </p> </li><li  ><p  >Inglês intermediário para negociações; </p> </li><li  ><p  >Entendimento de indicadores financeiros (CAPEX, fluxo de caixa, escalabilidade). </p> </li> </ul> <p  > O que oferecemos: </p><ul><li  ><p  >Os benefícios serão informados pela recrutadora. </p> </li><li  ><p  >Acesso aos cursos da Staage. </p> </li><li  ><p  >Onhappy - benefício corporativo de viagens a lazer. </p> </li><li  ><p  >Ambiente dinâmico e colaborativo. </p> </li><li  ><p  >Oportunidade de crescimento profissional. </p> </li><li  ><p  >Desenvolvimento contínuo e aprendizado constante. </p> </li><li  ><p  >Gestão meritocrática. </p> </li><li  ><p  >Possibilidade de sociedade baseada no desempenho e alinhamento cultural com o negócio.  </p> </li> </ul>",
+    "company": "V4 Company",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631824__1953?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Analista de manutenção pl/sr",
+    "description": "A Zerezes nasceu do design, do seu olhar atento às pessoas, e da vontade de redesenhar o que não funciona. Acreditamos que os óculos são uma ferramenta de expressão do nosso estilo e personalidade, mas sabemos que essa não é a forma com ele é percebido pelas pessoas, que enxergam os óculos como algo funcional e pouco atraente. Queremos transformar o jeito que as pessoas compram e se relacionam com seus óculos de grau, porque achamos que dessa maneira, melhoramos não somente como elas se veem, mas também como se relacionam com o mundo.<br>Na Zerezes, cuidar das lojas é parte do nosso jeito de cuidar das pessoas. Acreditamos que os espaços também comunicam e cada detalhe conta: uma parede bem pintada, uma lâmpada no tom certo, uma loja que acolhe e convida a ficar.<br>Somos um varejo que vende óculos, mas o que entregamos vai muito além da armação. Nossas lojas são pontos de encontro, afeto e troca. Por isso, buscamos alguém que tenha prazer em manter tudo funcionando com beleza, qualidade e atenção. No seu dia a dia, você vai:<ul><li>Organizar e acompanhar o cronograma de cuidados com as lojas (manutenções gerais, controle de pragas, paisagismo, extintores e mais); </li><li>Avaliar e priorizar o que precisa de atenção, ouvindo os times e respeitando os ritmos de cada loja; </li><li>Planejar intervenções maiores com estratégia e sensibilidade, sempre cuidando do impacto e do orçamento; </li><li>Negociar com fornecedores, comparar propostas e garantir boas entregas, com qualidade e custo justo; </li><li>Acompanhar reformas e retrofits, garantindo que os espaços traduzam o que acreditamos; </li><li>Visitar lojas quando necessário, acompanhando de perto a execução dos trabalhos e propondo melhorias; </li><li>Manter tudo bem documentado e organizado, com processos que ajudam a área a fluir melhor. </li> </ul>O que buscamos:<ul><li>Formação em Arquitetura ou Engenharia Civil; </li><li>Experiência com manutenção de espaços e gestão de fornecedores; </li><li>Conhecimento em Excel avançado e ferramentas de projeto; </li><li>Organização, autonomia e vontade de resolver; </li><li>Olhar atento e sensível ao impacto que os espaços têm sobre as pessoas; </li><li>Boa comunicação e capacidade de escuta a troca com outros times é constante </li><li>Essa vaga está aberta para talentos do Rio de Janeiro ou São Paulo! ::) </li> </ul><p>Benefícios: </p><ul><li>Plano de Saúde Bradesco Efetivo (enfermaria); </li><li>Vale Refeição  R$ 25 por dia no cartão CAJU; </li><li>Vale Transporte  conforme a necessidade do funcionário depositado no cartão CAJU com desconto em folha conforme a lei; </li><li>Wellhub (antigo gympass); </li><li>Psicologia viva (benefício de saúde mental); </li><li>Conexa saúde (desconto em farmácias e exames); </li><li>Programa de desconto nos produtos Zerezes </li><li>OnHappy (beneficio de viagens e lazer); </li> </ul>",
+    "company": "Zerezes",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631837__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-manuten%C3%A7%C3%A3o&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "0775 analista de processos iii",
+    "description": "<p>A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.<br>Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.<br>Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.<br>Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!<br>Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!<br>O que você fará?<br>---------<br>Documentar os processos atuais, identificar e validar as melhorias necessárias e documentar os processos revisados;<br>Promover Melhoria de Processos, realizando o mapeamento dos processos mais complexos e analisando cenários e dados, identificando oportunidades e problemas.<br>Identificar e priorizar oportunidades de melhoria, promovendo a integração de práticas inovadoras e sustentáveis que aumentem a eficiência;<br>Colaboração com equipes multidisciplinares para assegurar a qualidade dos processos e conformidade com padrões estabelecidos;<br>Identificar e entendimento dos problemas e oportunidades dos negócios da área administrativa;<br>Arquitetura organizacional orientada por processos<br> <br>Qual bagagem você deve trazer?<br>-----------------------<br>Formação completa em curso superior em Ciência da Computação, Engenharia de Produção, Administração, Gestão da Qualidade ou áreas afins;<br>Alta capacidade de resolução de problemas, comunicação e colaboração;<br>Especialização em Gestão de Processos ou similares;<br>Conhecimento em Bizagi ou similares;<br>Habilidade analítica e atenção aos detalhes;<br>Autogestão; <br>Habilidade em jogos de negócios;<br> <br> <br>Experiências que realmente nos encantam<br>-------------------------------------<br>Organização;<br>Habilidade de comunicação e negociação;<br>Empatia;<br>Foco em entregas e resultados;<br>Facilidade no gerenciamento de conflitos;<br>Proatividade. </p>",
+    "company": "Extreme Digital Solutions",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631911__1953?utm_source=1953&utm_medium=feed&keyword=0775-analista-de&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Auxiliar de serviços gerais - rio de janeiro/rj",
+    "description": "<p>Responsabilidades:<br>Pinturas; <br>Limpeza do escritório; <br>Controle de estoque e requisição de materiais de limpeza; <br>Troca de equipamentos; <br>Reparos elétricos e hidráulicos; <br>Montagem de máquinas e móveis; <br>Manutenção de carpintaria e alvenaria; <br>Recolocação de pastilhas ou litocerâmica; <br>Zelar pela segurança etc.<br>Vivência:<br>Vivência de 2 anos nas atividades. <br>Escala de trabalho 6x1 (segunda-feira à sábado) </p>",
+    "company": "Infotec Brasil",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631914__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Advogado(a) pleno | contratos #38485441855",
+    "description": "<p>É uma oportunidade única para você vivenciar o dinamismo de departamentos jurídicos, aperfeiçoar seus conhecimentos técnicos e habilidades comportamentais, experimentar diferentes culturas organizacionais e criar vínculos importantes para a sua carreira.    <br>Seja um secondee!<br>Responsabilidades e atribuições: </p><ul><li  >Revisar, elaborar e negociar contratos; </li><li  >Negociação de termos e condições contratuais com clientes, fornecedores e parceiros comerciais; </li><li  >Analisar e interpretar cláusulas contratuais e garantir que os termos e condições sejam justos e razoáveis para ambas as partes.  </li> </ul><p>Requisitos e qualificações: </p><ul><li  >Graduação em direito com OAB ativa; </li><li  >Experiência na área de contratos; </li><li  >Excelentes habilidades de comunicação escrita e verbal; </li><li  >Detalhista e interessado em aprender.  </li> </ul><p>Modelo de trabalho: Híbrido - 4x por semana presencial na região de Jacarepaguá - RJ.  </p><p>Tempo de contrato: 6 meses.  </p>",
+    "company": "Viseu Secondment",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631941__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-pleno&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Consultor de Vendas",
+    "description": "<p> Você quer fazer parte de uma equipe que transforma vidas e gera oportunidades incríveis? Chegou a sua chance de se juntar à família Beta Online, a maior escola de Perícia Judicial do Brasil! </p><p>Se você é apaixonado por vendas e busca uma remuneração elevada, variando de R$5.000 a R$10.000, então essa é a sua oportunidade dos sonhos! </p><p>Estamos procurando por um Consultor Comercial dinâmico e determinado para se juntar ao nosso time. </p>RESPONSABILIDADES E ATRIBUIÇÕES<p> Sua missão será: </p><ul><li>Tratamento dos leads; </li><li>Aplicar o funil e as estratégias de venda usando WhatsApp e ferramentas de CRM; </li><li>Vender nossos cursos e serviços de maneira consistente; </li><li>Comprometer-se com a meta individual e coletiva da área comercial. </li> </ul>REQUISITOS E QUALIFICAÇÕES<p> Para embarcar nesse desafio e se tornar um Betalover, você precisa ter: </p>·   Ter habilidades de comunicação e persuasão;<p>·      Aperfeiçoar a capacidade de negociação e fechamento de contratos; </p><p>·      Buscar constantemente aprimoramento técnico e conhecimento do mercado; </p><p>·      Manter-se atualizado sobre as tendências e inovações do setor de vendas. </p>INFORMAÇÕES ADICIONAIS<p> Benefícios para os Betalovers: </p><p>·      Plano de Saúde | Sulamérica; </p><p>·      Plano Odontológico | Sulamérica; </p><p>·      Caju R$ 800,00 (Benefício Flexível); </p><p>·      GymPass; </p><p>·      Day Off no aniversário; </p><p>·      Shiatsu; </p><p>·     Vale transporte. </p>",
+    "company": "BETA ONLINE",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631952__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Sr data & ia engineering manager",
+    "description": "<p>Shape is seeking a Senior Data & AI Engineering Manager to drive our data and artificial intelligence strategy, building the platforms and teams that power our next-generation industrial solutions. In this pivotal leadership role, you will bring technical vision and expertise, guiding the development and deployment of scalable, secure, and innovative data and AI products aligned with Shapes business goals and product vision. </p><p>You will lead talented multidisciplinary teams  including data engineers, machine learning engineers, AI specialists, and platform architects  fostering a culture of technical excellence, collaboration, and continuous learning. Working closely with key stakeholders across business and product, you will translate needs into cutting-edge solutions that deliver measurable business value. </p><p>At Shape, you will play a central role in bringing our data and AI product vision to life, building foundational platforms and teams that drive genuine transformation in the industrial sector. If you are passionate about leading world-class engineering teams, creating disruptive products, and shaping the future through data and AI, we want to hear from you. </p> <p>Responsibilities: </p><ul><li>Define and execute the overall data and AI strategy, directly supporting the companys industrial product vision and roadmap. </li><li>Architect and oversee end-to-end development of Shapes data and AI platforms, ensuring scalability, security, and modularity. </li><li>Lead, mentor, and retain high-performing teams, promoting a culture of innovation, ownership, and technical rigor. </li><li>Implement and enforce best practices for data governance, quality, privacy, compliance, and responsible AI aligned with industry regulations. </li><li>Manage budget and resource planning, hiring, and professional development for the data & AI organization. </li><li>Cultivate strategic partnerships, evaluate third-party technologies, and lead platform evolution, integrating the latest advances in AI/ML, cloud, and data engineering. </li><li>Champion a data-driven mindset, empowering all functions to leverage AI for informed decision-making. </li><li>Establish and track KPIs to measure the business impact of data and AI solutions. </li><li>Oversee the documentation, protection, and management of intellectual property developed by the team. </li><li>Stay ahead of technology trends, bringing GenAI, cutting-edge automation, and new approaches to Shapes product stack. </li> </ul> <p>Requirements: </p><ul><li>Bachelors or higher degree in Computer Science, Engineering, Mathematics, Statistics, or a related STEM field. </li><li>Solid experience in technical leadership of end-to-end data, AI, and ML projects, including managing multidisciplinary engineering teams. </li><li>Proven hands-on expertise in Python, software engineering, cloud platforms (AWS, Azure, GCP), data architecture, and scalable data pipelines. </li><li>Deep familiarity with AI/ML frameworks and tools (Scikit-Learn, TensorFlow, PyTorch, HuggingFace, etc.), MLOps best practices, and platform development. </li><li>Track record in building robust internal platforms, APIs, and data/ML products with a focus on quality, security, and reliability. </li><li>Experience implementing governance, privacy, and compliance standards, with a strong commitment to ethical and explainable AI. </li><li>Strategic planning, project portfolio management, and the ability to influence both technical and non-technical audiences. </li><li>Excellent communication and stakeholder management skills. </li><li>Fluent English. </li> </ul> <p>Differentiators: </p><ul><li>Technical Expertise: Experience with Edge AI/IoT solutions (relevant for industry), knowledge graphs and ontologies, computer vision, and predictive maintenance or advanced time series analysis. </li><li>Business Relevance: Background in industrial or B2B data-driven products. </li><li>Innovation: Participation in open innovation, patenting, or contributions to the data/AI community. </li><li>Change Management: Leading organizational AI/analytics adoption in complex environments. </li> </ul> <p>Benefits: </p><ul><li>PPR (Profit Sharing): Possibility of extra compensation based on the companys results, according to your performance. </li><li>Health and Dental Plan: To ensure your care and well-being! </li><li>Flexible Benefit: Receive an amount that can be used according to your needs, including food, transportation, education, culture, and health. You decide how to use it! </li><li>Flexible Hours: Work at the best time for you and have a better quality of life. </li><li>Massages and Manicure in the Office: So you can relax and feel good about yourself. </li><li>Mentorship Program: Access development opportunities with the help of experienced professionals. </li><li>Gympass: To keep your health in check and take care of your body. </li><li>Snacks in the Office: Because everyone loves a snack at work! </li><li>Inclusive Environment: We value diversity and always strive to create a space where everyone can be authentic, respected, and feel part of something bigger. </li><li>Day off in Your Birthday Month: A day off in your birthday month to celebrate in any way you prefer </li><li>Extended Maternity/Paternity Leave: So you can enjoy this important time with your family, with peace of mind that your professional life will remain well-supported. </li><li>Childcare Assistance: To support you with the care of your young children. </li><li>Continuous Individualized Development Support: We provide personalized support for your professional growth, tailored to your unique needs and goals. </li><li>Culture and Well-being: We foster an environment that values mental health, promotes work-life balance, and encourages connection with our culture. </li> </ul>The benefits provided with this position are not deducted from your paycheck!",
+    "company": "Shape Digital",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5631985__1953?utm_source=1953&utm_medium=feed&keyword=Sr-data&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Copeiro - centro  -  r$ copeiro: r$ 1784,20  - 16 :00 a 0:00",
+    "description": "<p> <br />Copeiro: R$ 1784,20<br />01 vaga - 16h às 00:00 </p><p>CENTRO - MORar proximo  </p> <br>Requisitos:<br><p>Experiencia em restaurante .  </p><br>Benefícios<br><p>ref local + encarreiramento   </p>",
+    "company": "RHFOOD",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632022__1953?utm_source=1953&utm_medium=feed&keyword=Copeiro-centro&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Ajudante de cozinha - centro - morar proximo  - 02 vagas - 07h às 15:20  | 02 vagas - 17h às 01:00",
+    "description": "<p>Ajudante cozinha: R$ 2076,80 </p><p><br />02 vagas - 07h às 15:20 </p><p><br />02 vagas - 17h às 01:00 </p><br>Requisitos:<br><p>AJUDANTE DE COZ9INHA, E3XPERIENCIA EM FAST FOOD, TORA ROTINA DE COZNHA, COM EXPERIENCIA EM CARTEIRA . MORAR PROXIMO SERA UM DIFERENCIAL .; </p><br>Benefícios<br><p>REF LOCAL + TRANSPORTE. TOTAL DISPONIBILIDADE DE HORARIO  </p>",
+    "company": "RHFOOD",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632023__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-cozinha&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Cl: gerente  de restaurante   niteroi r$4.000,00 noite",
+    "description": "<p>GERENTE DE RESTAURANTE             NOITE                                                                                                                    Salário + gratificação (cargo de confiança 40%): R$ 2.500,00<br />Comissão: R$ 1.600,00 (variável).     </p><p>EXPERENCIA EM CARTEIRA COMPROVADA COMO GERENTE , TER ATUADO EM CASAS COM SERVIÇO A LA CARTE,  COM ESTABILIDADE ,  GERENTE PERFIL MAO NA MASSA, CONHECEDOR DE OPERAÇÕES, GESTAO DE PESSOAS , ESCALAS, CONHECER BEBIDAS, EXCELENCIA DE ATENDIMENTO , CONEXÃO COM COZINHA E CAIXA, PEDIDOS, BRIEFING , CHECK LIST , TODA ROTINA CONDIZENTE AO CARGO .    </p><br>Requisitos:<br><p>Função | pretendidas: Gerente de Restaurante <br />Horário: Flexível (as vezes num horário diurno e as vezes num horário noturno)<br />Salário: Salario da Categoria<br />Bônus: PRL (Participação s/ Resultado Liquido) <br />Comissão se tiver: Estabelecimento cobra 12% (repasse inicial de 18 pontos / valor variável) <br />Morar próximo raio de ação: 25km <br />Bairros alvo limite: <br />Faixa etária limite: <br />Sexo: Tanto faz </p><br>Benefícios<br><p>REF LOCAL + TRANSPORTE  </p>",
+    "company": "RHFOOD",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632024__1953?utm_source=1953&utm_medium=feed&keyword=Cl-gerente&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Suporte técnico júnior  análise de bugs",
+    "description": "<p>Estamos em busca de uma pessoa curiosa, proativa e com olhar técnico para somar ao time da Jump Tecnologia, atuando com suporte técnico e análise de bugs em um de nossos principais sistemas (zona azul digital). <br />Se você é da área de tecnologia, está começando sua carreira, gosta de investigar erros, entender o que está acontecendo por trás das telas e tem boa comunicação, essa vaga pode ser a sua!  </p><p> PRINCIPAIS ATIVIDADES: </p><ul><li>Prestar suporte técnico a clientes (via e-mail e WhatsApp, sem chamadas); </li><li>Analisar bugs reportados por outras áreas (comercial, financeiro, suporte); </li><li>Investigar causas de falhas e direcionar para os responsáveis; </li><li>Ter contato direto com o time de desenvolvimento e QA; </li><li>Com o tempo, apoiar na resolução de erros simples no sistema.  </li> </ul> <br>Requisitos:<br><p> REQUISITOS E QUALIFICAÇÕES INDISPENSÁVEIS: <br /> </p><ul><li>Experiência prévia com suporte técnico ou atendimento em sistemas; </li><li>Conhecimentos básicos em PHP (Laravel) e banco de dados relacional (MySQL); </li><li>Ser estudante ou recém-formado em cursos como Análise e Desenvolvimento de Sistemas ou similares; </li><li>Boa comunicação escrita e capacidade de investigação técnica; </li><li>Organização para lidar com múltiplas demandas simultâneas.  </li> </ul><p> Vai se destacar se tiver:  </p><ul><li>Experiência com análise de bugs; </li><li>Conhecimento de sistemas SaaS; </li><li>Interesse em evoluir para áreas de desenvolvimento back-end.  </li> </ul><br>Benefícios<br><p> DA NOSSA PARTE VOCÊ PODE ESPERAR: <br /> </p><ul><li>Contrato PJ; </li><li>Recesso remunerado de 21 dias após 1 ano de contrato. </li> </ul>",
+    "company": "Humtech - Recrutando para Tecnologia",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632035__1953?utm_source=1953&utm_medium=feed&keyword=Suporte-t%C3%A9cnico-j%C3%BAnior&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Assistente Administrativo",
+    "description": "<p> Se você é organizado(a), responsável e manda bem na comunicação, essa oportunidade é pra você!<br /><br /> </p><p>‍‍ Atividades principais:<br /> Executar rotinas administrativas gerais<br /> Elaboração e controle de contratos<br /> Contas a pagar e a receber<br /> Organização de arquivos físicos e digitais<br /> Controle de documentos e cadastros<br /> Apoio à área comercial e relacionamento com parceiros<br /> Suporte à organização de eventos e feiras (pré-produção, logística, atendimento presencial)<br /> Comunicação com fornecedores, parceiros e clientes<br /> Uso de plataformas de gestão como Trello ou Monday<br /> Preparação de relatórios e controle de planilhas (Excel, Word, PowerPoint) </p><p> Competências comportamentais:<br /> Comprometimento e responsabilidade<br /> Organização e planejamento<br /> Atenção aos detalhes<br /> Boa comunicação verbal e escrita </p> <br>Requisitos:<br><p> Ensino Médio completo<br /> Sólida experiência em áreas administrativas<br /> Domínio do Pacote Office<br /> Familiaridade com plataformas como Trello ou Monday </p><p> Diferencial: Ensino Superior completo ou em andamento </p> <br>Benefícios<br><p> Vale-refeição: R$28,95/dia<br /> Vale-alimentação: R$289,57/mês<br /> Plano de saúde Amil<br /> Passe Smart Fit VIP (após período de experiência)<br /> Hora extra e taxa de deslocamento em caso de viagens </p>",
+    "company": "Attractfy Consultoria em Recursos Humanos",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632048__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Consultor de vendas | barra da tijuca/rj",
+    "description": "<p>O Grupo CI é Líder em edutainment, unimos educação + entretenimento, nossa missão é impulsionar o desenvolvimento dos nossos clientes por meio da jornada de aprendizagem e experiências pelo mundo com imersão, interação e diversão. </p><p>Somos um grupo sólido, com presença no Brasil e no exterior, que há mais de 35anos no mercado, proporcionando vivências únicas para o desenvolvimento pessoal e profissional de diferentes gerações através de modelo de negócio dê intercâmbios (CI Intercambio, viagens pedagógicas (Trilha Educação) e formaturas (Amaze Viagens). </p><p>Na CI, a gente valoriza: </p><p>Pessoas: Os colaboradores são o maior patrimônio de qualquer empresa. São nossos mais de 300 especialistas que fazem a diferença no dia a dia da Rede CI. </p><p>Clientes: Para a CI, cada viagem é única e cada viajante é especial. É preciso ser criativo sempre, na busca constante por produtos e serviços diferenciados. </p><p>Ética e Respeito: Essas são as premissas que norteiam o crescimento da Rede CI e seu relacionamento com o mercado. </p><p>Tradição: A CI carrega uma história com mais de três décadas de sucesso e qualidade reconhecida no mercado. A transparência e o comprometimento com a qualidade da informação são um dos fatores que tornaram a CI uma das maiores empresas de intercâmbio e turismo jovem do mundo. </p><p>Venha fazer parte da nossa equipe = ) </p><p>Descrição do cargo: </p><ul><li>Realizar vendas de produtos educacionais e de turismo no exterior; </li><li>Organizar as atividades operacionais e administrar o tempo para atender a demanda com qualidade e eficiência no CRM; </li><li>Atender aos clientes e compreender todas as necessidades; </li><li>Fornecer propostas adequadas; </li><li>Fechar negócios; </li><li>Fazer follow up para acompanhar os clientes; </li><li>Acompanhar a carteira de clientes no pós-venda. </li> </ul><br>Requisitos:<br><ul><li>Experiência em vendas de intercâmbio; </li><li>Ter realizado intercâmbio; </li><li>Superior completo ou cursando; </li><li>Inglês intermediário; </li><li>Comunicativo e Proativo. </li> </ul>",
+    "company": "CI Intercâmbio",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632050__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Analista de suporte (  rio de janeiro - galeão)",
+    "description": "<ul><li>Hardware (reparos, troca de peças, limpezas, diagnósticos e soluções de problemas); </li><li>Software, (instalação e atualização em geral, diagnósticos de problemas); </li><li>Sistema operacional Windows e pacote office. Suporte à impressoras (Laserjet, Multifuncional e Deskjet); </li><li>Atendimento 1° nível (telefônico e acesso remoto) e 2º nível. </li> </ul><br>Requisitos:<br><ul><li>Ensino Médio Completo; </li><li>Ensino Técnico ou Superior cursando/concluído em Tecnologia da Informação, Sistemas de Informação, Redes ou áreas correlatas; </li><li>Conhecimento intermediário em sistemas operacionais Windows e/ou Linux; </li><li>Experiência com suporte a hardware e software, incluindo instalação, configuração e resolução de problemas; </li> </ul><br>Benefícios<br><p> Vale Refeição;<br /> Vale transporte;<br /> Assistência Médica;(Amil)<br /> Assistência Odontológica;(Amil)<br /> Convênio farmácia<br /> Seguro de Vida<br /> Auxilio Academia e Bem estar; GYMPASS e Apoio Pass (Assistência psicológica, jurídica e financeira por telefone), para você e dependentes;<br />‍ Acesso livre às unidades do Sesc, para aproveitar momentos de lazer e bem-estar </p>",
+    "company": "Tecnocomp Tecnologia e Serviços Ltda",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632064__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-suporte&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Analista de transporte - são cristóvão/rj*",
+    "description": "Sobre a Adecco: Líder Mundial em Recursos Humanos, a Adecco está presente em 60 países através de uma rede de 5.500 delegações, que proporciona diariamente emprego a 700.000 pessoas e presta serviço a mais de 100.000 empresas. Faz parte da lista 500 da Fortune Global e está cotada na bolsa de Zurique.A Adecco apresenta uma estrutura mundial orientada para a prestação de um serviço integrado na área de Recursos Humanos, com o compromisso de um desenvolvimento contínuo de soluções eficazes e competitivas para seus clientes.A Adecco, em parceria com a Shopee, está contratando profissionais para fazer parte do seu time.Descrição das Atividades: Apoiar na captação de motoristas parceiros para a frota própria da Shopee; Realizar o aceite de rotas diariamente para o cliente; Fazer e remanejar a escala de motoristas e veículos que forem escalados para carregamentos diariamente; Gerenciar conflitos e dúvidas dos motoristas na operação; Fazer envio diário da lista para carregamento (carro/motorista/ajudante); Acompanhar o momento do carregamento; Monitorar a operação (carregamento, entregas, devoluções); Acompanhar as rotas em tempo real na plataforma para garantir as melhores performances; Tratar e informar todos os casos de sinistros nas rotas monitoradas; Cobrar manutenção periódica do veículo dos motoristas; Auxiliar o motorista sobre o uso do aplicativo., Superior Completo ou Cursando será diferencial (Administração, Logística, Engenharia ou áreas correlatas);Conhecimento com Google Sheets e Power BI;Experiência em logística com gestão de Pátio Conhecimentos em rotinas operacionais;Atuação com motoristas agregados.                - Assistência Médica- Assistência Odontológica- AUXÍLIO COMBUSTÍVEL- Seguro de vida- Vale refeição- Vale transporte",
+    "company": "Adecco",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632071__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-transporte&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Coordenador de Logística",
+    "description": "<p>Responsável por coordenar a área Logística, realizando gestão de pessoas e equipamentos, visando garantir o correto fluxo das operações conforme processos estabelecidos, acondicionamento, segurança e acurácia dos produtos, preservando a integridade e qualidade no transporte, itinerário e entrega para o cliente, bem como, realizar a gestão de estoque, reposição, controle de validade e descartes. </p>   <p>· Participar do Processo de Recrutamento e Seleção de colaboradores realizando a escolha de candidatos através da avaliação de competências técnicas e comportamentais de acordo com a Descrição de Cargo e Código de Conduta. </p> <p>· Apoiar a área de Recursos Humanos no processo de integração dos novos colaboradores realizando a recepção no primeiro dia, apresentação da equipe, dos processos e procedimentos a serem seguidos na área incluindo os Equipamentos de Proteção Individual e Uniforme. </p> <p>· Analisar a cada dois dias os dados de Controle de Jornada dos colaboradores incluindo inconsistências de marcação, absenteísmo, horas extras e outras informações que impactem na produtividade da área, bem como agir corretivamente quando necessário. </p> <p>· Elaborar o planejamento de turnos de trabalho, férias e necessidades de horas extras visando atender as necessidades de produção. </p> <p>· Esclarecer dúvidas dos colaboradores sobre as informações de pagamento, benefícios e férias, buscando informações quando necessário. </p> <p>· Realizar trimestralmente a Avaliação de Desempenho dos colaboradores, com base nas competências técnicas, comportamentais e relacionadas ao Código de Conduta e reportar a informação no sistema de Recursos Humanos assim como aplicação do feedback ao colaborador. </p> <p>· Coordenar a evolução do Plano de Desenvolvimento Individual dos colaboradores contribuindo com treinamentos, reuniões de acompanhamento e reportando para Recursos Humanos para tomada de decisões e ações necessárias para a evolução do time. </p> <p>· Apoiar a área de Recursos Humanos nas ações de Engajamento reforçando a comunicação e incentivando a participação nos eventos corporativos. </p> <p>· Acompanhar as rotinas diárias da área com o objetivo de entender sobre o clima e trabalho em equipe com foco em produtividade. </p> <p>· Gerenciar as atividades da área, mantendo a disciplina dos colaboradores e cumprimento do Código de Conduta e demais regras e procedimentos internos. </p> <p>· Supervisionar a execução física e sistêmica das rotinas da área Logística (Almoxarifado, Expedição e Transportes). </p> <p>· Garantir a correta utilização e manutenção dos equipamentos e estrutura da área Logística (Almoxarifado, Expedição e Transporte). </p> <p>· Elaborar indicadores de desempenho logístico como custo de transporte, eficiência de entrega, gestão de inventário e apresentá-los periodicamente para o Gestor Imediato. </p> <p>· Supervisionar as atividades dos terceiros de acordo com os contratos, monitorando o desempenho de fornecedores e parceiros propondo melhorias nas condições. </p> <p>· Monitorar níveis de estoque e realizar análises para garantir que as quantidades estejam alinhadas com a demanda e política de armazenagem. </p> <p>· Assegurar o cumprimento das práticas de controle de inventário, reposição de estoques, políticas e gestão de armazém. </p> <p>· Atualizar periodicamente os procedimentos da área Logística e garantir a homologação no sistema informatizado com todas as aprovações necessárias para implementação. </p> <p>· Fornecer suporte ao Líder de Logística na organização do fluxo de atividades da área, em conjunto com os fluxos da Produção e Compras, garantindo a execução de acordo com o planejamento e manutenção da cadeia. </p> <p>· Analisar as necessidades da área e propor alteração de quantidade, tipo de veículos, embalagens e materiais auxiliares que serão utilizados no transporte dos produtos, para assegurar a entrega adequada do produto versus o custo, garantindo a sustentabilidade do negócio. </p> <p>· Verificar periodicamente se os fornecedores estão cumprindo adequadamente as rotas de transporte, objetivando atender os prazos contratados e otimizando os custos com recursos de transporte. </p> <p>· Monitorar as entregas junto aos fornecedores, transportadoras parceiras e elaborar indicadores de desempenho para apresentação à Liderança. </p> <p>· Transmitir informações e mudanças importantes nos processos que impactem na execução de atividades dos colaboradores e terceiros tanto na própria área como nas demais que possuam processos conexos com a área Logística. </p> <p>· Planejar as contagens periódicas de estoque e realização do inventário, comunicando as áreas envolvidas, acionando os colaboradores e recursos necessários para que a atividade ocorra com o mínimo possível de impactos negativos nas rotinas da empresa. </p> <p>Atender as auditorias periódicas apresentando os indicadores, procedimentos e instruções de trabalho da área. </p>",
+    "company": "PHARMACIA ARTESANAL LTDA",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632118__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Log%C3%ADstica&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Profissional de rotinas organizacionais",
+    "description": "<p>A SANDECH foi fundada em 2008, na cidade do Rio de Janeiro, com o propósito de desenvolver projetos multidisciplinares para o setor industrial. Desde então, temos atuado em diversos segmentos da economia brasileira, como óleo e gás, químico e petroquímico, farmacêutico e siderúrgico. Até então, já entregamos mais de 800 projetos, consolidando um portfólio robusto com clientes de grande porte, como Petrobras, BRASKEM, Modec, PRIO, Nestlé e Gerdau. </p> <p>Com foco em inovação, a SANDECH adota tecnologias avançadas, como drones, laser scan, integração ao modelo BIM e óculos de realidade virtual, sempre buscando otimizar processos e elevar o nível de precisão e eficiência de seus projetos. Esse compromisso com a excelência também se reflete no Sistema de Gestão da Qualidade, certificado internacionalmente pela ABS Quality Evaluations na norma ISO 9001:2015 e aprovado em auditorias realizadas por cinco de seus principais clientes. Com um SGQ maduro e bem estruturado, estamos habilitados a executar projetos de engenharia considerados críticos. </p> <p>Mais do que uma empresa de engenharia, a SANDECH se posiciona como um parceiro estratégico de seus clientes, unindo experiência técnica, inovação e qualidade. Em constante crescimento, buscamos profissionais comprometidos com a excelência e com a construção de soluções cada vez mais eficientes e sustentáveis para a indústria brasileira. </p>   <p>RESPONSABILIDADES </p>   <p>Gestão de Risco: </p> <ul> <li>Acesso e operação diária no sistema SIAPROJ (Sistema Petrobras de Gerenciamento de Riscos) para suporte e controle de riscos do projeto; </li> <li>Atualização semestral da AQR (Análise Qualitativa de Riscos) utilizando o software Primavera Risk Analysis; </li> <li>Monitoramento contínuo dos riscos do projeto e apoio no planejamento de ações junto às disciplinas e responsáveis; </li> <li>Organização e condução de workshops de riscos, promovendo alinhamento entre as disciplinas; </li> <li>Gestão de tratativas, acompanhamento e rastreabilidade de riscos em conjunto com os responsáveis por cada frente; </li> <li>Atualização e manutenção da base de riscos no painel Power BI. </li>  </ul> <p>Serviços de Análise de Custos e Desempenho: </p> <ul> <li>Relatórios de Levantamento e Análise de Custos Integrados da Unidade, Custos de Projeto e Custos de Manutenção; </li> <li>Cronogramas de Desembolso Financeiro no Tempo; </li> <li>Relatórios de Avaliação de Desempenho dos Indicadores da Gerência; </li>  </ul> <p>FORMAÇÃO </p> <ul> <li>Bacharelado em Administração ou Contabilidade com registro ativo no conselho. </li>  </ul> <p>REQUISITOS TÉCNICOS </p> <ul> <li>Experiência com gestão de riscos e gestão de projetos; </li> <li>Conhecimento em Primavera Risk Analysis; </li> <li>Familiaridade com Power BI para visualização e atualização de dados. </li> <li>Pacote Office e Excel Intermediário/Avançado. </li> <li>Desejável domínio do sistema SIAPROJ; </li>  </ul>",
+    "company": "SANDECH CONSULTORIA EM ENGENHARIA E GESTAO LTDA",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5632203__1953?utm_source=1953&utm_medium=feed&keyword=Profissional-de-rotinas&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
     "title": "Assistente de vendas renner norte shopping",
     "description": "<ul><li>Ensino Médio completo; </li><li>Gostar de atendimento ao público; </li><li>Identificação com moda; </li> </ul><ul><li>RESPONSÁVEL POR </li><li>Encantar os clientes no processo de vendas, atendendo e auxiliando sempre que necessário; </li><li>Atuar junto ao cliente no processo de finalização da compra; </li><li>Recebimento de valores, realizar a abertura e fechamento de caixa; </li><li>Realizar oferta de serviços 3 financeiros como cartão e parcelamentos; </li><li>Realizar processos de trocas; </li><li>Exercer rotinas diárias de reposição e organização do setor; </li><li>Auxiliar na colocação de etiquetas de preços e códigos dos produtos no estoque; </li><li>Atender os clientes nos provadores proporcionando a melhor experiência de compra; </li><li>Organizar a área de vendas e vitrines dentro dos padrões definidos pelo merchandising; </li><li>Estimular os clientes na saída da loja a deixarem sua opinião do atendimento no Encantômetro; </li><li>Atendimento ao público em geral. </li> </ul>",
     "company": "Lojas Renner",
@@ -162,15 +387,6 @@
     "tipo": ""
   },
   {
-    "title": "Nv | apoio de loja | shopping rio design barra",
-    "description": "<ul><li>Ensino Médio completo; </li><li>Postura profissional; </li><li>Conduta ética e respeito; </li><li>Flexibilidade de horário; </li><li>Boa comunicação. </li> </ul><ul><li>Dar suporte a vendedoras </li><li>Organização da loja </li> </ul>",
-    "company": "NV",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5633118__1953?utm_source=1953&utm_medium=feed&keyword=Nv-apoio&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
     "title": "Torneiro",
     "description": "<p>Escolaridade: (Mínimo) Ensino médio incompleto; </p><p>Experiência anterior comprovada; </p><p>Desejável curso de torneiro; </p><p>Cursos de NR serão considerados diferenciais; </p><ul><li  >Operar tornos mecânicos e outras máquinas-ferramenta para usinar peças metálicas de acordo com especificações técnicas, desenhos ou instruções. </li><li  >Realizar reparos e reconstruções em componentes mecânicos de equipamentos pesados, como engrenagens, eixos, polias e cilindros. </li><li  >Utilizar ferramentas e materiais apropriados para cada tarefa de usinagem, levando em consideração os tipos de metal, velocidades e alimentações necessárias. </li><li  >Verificar a qualidade das peças usinadas, realizando inspeções visuais e testes de precisão para garantir que estejam dentro das especificações. </li> </ul>",
     "company": "BSM Engenharia",
@@ -204,15 +420,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5633197__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-produto&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Auxiliar de operação - rjr",
-    "description": "<ul><li>Ensino Médio completo;  </li><li>Ensino Técnico em Mecânica;  </li><li>Conhecimentos em manutenção. </li> </ul><ul><li>Proceder com a limpeza e arrumação do local de trabalho e instalações; </li><li>Retirar/recolocar os cilindros nos seus respectivos cestos; </li><li>Retirar lacres e rótulos dos cilindros;  </li><li>Realizar inspeções nos cilindros; </li><li>Realizar enchimentos nos cilindros; </li><li>Realizar manutenções nos cilindros; </li><li>Realizar o recebimento dos cilindros;  </li><li>Realizar manutenção dos equipamentos;  </li><li>Análise de pureza e sensorial do CO2;  </li><li>Preencher relatórios de controle de entrada e saída de cilindros; </li><li>Registrar movimentações dos cilindros no software; </li><li>Executar outras atividades correlatas conforme determinação e orientação de sua chefia. </li> </ul><p><br></p>",
-    "company": "Ecogen Brasil",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5633222__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-opera%C3%A7%C3%A3o&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   },
   {
@@ -864,15 +1071,6 @@
     "tipo": ""
   },
   {
-    "title": "Renner - auxiliar de estoque (298)",
-    "description": "<p> Identificação com o ambiente de loja; </p><p> Desejável Ensino Médio completo. </p><p> Responsável por destinar os produtos para a área de vendas de acordo com cada divisão e marca; </p><p> Encaminhar produtos excedentes para o estoque; </p><p> Identificar produtos sem etiqueta e sem preço e direcionar para o correto ajuste; </p><p> Responsável por remarcar preços dos produtos do estoque; </p><p> Responsável por receber mercadorias e organizar na retaguarda da loja; </p><p> Manusear documentos e/ou mercadorias, seguindo procedimentos rotineiros e padronizados. </p>",
-    "company": "Lojas Renner",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5634990__1953?utm_source=1953&utm_medium=feed&keyword=Renner-auxiliar&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
     "title": "Vagas exclusivas para pcd s (varias cidades)",
     "description": "Estamos em busca de profissionais que gostam de trabalhar com pessoas e atendimento ao público.Nossas oportunidades são para varias cidades do Estado do Rio e são Paulo que possuímos lojas.<br /><br /><br />Responsabilidades e atribuições<br /><br />Realizar atendimento o publico, realizando vendas, recepcionando clientes.<br /><br />Requisitos e qualificações<br /><br />Ensino Médio CompletoPacote office<br />",
     "company": "Vivo Cronológica",
@@ -1374,15 +1572,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5635990__1953?utm_source=1953&utm_medium=feed&keyword=Vendedores-espa%C3%A7o&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Analista de Controladoria",
-    "description": "<p  >Formação:  </p><p>·        Formação superior completa em Contabilidade, Administração, Economia, Finanças ou áreas correlatas. </p> <p  >Experiência profissional: </p><p  >·        Experiência na área de Controladoria, preferencialmente em empresas de grande porte e/ou multinacionais. </p> <p  >Conhecimentos: </p> <p  >         Sólidos conhecimentos em contabilidade, finanças corporativas e análise de demonstrações financeiras. </p><p>·        Domínio de Excel (nível avançado), com experiência em fórmulas, gráficos e tabelas dinâmicas. </p><p>·        Desejado conhecimento de Powerbi ou outra ferramenta de Bussiness Intelligence </p><p>·        Capacidade analítica e foco em resultados. </p><p>·        Habilidade para identificar problemas e sugerir soluções práticas. </p><p>·        Visão estratégica de negócios e pensamento crítico </p><p>Responsável por apoiar a gestão financeira da empresa, realizando atividades relacionadas ao planejamento financeiro, controle orçamentário, análise de desempenho econômico-financeiro e melhoria de processos, apoiando as demais áreas do negócio na elaboração e gestão dos planos de ação. Gerencia contratos, documentação mensal e conformidade das entregas dos prestadores de serviços contratados pela empresa, garantindo a eficiência financeira e a correta alocação de recursos, fornecendo informações estratégicas para a tomada de decisões. </p><p><br></p><p><br></p>",
-    "company": "Rio Quality",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5636000__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Controladoria&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   },
   {
@@ -2448,15 +2637,6 @@
     "tipo": ""
   },
   {
-    "title": "Assist. comercial",
-    "description": "<p>\tEnsino médio completo; </p><p>\tDesejável ensino superior cursando; </p><p>\tPacote Office avançado, com ênfase em Excel e Power BI </p><p>\tSerá um diferencial experiência em treinamentos; </p><p>\tBoa oratória e comunicação em público; </p><p>\tPerfil proativo, educativo, com foco em treinamento, qualidade e no cliente interno. </p><p>\tExecutar tarefas de apoio administrativo em geral na área; </p><p>\tContribuir no levantamento das demandas de treinamento da unidade, bem como providenciar logística para treinamentos. </p><p>\tProgramação de agendas de treinamentos diversos; </p><p>\tMonitorar o espaço físico e equipamentos disponível para os treinamentos agendados e devidas liberações nas localidades dos treinamentos;  </p><p>\tApoiar a logística e infra; </p><p>\tAuxiliar na preparação de material, relatórios e indicadores para subsidiar às áreas e gestores das Unidades. </p><p>\tGestão de plataforma de educação corporativa e dos treinamentos obrigatórios: </p><p>\tDesenvolvimento de indicadores de treinamento. </p><p>\tExecutar relatórios gerenciais, gráficos, planilhas: </p><p>\tElaboração e controle do orçamento de treinamento; </p><p>\tMinistrar treinamentos; </p><p>\tPrestar atendimento humanizado, buscando a solução de cada questão abordada por nossos clientes internos, com eficácia; </p>",
-    "company": "Aegea Saneamento",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5639570__1953?utm_source=1953&utm_medium=feed&keyword=Assist-comercial&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
     "title": "Vendedores - loja 55rj (shopping metropolitano)",
     "description": "<p>Processo seletivo para novos talentos, se você se enquadra em todos os requisitos e habilidades abaixo, conclua sua candidatura. </p><p><br></p><p>Requisitos e qualificações </p><p><br></p><ul><li>Ter entre 18 a 30 anos  </li><li>Residir proximo ao local da vaga </li><li>Ter concluído o Ensino Médio </li><li>Boa oratória  </li><li>Organização </li><li>Dinamismo </li><li>Saber trabalhar em equipe </li> </ul>",
     "company": "DesenvolveRH",
@@ -2481,15 +2661,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5639607__1953?utm_source=1953&utm_medium=feed&keyword=Telhadista-rj&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Auxiliar de Serviços Gerais",
-    "description": "<ul><li>Ensino fundamental ou médio completo; </li><li>Experiência anterior nas atividades descritas; </li><li>Habilidade para trabalhar em equipe; </li><li>Boa comunicação e relacionamento interpessoal. </li> </ul><ul><li>Realizar a limpeza diária de salas de aula, corredores, banheiros e áreas comuns, garantindo um ambiente saudável e agradável para alunos e funcionários; </li><li>Manter a organização do mobiliário e materiais escolares; </li><li>Auxiliar no controle e na reposição de materiais de limpeza e outros insumos necessários para o funcionamento da escola; </li><li>Seguir as normas de segurança e higiene estabelecidas pela escola, garantindo um ambiente seguro para todos. </li> </ul>",
-    "company": "Colégio QI",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5639608__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Servi%C3%A7os&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   },
   {
@@ -2979,15 +3150,6 @@
     "tipo": ""
   },
   {
-    "title": "Assistente de coordenação pedagógica | pensi tijuca",
-    "description": "<ul><li>Cursando a partir do sexto período ou com ensino superior completo em Pedagogia </li><li> Nível intermediário do pacote office. </li><li> Flexibilidade de horário. </li><li>Experiência com os segmentos da Educação Básica e ter atuado na coordenação escolar será um diferencial. </li> </ul><p><br></p><ul><li>Suporte à coordenação em atendimentos a pais e alunos; </li><li>Suporte aos professores nas demandas de coordenação </li><li>Lançamento de notas de avaliações; </li><li>Lançamento de frequências dos alunos; </li><li> Apoio no desenvolvimento de atividades curriculares cotidianas e projetos multidisciplinares; </li><li>Gerenciamento dos equipamentos disponíveis para aulas e atividades escolares; </li><li>Participação no Ciclo de Matrículas e demais eventos propostos pela unidade escolar. </li> </ul><p><br></p>",
-    "company": "Pensi",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5639801__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-coordena%C3%A7%C3%A3o&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
     "title": "Operador(a) de caixa - engenho de dentro/rj (4)",
     "description": "<p>Ensino médio completo. </p><p>Experiência com atendimento ao cliente. </p><p>Será um diferencial possuir vivência com operação de caixa. </p><p>Atender aos clientes, registrando e pesando suas mercadorias no caixa; </p><p>Manter o local de trabalho sempre limpo e organizado; </p><p>Auxiliar na devolução de mercadorias; </p><p>Proceder com o fechamento do caixa no final do expediente. </p>",
     "company": "Supermercados Guanabara",
@@ -3336,15 +3498,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5640653__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-da-alegria&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Operador(a) de pratos prontos - pão de açúcar siqueira campos (546204)",
-    "description": "<ul><li>Ensino médio completo; </li><li>Capacidade de trabalhar em equipe e em um ambiente de ritmo acelerado; </li><li>Salário: R$ 1.700,00; </li><li>Horário: 14h ás 22h20; </li><li>Escala: 6x1. </li> </ul><ul><li>Atender clientes de forma cortês e eficiente, oferecendo assistência quando necessário; </li><li>Registrar produtos corretamente no caixa e processar pagamentos; </li><li>Manter a área de trabalho limpa, organizada e abastecida; </li><li>Auxiliar na reposição de mercadorias nas prateleiras; </li><li>Verificar a validade dos produtos e remover itens vencidos; </li><li>Prestar informações sobre produtos, ofertas e promoções aos clientes; </li><li>Colaborar com a equipe para garantir a eficiência operacional da loja; </li><li>Participar de treinamentos para aprimorar habilidades e conhecimentos. </li> </ul>",
-    "company": "GPA",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5640664__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-pratos&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   },
   {
@@ -4266,15 +4419,6 @@
     "tipo": ""
   },
   {
-    "title": "Atendente de loja - petz avenida das américas",
-    "description": "<ul><li>Ensino Médio Completo; </li><li>Disponibilidade Para Trabalhar em Escala 6X1. </li> </ul><ul><li>Responsável pela excelência no atendimento ao cliente e pela execução das rotinas operacionais da loja, visando garantir o encantamento do cliente, criando valor em sua interação com animais de estimação, e criando referência para a empresa em seu segmento de atuação. </li><li>Executar atendimento ao cliente por meio do atendimento encantador. </li><li>Garantir o processo execução (Precificação, abastecimento, exposição, fefo, limpeza, alinhamento, organização) dos produtos da loja, por meio da utilização de planograma e layout. </li><li>Dar suporte nos processos operacionais da loja por meio do auxílio e contribuição. </li><li>Executar o manuseio correto dos produtos, mediante cuidados específicos de cada item, com objetivos de evitar perdas e avarias. </li> </ul>",
-    "company": "Petz",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5643194__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-de-loja&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
     "title": "Analista de planejamento e controle sr.",
     "description": "<p>Requisitos necessários: </p><ul><li>Conhecimento em gestão de contratos, orçamentação CAPEX e OPEX, gestão de projetos, elaboração de indicadores e apresentações; </li><li>Pacote Office; </li><li>Power BI; </li><li>MS Project. </li> </ul><p>Seus principais desafios serão: </p><ul><li>Gerenciar portfólio; </li><li>Monitorar planejamento do CAPEX e OPEX; </li><li>Desenvolver indicadores para alavancar a estratégia da área;  </li><li>Elaborar orçamentos para projetos de CAPEX em conjunto com as áreas e acompanhar avanço físico/financeiro do projeto;  </li><li>Apoiar diversas áreas da empresa para entender suas necessidades de investimento e prioridades estratégicas;  </li><li>Acompanhar dos custos como despesas de pessoal, instalações, suprimentos, entre outros;  </li><li>Compilar documentações e evidencias para comprovação do financiamento;  </li><li>Emitir relatórios de informações gerenciais solicitados pela gestão da área; </li><li>Criar apresentações gerenciais. </li> </ul>",
     "company": "Light",
@@ -4317,15 +4461,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5643288__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-regional-de&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Especialista de loja/pessoa vendedora - zona sul / rio de janeiro",
-    "description": "<ul><li>Habilidades e conhecimento de Barista ou preparação de bebidas quentes; </li><li>Ensino Médio Completo; </li><li>Perfil mão na massa; </li><li>Facilidade de trabalho em equipe; </li><li>Senso de responsabilidade e maturidade. </li> </ul><p><br></p><p>Diferencial:  </p><ul><li>Inglês fluente  </li> </ul><p><br></p><ul><li>Atuar na loja atendendo clientes com excelência e explicação técnica dos produtos relacionados ao café;  </li><li>Efetivar o pagamento no caixa;  </li><li>Preparar as bebidas quentes, conservar a máquina e organizar do local de elaboração; </li><li>Realizar entrega dos pedidos nas mesas e retirar os utensílios depois do consumo; </li><li>Controle de datas de validades e temperatura das bebidas / ambiente; </li><li>Atuar no recebimento de mercadoria e controle do estoque, seguindo as regras sanitárias de alimentos.  </li> </ul><p  ><br></p>",
-    "company": "Dengo Chocolates",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5643298__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-de-loja-pessoa&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   },
   {
@@ -6669,15 +6804,6 @@
     "tipo": ""
   },
   {
-    "title": "Grupo soma | assistente administrativo de compras | operações",
-    "description": "<ul><li>Curso Superior completo ou cursando a partir do segundo ano em: Estilo, Moda, Engenharias, Economia, Contábeis, Administração de Empresas ou Logística; </li><li>Desejável conhecimento de processos produtivos têxteis e varejo têxtil; </li><li>Conhecimento em Excel avançado: Proc V, Planilha dinâmica, etc; </li> </ul><ul><li  >Dar assistência direta à compradora de produtos acabados nacionais; </li><li  >Participar das rotinas do desenvolvimento das coleções fazendo interface operacional entre as marcas e os fornecedores; </li><li  >Solicitar cotações aos fornecedores; </li><li  >Enviar documentação técnica aos fornecedores; </li><li  >Participar dos provões; </li><li  >Organizar arquivos digitais das informações de custos de produtos acabados comprados para cada coleção; </li><li  >Fallow up com fornecedores e marcas para que os cronogramas sejam cumpridos; </li><li  >Prospecção de oportunidades de novos fornecedores para as marcas; </li><li  >Participar de reuniões tanto com fornecedores , quanto com as marcas para atendimento das demandas necessárias para o bom andamento das coleções. </li> </ul>",
-    "company": "GRUPO SOMA",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5650259__1953?utm_source=1953&utm_medium=feed&keyword=Grupo-soma&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
     "title": "Auxiliar de Seguros",
     "description": "<ul><li>Ensino Médio Completo; </li><li>Experiência com atendimento ao cliente;  </li><li>Conhecimento em Pacote Office;  </li><li  >Experiência no ramo de seguros será considerado um diferencial; </li> </ul><p><br></p><p><br></p><ul><li>Realizar Consultoria para orçar e propor o melhor tipo de seguro alinhado ao perfil do cliente; </li><li>Realizar tratativas com os cliente;  </li><li>Negociar os seguros com os clientes;  </li><li>Organizar e arquivar documentos relacionados aos seguros; </li><li  >Executar outras tarefas correlatadas que lhe forem atribuídas pela gerência imediata. </li> </ul><p><br></p>",
     "company": "Grupo Roma Brasil",
@@ -7638,15 +7764,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5653308__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-log%C3%ADstica&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Bibliotecário (a)",
-    "description": "<ul><li>Ensino superior completo em Biblioteconomia; </li><li>Desejável experiência em bibliotecas escolares ou ambientes educacionais; </li><li>Demonstrar empatia e atenção às necessidades dos nossos alunos e demais usuários da biblioteca; </li><li>Habilidade para manejar materiais em diferentes idiomas, facilitando o acesso a um público mais amplo. </li> </ul><ul><li>Organizar, catalogar e gerenciar o acervo da biblioteca; </li><li>Facilitar o acesso à informação de forma clara e acessível, promovendo a geração de conhecimento entre alunos e professores; </li><li>Promover eventos culturais e literários que incentivem o interesse pela leitura e a valorização da cultura; </li><li>Desenvolver atividades educativas que integrem o uso da biblioteca ao aprendizado curricular; </li><li>Colaborar com professores e alunos em projetos de pesquisa e atividades de extensão. </li> </ul>",
-    "company": "Escola Sá Pereira",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5653320__1953?utm_source=1953&utm_medium=feed&keyword=Bibliotec%C3%A1rio&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   },
   {
@@ -8880,123 +8997,6 @@
     "city": "RIO DE JANEIRO",
     "state": "RJ",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5656219__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-atendimento&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Bio ritmo | consultor de atendimento | shopping metropolitano barra",
-    "description": "<p>Como é o ambiente de trabalho?<br/> Nos esforçamos para manter um ambiente descontraído, onde a opinião de todos reflete nas decisões da equipe. Trabalhamos de forma colaborativa e criativa. Estamos em constante evolução e sempre abertos a novas tendências. </p><br/>         <p>Responsabilidades da Oportunidade<br/> <ul><li  ><p  >Recepção e Atendimento ao Cliente: Receber os clientes e visitantes, fornecer informações sobre os serviços da academia e resolver dúvidas. </p> </li><li  ><p  >Controle de Acesso: Monitorar o acesso dos membros e visitantes, assegurando um atendimento gentil e ágil. </p> </li><li  ><p  >Resolução de Problemas: Lidar com questões de clientes de forma eficiente e profissional. </p> </li><li  ><p  >Apoio no atendimento de vendas se necessário </p> </li> </ul> </p><br/>         <p>Requisitos<br/> <p  >Ensino médio completo. </p><p  >Diferencial se estiver cursando superior (ed física ou outros) </p> </p><br/>",
-    "company": "Grupo Smart Fit",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656327__1953?utm_source=1953&utm_medium=feed&keyword=Bio-ritmo&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Bio ritmo | jovem aprendiz | shopping metropolitano barra",
-    "description": "<p>Como é o ambiente de trabalho?<br/> Nos esforçamos para manter um ambiente descontraído, onde a opinião de todos reflete nas decisões da equipe. Trabalhamos de forma colaborativa e criativa. Estamos em constante evolução e sempre abertos a novas tendências. </p><br/>         <p>Responsabilidades da Oportunidade<br/> - Irá auxiliar no atendimento dos clientes, orientando sobre o funcionamento da academia, os  planos e direcionando para o setor responsável realizar o atendimento.<br>- Fazer liberação de catraca e cadastro da digital de novos clientes;<br>- Conferencia de reserva de aulas coletivas. </p><br/>         <p>Requisitos<br/> Se você gosta de academia e de estar rodeado de pessoas, é simpático e pró ativo, esse é o seu lugar! </p><br/>",
-    "company": "Grupo Smart Fit",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656328__1953?utm_source=1953&utm_medium=feed&keyword=Bio-ritmo&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Clone: analista financeir(a)o - 3500,00  zona sul",
-    "description": "<p> ANALISTA FINANCEIRO. </p><p>Carga Horaria: 44 hs semanais<br />Salário: 3.500 reais + VT + alimentação </p><p>Resumo do Cargo:<br />Responsável por controlar, planejar e analisar as finanças do restaurante, garantindo uma<br />gestão eficiente de receitas, despesas, fluxo de caixa e resultados. Atua diretamente no<br />suporte à tomada de decisões estratégicas, com foco em rentabilidade e saúde financeira<br />do negócio. </p><p><br />Principais Atividades:<br />• Elaborar e analisar relatórios financeiros (DRE, fluxo de caixa, balanço gerencial);<br />• Realizar conciliação bancária e controlar contas a pagar e a receber;<br />• Monitorar o desempenho financeiro diário, semanal e mensal do restaurante;<br />• Acompanhar e projetar o fluxo de caixa, sugerindo ações preventivas e corretivas;<br />• Apoiar no controle do CMV (Custo de Mercadoria Vendida) e CMO (Custo de Mão<br />de Obra);<br />• Gerenciar indicadores financeiros e propor melhorias de desempenho;<br />• Auxiliar na precificação dos produtos e análise de rentabilidade do cardápio;<br />• Apoiar auditorias internas e externas, assegurando conformidade fiscal e contábil;<br />• Apoiar o setor de compras com análises financeiras de fornecedores e estoques;<br />• Colaborar com a elaboração do orçamento anual e seu acompanhamento<br />periódico. </p><br>Requisitos:<br><p>Requisitos:<br />• Ensino superior completo em Administração, Economia, Contabilidade ou áreas<br />correlatas;<br />• Experiência anterior na área financeira, preferencialmente no segmento de<br />alimentação ou varejo;<br />• Domínio de Excel e sistemas de gestão financeira;<br />• Perfil analítico, proativo e com forte senso de responsabilidade;<br />• Desejável conhecimento de indicadores de performance (KPIs) e margem de<br />contribuição.<br />Diferenciais:<br />• Vivência em restaurante ou casa de carnes; </p><p>TODA ROTINA MENCIONADA ACIMA , IMPORTANTE ESTABILIDADE EM CARTEIRA EXPERIENCIA NA ROTINA ACIMA DESCRITA , SERA TESTADA.,  </p><br>Benefícios<br><p>REF LOCAL + TRANSPORTE  </p>",
-    "company": "RHFOOD",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656404__1953?utm_source=1953&utm_medium=feed&keyword=Clone-analista-financeir&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Vaga exclusiva pessoas com deficiência (pcd) - adidas shopping rio sul/rj",
-    "description": "<p>O Grupo Nomura possui experiência mais de 20 anos de varejo e é responsável pelas operações de franquias das marcas: Arezzo, Schutz e Adidas. Consolidando um total de 36 Unidades de negócio. Estamos presente em SC, SP e RJ e contamos hoje com mais de 500 colaboradores. </p>   <p>VAGA EXCLUSIVA PARA PESSOAS COM DEFICIÊNCIA - PCD  </p> <ul> <li>Cuidar e zelar pela organização da loja, organizar e armazenar os produtos conforme padrão; </li> <li>Garantir um ambiente de estoque eficaz e mantê-lo. (incluindo todas as mercadorias); </li> <li>Estar disponível para apoiar outros membros da equipe quando necessário; </li> <li>Executar procedimentos de estoque de acordo com as políticas existentes. </li>  </ul>",
-    "company": "Fashion Shoes Comercio De Calcados E Confeccoes Eireli",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656432__1953?utm_source=1953&utm_medium=feed&keyword=Vaga-exclusiva-pessoas&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Supervisor - shopping tijuca/rj",
-    "description": "<p>Somos uma sorveteria artesanal e estamos procurando dois Supervisores, um para o turno da noite e outro para o turno da manhã, onde essa pessoa irá auxiliar a gerente nas questões do dia a dia da loja além de treinar funcionários, resolver eventuais problemas no turno, atendimento ao cliente, ser o responsável pela loja na ausência da gerente, dentre outros. Tendo como principais responsabilidades coordenar todos os processos da loja, na ausência do gerente e sob sua orientação, a fim de cumprir todas as metas de resultados definidas para seu turno, assegurando o bom funcionamento e operação da loja. Auxiliar a gerente nas questões gerenciais da loja, orientação de colaboradores, gestão de conflitos, reclamação de clientes. Coordenar e treinar colaboradores com relação à atendimentos ao cliente, processos de fabricação da loja, limpeza e organização. Abertura e fechamento de caixa, recebimento de mercadoria. Auxiliar na resolução dos problemas que ocorrem na loja, sejam eles técnicos, de colaboradores ou clientes.  </p> <p>Vaga para o Shopping Tijuca. Salário de 1.860, mais 500,00 de vale refeição/alimentação e o vale transporte. Escala 6 por 1. </p>",
-    "company": "CALEBITO SORVETERIA ARTESANAL",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656517__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-shopping&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Atendente - shopping tijuca/rj",
-    "description": "<p>Resumo do trabalho<br>Fornecer um serviço amigável e criar uma experiência excepcional para todos os nossos clientes. O principal objetivo de cada atendente é proporcionar aos nossos clientes um momento tão maravilhoso para que eles sempre voltem à nossa sorveteria.<br>Descrição das atividades<br>Promover, trabalhar e agir de maneira consistente com a missão da sorveteria;<br>Monitorar e dar suporte para criar uma experiência memorável aos clientes. Garantir que eles estejam satisfeitos com o serviço;<br>Responder prontamente, com cortesia e corrigir qualquer problema que o cliente possa ter;<br>Organizar e limpar o salão, e deixar tudo pronto para o início dos trabalhos;<br>Conhecer profundamente o cardápio e todos os itens que podem ser adicionados à parte;<br>Fazer recomendações que você genuinamente sente que seus clientes irão desfrutar;<br>Auxiliar na limpeza do salão durante o expediente;<br>Verificar os estoques de guardanapo e papel toalha bem como organizar e higienizar esses itens para o uso dos clientes;<br>Verificar o estoque de todos os insumos e produtos utilizados durante o expediente de trabalho: </p> <p> Verificar os pedidos dos clientes e preparar conforme descrito no recibo; </p> <p> Conhecer e explicar aos clientes os sabores dos sorvetes bem como informar os ingredientes utilizados na preparação;<br>Fazer casquinhas e disquinhos conforme o planejamento de produção diário caso haja necessidade;<br>Armazenar as casquinhas e disquinhos corretamente caso haja necessidade;<br>Retirar o lixo no final do expediente;<br>Agradecer os clientes por sua visita e convidá-los a retornar;<br>Participar de todas as reuniões agendadas de funcionários e dar sugestões de melhoria;<br>Auxiliar os colegas de trabalho para atender às necessidades dos clientes e apoiar o bom funcionamento da sorveteria;<br>Substituir colegas de trabalho quando necessário, para garantir padrões de atendimento ao cliente e operações eficientes;<br>Receber e cuidar do seu uniforme por todo o tempo que permanecer na empresa;<br>Trabalhar devidamente uniformizado todos os dias;<br>Cumprir rigorosamente a jornada de trabalho, sendo pontual;<br><br></p>",
-    "company": "CALEBITO SORVETERIA ARTESANAL",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656518__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-shopping&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Assistente de Recursos Humanos",
-    "description": "<p>O Assistente de RH é responsável por apoiar os processos de gestão de pessoas, garantindo o cumprimento das normas trabalhistas e a eficiência das rotinas do setor. Atua diretamente no recrutamento e seleção, gestão de admissões e desligamentos, controle de benefícios e folha de pagamento, assegurando que todas as obrigações sejam cumpridas corretamente. </p>   <ul> <li>Conduzir processos de recrutamento e seleção, incluindo triagem de currículos, entrevistas e encaminhamento de candidatos para aprovação; </li> <li>Realizar procedimentos de admissão e desligamento, garantindo o correto cumprimento das normas trabalhistas; </li> <li>Controlar e administrar benefícios corporativos (vale-transporte, vale-alimentação, assistência médica, entre outros); </li> <li>Efetuar o fechamento da folha de ponto e repassar informações para a confecção da folha de pagamento; </li> <li>Controlar comissionamentos e bonificações dos colaboradores, garantindo precisão nos cálculos e pagamentos; </li> <li>Agendar exames admissionais e demissionais, conforme exigências legais; </li> <li>Realizar a integração de novos funcionários, promovendo uma ambientação eficaz na empresa; </li> <li>Emitir relatórios setoriais, analisando indicadores de desempenho e apresentando informações relevantes para a gestão; </li> <li>Manter o arquivamento e controle de documentação dos colaboradores atualizado e organizado; </li> <li>Prestar apoio na transmissão de dados para a contabilidade, garantindo a correta gestão de informações trabalhistas. </li>  </ul>",
-    "company": "SR PETRO SERVICOS E COMERCIO LTDA",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656561__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Recursos&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Assistente Financeiro",
-    "description": "Executar e controlar atividades operacionais e administrativas do setor financeiro, assegurando a correta movimentação financeira da empresa, o cumprimento dos prazos e a confiabilidade das informações para a tomada de decisão estratégica   Principais Responsabilidades: <ul> <li>Controle e análise de contas a pagar e receber; </li> <li>Conciliação bancária e conferência de extratos; </li> <li>Cálculo de comissões de vendas; </li> <li>Emissão e organização de notas fiscais e documentos de cobrança; </li> <li>Fechamento de XMLs para envio à contabilidade; </li> <li>Acompanhamento dos recebíveis conforme NFs entregues; </li> <li>Tratamento de não conformidades relacionadas a recebíveis; </li> <li>Preenchimento de relatórios gerenciais e fluxo de caixa; </li> <li>Apoio na elaboração de relatórios financeiros (DRE); </li> <li>Acompanhamento de renovações de certidões e documentos da empresa; </li> <li>Autorização e controle de fretes e compras setoriais; </li> <li>Gestão de e-mails de deduções financeiras e tratativas com clientes; </li> <li>Autorizações de infraestrutura, manutenção preventiva e corretiva; </li> <li>Autorização de suprimentos (lanche, limpeza, materiais de escritório). </li>  </ul> Requisitos: <ul> <li>Ensino superior em Administração, Finanças, Contabilidade ou áreas afins; </li> <li>Experiência anterior na área financeira (mínimo 1 ano); </li> <li>Boa capacidade de organização e atenção aos detalhes; </li> <li>Conhecimento em sistemas financeiros e boa prática em Excel; </li> <li>Boa comunicação, responsabilidade e proatividade. </li>  </ul> Diferenciais: <ul> <li>Conhecimento em relatórios financeiros e demonstrativos (DRE); </li> <li>Experiência com ferramentas SAP ARIBA, SENIOR SISTEMA </li>  </ul>",
-    "company": "SR PETRO SERVICOS E COMERCIO LTDA",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656562__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Financeiro&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Supervisor comercial - transportadora - duque de caxias/rj (1226)",
-    "description": "Supervisionar e coordenar as atividades inerentes à área de vendas da Filial, contribuindo com a gerência na definição dos critérios e prioridades em cada processo, visando garantir o cumprimento das metas e indicadores estabelecidas, em termos de volume de vendas, participação de mercado e lucratividade, bem como assegurar o padrão de qualidade, das ações e das diretrizes estabelecidas, bem como buscando novas tecnologias para o aumento da produtividade, para a automação e sustentação do negócio.<br>(1226) Supervisor Comercial - MenvieVagas",
-    "company": "Confidencial",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656589__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-comercial&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Banco de talentos  -brasil",
-    "description": "<p>Perfil desejado: </p><p><br></p><ul><li>Formação técnica ou superior (concluída ou em andamento); </li><li>Proatividade, atenção aos detalhes e espírito de equipe; </li><li>Disponibilidade para trabalhar em laboratório, escritório ou campo; </li><li>Interesse em contribuir para a preservação ambiental e conformidade regulatória. </li> </ul><p>Áreas de interesse: </p><p><br></p><ul><li>Química, Biologia, Meio Ambiente e áreas correlatas  </li><li>Coleta e amostragem ambiental  </li><li>Análises laboratoriais (água, solo, efluentes, resíduos)  </li><li>Garantia e Controle de Qualidade  </li><li>Comercial e Atendimento Técnico ao Cliente  </li><li>Administrativo e Operacional  </li> </ul>",
-    "company": "Oceanus",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656614__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Estágio em geografia (licenciatura) - 81483",
-    "description": "Colégio renomado de Ensino Fundamental e Ensino Médio seleciona estudantes de GEOGRAFIA para oportunidade de estágio.Atividades: Dar aulas de reforço no contraturno escolar para alunos do Fundamental 2 ou Ensino Médio, eventual substituição de professor em sala de aula, dentre outras atividades pertinentes a monitoria de Geografia.Local: TijucaHorário: 10h às 16h - segunda a sexta Oferece bolsa-auxílio de R$ 810,70 + auxílio-transporte (R$ 189,20/mês)",
-    "company": "Fundação Mudes",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656679__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-geografia&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Banco de talentos - zona sul",
-    "description": "A American Pet está com vagas abertas para Petrópolis - RJ! Unidades: COPACABANA - IPANEMA - BOTAFOGO - CATETESugberenteOperadora de CaixaOperador de LojaAquarista",
-    "company": "American Pet",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656688__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Sdr - pré-vendedor (a)",
-    "description": "Nosso cliente é uma agência digital brasileira especializada em estratégias criativas, conteúdo e tecnologia para marcas que desejam se conectar com grandes audiências. Está em busca de um(a) SDR - PRÉ-VENDEDOR(A) com perfil proativo, comunicativo e focado em resultados!Será responsável por:Fazer o primeiro contato com leads inbound e outbound via LinkedIn, WhatsApp e e-mail;Pesquisar contexto do lead e da marca antes da abordagem;Enviar materiais personalizados e convidar para reunião com nosso time comercial;Atualizar CRM (Pipedrive) e manter pipeline organizado;Acompanhar as primeiras etapas do funil com foco em gerar oportunidades reais;Manter relacionamento e engajamento com leads qualificados.",
-    "company": "Sales Rocket",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5656701__1953?utm_source=1953&utm_medium=feed&keyword=Sdr-pr%C3%A9-vendedor&location=RIO-DE-JANEIRO&geoID=19",
     "tipo": ""
   }
 ]
