@@ -1,5 +1,113 @@
 [
   {
+    "title": "Staff Application Security Engineer",
+    "description": "<p><h3>Overview </h3> <p>Staff Application Security Engineers, Ledn is interested in hearing from you! </p> <p>Ledn is a global financial services company built for digital assets, helping to improve the everyday lives of Bitcoin holders while building generational wealth for the future. We offer a suite of egalitarian lending, savings and trading products to digital asset holders in over 150 countries around the world. Through our products & services, we can make a difference in the lives and futures of our clients - in real terms. Our team at Ledn is a passionate group of individuals from diverse backgrounds. What we all have in common is an unshakeable conviction that digital assets can democratize access to the global economy and Ledn's suite of products & services can play a critical role in doing so. The core values that guide us are: act with integrity always, own it, have a passion for progress, and lead with empathy. Combining these values with our conviction make Ledn an unstoppable force in changing the world for the better. Come join us as we build, innovate and revolutionize financial services! </p> <h3>The Opportunity </h3> <p>We are seeking a full time Staff Application Security Engineer with deep expertise in Application Security, Identity & Access Management, and Confidential Computing to strengthen the security of our Bitcoin-backed loan platform. Security is fundamental to protecting our customers and business, and this role will drive both the tactical improvements and long-term strategy for securing our applications and authentication systems. You will work across our JavaScript/TypeScript services, AWS serverless stack (Lambda, API Gateway, Cognito, SNS, SQS), MongoDB and Kubernetes microservices, and take ownership of evolving our authentication layer toward modern, phishing-resistant approaches. In addition, you will design and operate AWS Nitro Enclaves to protect critical data and cryptographic operations in isolated, verifiable environments. This is a hands-on engineering role with direct impact on product security, infrastructure security, and customer trust. </p> <h3>Responsibilities </h3> <ul> <li>Application Security: Lead secure design and code reviews across engineering teams. Define and enforce secure coding practices for JavaScript/TypeScript services. Automate vulnerability detection (SAST, SCA, DAST) within CI/CD. Conduct threat modeling and risk assessments for new features. Partner with engineers to remediate vulnerabilities and improve secure development practices. </li> <li>Authentication & Identity: Own the roadmap for authentication and identity across customer and internal applications. Enhance existing Cognito-based identity architecture with stronger, phishing-resistant MFA solutions (e.g., WebAuthn, passkeys, hardware tokens). Collaborate with Product to align usability, compliance, and security in authentication flows. Define secure approaches to session management, device trust, and account recovery. </li> <li>Confidential Computing (AWS Nitro Enclaves): Design enclave-based architectures to isolate and protect sensitive workloads. Integrate Nitro Enclaves with KMS and secure APIs. Migrate high-value operations (e.g., cryptographic and financial processes) into enclave environments. Ensure compliance, auditability, and resilience of enclave workloads. </li> <li>Additional Security Domains: Harden AWS services (Lambda, API Gateway, SQS, SNS) with least-privilege IAM and secure key management. Improve Kubernetes security posture (RBAC, pod security, image scanning, runtime monitoring). Deploy and operate a SIEM framework; develop detection rules, dashboards, and incident playbooks. Support compliance initiatives (SOC 2, ISO 27001) with security controls and documentation. </li>  </ul> <h3>What You Bring To Ledn </h3> <ul> <li>10 years minimum of proven experience in Application Security with a focus on web and cloud-native applications. </li> <li>Strong knowledge of JavaScript/TypeScript/Golang/Python and modern web vulnerabilities (OWASP Top 10, auth bypasses, business logic flaws). </li> <li>Expertise with AWS security best practices, particularly in serverless architectures. </li> <li>Hands-on experience with AWS Nitro Enclaves for confidential computing. </li> <li>Deep understanding of authentication and authorization standards (OAuth2, OIDC, WebAuthn, FIDO2). </li> <li>Practical experience with Cognito / Auth0 (MFA, custom flows, secure session handling). </li> <li>Background in SIEM design and log correlation across cloud and application layers. </li> <li>Familiarity with Kubernetes security (RBAC, pod security, admission controls, image scanning). </li> <li>Experience with Secure Code Review. Understanding of software supply chain. Deep understanding of Linux internals. Remediate vulnerabilities identified in the penetration test report. </li> <li>Strong communication and collaboration skills, able to influence engineering and product teams. </li>  </ul> <h3>Nice To Haves </h3> <ul> <li>Familiarity with Bitcoin custody and key management practices. </li> <li>Knowledge of Infrastructure as Code security (Terraform, AWS CDK). </li> <li>Prior work on user-facing security features such as passwordless authentication, recovery flows, or device trust. </li>  </ul> <h3>Culture Fit </h3> <p>We\\'re looking for more than just operational excellence — we want a leader who thrives in the startup or tech environment and embodies our values. </p> <h3>The Ideal Candidate Will </h3> <ul> <li>Have a passion for progress by being adaptable and resilient, and is comfortable navigating ambiguity in a high-growth, fast-paced environment. </li> <li>Have a builder\\'s mindset, excited to create, iterate, and scale IS practices. </li> <li>Be a collaborative partner, able to influence across functions and cultures with empathy and clarity. </li> <li>Demonstrate integrity and accountability, especially in managing confidential information across diverse legal and cultural contexts. </li> <li>Have worked in a remote environment before. </li>  </ul> <h3>A Taste Of What We Provide </h3> <ul> <li>As one of the world\\'s leading digital asset companies, we provide tremendous growth opportunities. </li> <li>Comprehensive, best-in-class total rewards package that starts on your first day. </li> <li>We offer a competitive PTO package that ensures you have the time off you deserve. </li> <li>Ownership in the company via shared equity for Ledn employees. </li> <li>Remote work flexibility up to 180 days per year (subject to restrictions). </li> <li>A career that provides you with purpose in your job and a working environment free of barriers. </li> <li>We are an equal opportunity employment organization and pride ourselves on inclusivity, diversity, and the success that comes from diversity. </li>  </ul> <p>You may reach out to the Ledn team for accommodation requests throughout all stages of the recruitment process. Requests will be addressed confidentially. </p> <p>Ledn Working Environment: Our Ledn team is truly global, spanning North America, Latin America, South Africa and Europe. We are a remote-first environment. </p> <p>Please note, due to the high volume of applications, only those applicants that qualify will be contacted. As part of our selection process, shortlisted candidates may be asked to submit a short video response and we may review publicly available social media activity relevant to the role. No agencies or recruiters please. We do not accept unsolicited agency resumes and we are not responsible for any fees related to unsolicited resumes. </p> <p>Seniority level: Mid-Senior level </p> <p>Employment type: Full-time </p> <p>Job function: Information Technology </p> <p>Industries: Retail </p> </p> #J-18808-Ljbffr",
+    "company": "LEDN",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7155677__1953_a219638b865fb6881b0a40ed82284cc2?utm_source=1953&utm_medium=feed&keyword=Staff-Application-Security&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Staff Application Security Engineer",
+    "description": "<p><h3>Overview </h3><p>Ledn is a global financial services company built for digital assets, helping to improve the everyday lives of Bitcoin holders while building generational wealth for the future. We offer a suite of egalitarian lending, savings and trading products to digital asset holders in over 150 countries around the world. The core values are integrity, accountability, progress, and empathy, guiding us as we build, innovate and revolutionize financial services. We are seeking a full-time Staff Application Security Engineer with deep expertise in Application Security, Identity & Access Management, and Confidential Computing to strengthen the security of our Bitcoin-backed loan platform. </p><p>Security is fundamental to protecting our customers and business. This role will drive both tactical improvements and long-term strategy for securing applications and authentication systems. You will work across our JavaScript/TypeScript services, AWS serverless stack (Lambda, API Gateway, Cognito, SNS, SQS), MongoDB and Kubernetes microservices, and you will evolve our authentication layer toward modern, phishing-resistant approaches. You will also design and operate AWS Nitro Enclaves to protect critical data and cryptographic operations in isolated environments. This is a hands-on engineering role with direct impact on product security, infrastructure security, and customer trust. </p><p>About The Role </p><ul><li>Application Security: Lead secure design and code reviews across engineering teams; define and enforce secure coding practices for JavaScript/TypeScript services; automate vulnerability detection (SAST, SCA, DAST) within CI/CD; conduct threat modeling and risk assessments for new features; partner with engineers to remediate vulnerabilities and improve secure development practices. </li><li>Authentication & Identity: Own the roadmap for authentication and identity across customer and internal applications; enhance Cognito-based identity architecture with stronger, phishing-resistant MFA solutions (e.g., WebAuthn, passkeys, hardware tokens); collaborate with Product to align usability, compliance, and security in authentication flows; define secure session management, device trust, and account recovery. </li><li>Confidential Computing (AWS Nitro Enclaves): Design enclave-based architectures to isolate and protect sensitive workloads; integrate Nitro Enclaves with KMS and secure APIs; migrate high-value operations (cryptographic and financial processes) into enclave environments; ensure compliance, auditability, and resilience of enclave workloads. </li><li>Additional Security Domains: Harden AWS services (Lambda, API Gateway, SQS, SNS) with least-privilege IAM and secure key management; improve Kubernetes security posture (RBAC, pod security, image scanning, runtime monitoring); deploy and operate a SIEM framework; develop detection rules, dashboards, and incident playbooks; support compliance initiatives (SOC 2, ISO 27001) with security controls and documentation. </li> </ul><p>What You Bring To Ledn </p><ul><li>10 years minimum of proven experience in Application Security with a focus on web and cloud-native applications. </li><li>Strong knowledge of JavaScript/TypeScript/Golang/Python and modern web vulnerabilities (OWASP Top 10, auth bypasses, business logic flaws). </li><li>Expertise with AWS security best practices, particularly in serverless architectures. </li><li>Hands-on experience with AWS Nitro Enclaves for confidential computing. </li><li>Deep understanding of authentication and authorization standards (OAuth2, OIDC, WebAuthn, FIDO2). </li><li>Practical experience with Cognito / Auth0 (MFA, custom flows, secure session handling). </li><li>Background in SIEM design and log correlation across cloud and application layers. </li><li>Familiarity with Kubernetes security (RBAC, pod security, admission controls, image scanning). </li><li>Experience with Secure Code Review and understanding of software supply chain. </li><li>Deep understanding of Linux internals; Remediate vulnerabilities identified in the penetration test report. </li><li>Strong communication and collaboration skills, able to influence engineering and product teams. </li> </ul><p>Nice To Haves </p><ul><li>Familiarity with Bitcoin custody and key management practices. </li><li>Knowledge of Infrastructure as Code security (Terraform, AWS CDK). </li><li>Prior work on user-facing security features such as passwordless authentication, recovery flows, or device trust. </li> </ul><p>Culture Fit </p><ul><li>We’re looking for a leader who thrives in a startup or tech environment and embodies our values. The ideal candidate will: </li><li>Have a passion for progress by being adaptable and resilient, and comfortable navigating ambiguity in a high-growth, fast-paced environment. </li><li>Have a builder’s mindset, excited to create, iterate, and scale IS practices. </li><li>Be a collaborative partner, able to influence across functions and cultures with empathy and clarity. </li><li>Demonstrate integrity and accountability, especially in managing confidential information across diverse legal and cultural contexts. </li><li>Have worked in a remote environment before. </li> </ul><p>What We Provide </p><ul><li>Leading digital asset company offering tremendous growth opportunities. </li><li>Comprehensive, best-in-class total rewards package that starts on your first day. </li><li>Competitive PTO package to ensure you have time off you deserve. </li><li>Ownership in the company through shared equity; opportunity to work remotely worldwide for up to 180 days (subject to restrictions). </li><li>A career that provides purpose and removes barriers so you love what you do. </li> </ul><p>Equal Opportunity </p><p>We are an equal opportunity employment organization and pride ourselves on inclusivity and diversity. You may reach out to the Ledn team by emailing for accommodation requests throughout all stages of the recruitment process. Requests will be addressed confidentially. </p><p>Ledn Working Environment </p><p>Our team is global with colleagues across North America, Latin America, South Africa and Europe. We are a remote-first environment. </p><p>Please note, due to the high volume of applications, only those applicants that qualify will be contacted. Shortlisted candidates may be asked to submit a short video response and we may review publicly available social media activity relevant to the role. No agencies or recruiters please. We do not accept unsolicited agency resumes and we are not responsible for any fees related to unsolicited resumes. </p> </p> #J-18808-Ljbffr",
+    "company": "LEDN",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7155785__1953?utm_source=1953&utm_medium=feed&keyword=Staff-Application-Security&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Senior Manager, Agreement Management, Region South",
+    "description": "<p><p>Wärtsilä Energy leads the transition towards a 100% renewable energy future. We help our partners to accelerate their decarbonisation journeys through our market-leading technologies and power system modelling expertise. These cover decarbonisation services, future-fuel enabled balancing power plants, hybrid solutions, energy storage and optimisation technology, including the GEMS Digital Energy Platform. </p><p>Did you know Wärtsilä has delivered 79 GW of power plant capacity and more than 130 energy storage installations in 180 countries around the world? </p><p>In this fast changing world of energy, we are constantly on the lookout for future-oriented talent to join our team and to work towards enabling sustainable societies through innovation in technology and services - together. Want to join the ride? </p><h3>Overview </h3><p>We are looking for <b>Senior Manager, Agreement Management for our Americas, South Region </b>. The main goal of this position is to build and manage a strong team of Agreement Managers and Agreement management professionals to deliver excellent results and successful Long Term Service Agreements. </p><p>You will be part of a Regional Sales and Operations team within AMER for Region South. </p><p>You will be reporting to the GM Operations Region South. <b>The preferred location is Brazil </b>. </p><h3>Responsibilities </h3><ul><li>Lead the team of Agreement Managers in AMER Region South (Brazil, Argentina, Uruguay, Chile, Bolivia, Paraguay) to ensure that the scope of the service agreement is delivered to customers according to Agreement Management best practices. </li><li>Build and maintain strong relationships with customers and internal stakeholders/support functions, ensuring clear communication and alignment on contract expectations. </li><li>Follow-up customer satisfaction and ensure that agreed actions are taken in the assigned region. </li><li>Ensure that the Agreements in the region are executed in accordance with Wärtsilä Services guidelines, the Agreement Management process, and general management practices in a safe and cost-effective way. </li><li>Implement all Agreement Management / Sales related IM tools & practices including CRM, Sales funnel, Estimo, CMT, QlikView, Qlik Sense etc. </li><li>Put customers first - Prioritize actions leading to increasing customer satisfaction. </li><li>Continuously develop an understanding of how to create value for customers and customers business. </li><li>Follow up on customer satisfaction and ensure that agreed actions are taken in the area or in the assigned responsibility area. </li><li>Promote the company´s values, strategic priorities and the Wärtsilä Way within the Agreements team. </li><li>Ensure renewals of contracts and seek opportunities to move our customers up the value ladder. </li><li>Implement Agreement Management action plans, processes, and guidelines in the assigned responsibility area. </li><li>Ensure optimization of assets such as inventories, receivables, fixed assets, etc. tied to the Agreements. </li><li>Ensure quality of work related to the contract execution relates to QHES policies and procedures in the region. </li><li>Follow up financial, operative, and technical performance through reviews and reporting and take corrective actions. </li> </ul><h3>Desired behaviors </h3><ul><li>Achieving results </li><li>Making change happen </li><li>Decisiveness and action orientation </li><li>Planning and target setting </li><li>Developing self and others </li><li>Communication </li><li>Situational and cultural sensitivity </li><li>Business and Customer focus </li> </ul><h3>As an ideal candidate you will have </h3><ul><li>Proven track record as a leader and people developer and multiple years of work experience required in sales and/or operations. </li><li>Excellent understanding of Service Agreements and products from technical and contractual prospective. </li><li>Lives one Wärtsilä through Always considering the full picture and not short-term wins and sub-optimized performance. </li><li>Embedding coaching in everyday interactions to continuously develop the competence of the organization. </li><li>Open-minded/inclusive - work for the good of the team rather than personal success; demonstrate equality by taking diversity, culture into account; allow learning from mistakes. </li><li>Ability to negotiate and solve complex problems while working with company standards. </li><li>Strong desire to achieve results - work as a Team, work for a Team. </li><li>Be an agent for change, inspire and motivate others. Apply continues improvement concepts in the organization. </li><li>Structured and analytical minded. </li><li>Business proficiency in Portuguese, English and Spanish (desired). </li> </ul><h3>Your success will be measured by </h3><ul><li>Customer Satisfaction </li><li>Employee Satisfaction & Engagement </li><li>Agreements financial performance </li> </ul><h3>An ideal candidate </h3><ul><li>Has relevant education, such as B.Sc. or M.Sc. Engineering /Business similar. </li><li>Has a strong commercial & contractual understanding. </li><li>Has coaching skills to stretch the team performance. </li><li>Has experience in Energy Market, previous experience in Brazil/Argentina markets is a plus. </li><li>Drives Wärtsilä Purpose and demonstrates Wärtsilä values. </li><li>Is a recognized and respected leader with great ability to build high performing teams based on trust. </li><li>Is able to create clarity on direction and vision. </li><li>Inspires people to act towards future goals. </li><li>Has a business and goal-oriented mind-set. </li><li>Drives results in excellent planning and execution skills. </li> </ul><p>Contact person to give further information: Javier Ricciarelli </p><p>Last application date: 25/10/2025 </p><p>At Wärtsilä we value, respect and embrace all our differences, and are committed to diversity, inclusion and equal employment opportunities; everyone can be their true self and succeed based on their job-relevant merits and abilities. </p><p>Please note that according to Wärtsilä policy, voluntary consent for a security check may be required from candidates being considered for this position, depending on the applicable country. </p><p><b>This is Wärtsilä </b> </p><p>Wärtsilä is a global leader in innovative technologies and lifecycle solutions for the marine and energy markets. Our team of 18,300 professionals, in more than 230 locations in 77 countries, shape the decarbonisation transformation of our industries across the globe. Read more on  . </p><p>#wärtsiläenergy #FuelYourPower #LI-MD1 </p> </p> #J-18808-Ljbffr",
+    "company": "Wärtsilä",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7155921__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Manager-Agreement&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "MEDICO AUDITOR - HOSPITAL CARDOSO FONTES",
+    "description": "<p><h3>Job description </h3> <p>Desde dezembro de 2024, a SPDM/PAIS é responsável, em parceria com a Secretaria Municipal de Saúde do Rio de Janeiro, pelo gerenciamento do <b>Hospital Cardoso Fontes </b>. </p> <p>OHospital Cardoso Fontes, é direcionado ao atendimento de média e alta complexidade. É uma das principais referências hospitalares da Zona Oeste do Rio de Janeiro. A unidade é reconhecida por sua atuação na área de <b>fisioterapia oncológica, ginecologia, nefrologia (sistema urinário) e tratamentos em crianças com insuficiência renal, pneumologia e urologia. </b> </p> <h3>Main responsibilities </h3> <p>Analisar prontuários de pacientes, bem como todo e qualquer procedimento médico hospitalar, a fim de garantir a qualidade no serviço prestado. </p> <h3>Requirements and skills </h3> <p>Ensino Superior Completo em Medicina. </p> <p>Residência Médica ou Título de Especialista. </p> <p>Registro Ativo no Conselho da Classe. </p> <h3>Additional information </h3> <p>Jacarepaguá, RJ </p> <p>Horário de trabalho: A combinar </p> <p>Carga horária: 20 horas semanais. </p> <p><b>Profissionais de empresas parceiras, fornecedores e/ou prestadores de serviços, vínculo com grau de parentesco ou afinidade no mesmo serviço ou que atuam em outra modalidade contratual (vínculo com o prestador), deverão observar normativas de RH vigentes, através de consulta junto ao setor de Recrutamento e Seleção. </b> </p> </p> #J-18808-Ljbffr",
+    "company": "SPDM/PAIS RIO DE JANEIRO",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156080__1953?utm_source=1953&utm_medium=feed&keyword=MEDICO-AUDITOR&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Consultor SAP S4 HANA MM",
+    "description": "<p><h3>Descrição </h3><p>Atuar no suporte AMS e/ou projetos de implementação e rollouts do módulo SAP MM (Materials Management). </p><p>Atuação remota; </p><p>Inicio Imediato; </p><p>Periodo 2 meses (Podendo ser renovado); </p><p>Contratação PJ; </p><h3>Responsabilidades </h3><ul><li>Atuar no suporte AMS e/ou projetos de implementação e rollouts do módulo SAP MM (Materials Management). </li><li>Realizar configuração e customização do módulo MM conforme requisitos do negócio; </li><li>Participar de levantamento de requisitos junto ao cliente; </li><li>Elaborar especificações funcionais para desenvolvimentos (RICEFW); </li><li>Executar testes unitários, integrados e de homologação com o cliente; </li><li>Apoiar áreas de negócio na solução de incidentes e melhorias contínuas; </li><li>Trabalhar em integração com outros módulos SAP (SD, FI, WM, PP, entre outros); </li><li>Elaborar documentação funcional e orientar usuários-chave. </li> </ul><h3>Regime De Contratação </h3><p>Pessoa Jurídica </p><h3>Departamento </h3><p>SAP </p> </p> #J-18808-Ljbffr",
+    "company": "Thera Consulting",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156112__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-S4&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Desenvolvedor(a) Mobile (.NET Maui)",
+    "description": "<p><h3>Overview </h3><p>Se você tem paixão por inovação e busca trabalhar em um ambiente ágil, colaborativo e desafiador, esta pode ser a sua oportunidade! O Asaas é a conta digital completa para empresas. Ajudamos mais de 160 mil empreendedores em todo o Brasil a automatizar a gestão financeira das suas empresas e melhorar o relacionamento com seus clientes. Através da conta digital Asaas você emite, envia e recebe cobranças, gera notas fiscais e gerencia todo o financeiro do seu negócio em um só lugar. </p><p>Para nosso time de Engenharia, buscamos pessoas talentosas e capazes de construir sistemas complexos e de alta qualidade. Você estará diretamente em envolvimento com o negócio da empresa através da construção e manutenção de nossos sistemas. Nosso principal pilar é a qualidade daquilo que entregamos, entendemos que o importante é fazer bem feito ao invés de fazer rápido. Focamos na simplicidade da solução, nas entregas em pequenas partes e na autonomia das pessoas desenvolvedoras, a partir de um trabalho colaborativo. Se interessou pela oportunidade mas não reside em Joinville? Não tem problema, possibilitamos o trabalho remoto/home office. </p> <h3>Responsabilidades </h3> <ul> <li>Transformar lógica de negócio em código seguro e de alta qualidade, respeitando os padrões e práticas estabelecidos; </li> <li>Participar da definição e implementação de novas funcionalidades e correção de bugs; </li> <li>Compreender e discutir os problemas e soluções propostas, buscando sempre a melhor solução técnica para os desafios encontrados; </li> <li>Revisar o código entregue pelos colegas de equipe; </li> <li>Dividir grandes entregas em pequenos entregáveis coesos; </li> <li>Monitorar a solução implementada em produção, avaliando erros, performance e disponibilidade; </li> <li>Avaliação/validação técnica das entregas de Design; </li> <li>Garantir a acessibilidade do produto; </li> <li>Colaborar com melhorias ou novos padrões na base de conhecimento da Engenharia. </li>  </ul> <h3>Requisitos e Qualificações </h3> <ul> <li>Experiência com desenvolvimento em Xamarin Forms e/ou .NET MAUI; </li> <li>Conhecer o padrão arquitetural MVVM; </li> <li>Experiência no desenvolvimento nativo por meio de Handlers/Renderers; </li> <li>Conhecer a estrutura de funcionamento das plataformas nativas, como versionamento, permissões, activities, viewControllers, fragments e afins; </li> <li>Interesse e facilidade em aprender novas práticas e tecnologias; </li> <li>Domínio de versionamento de código utilizando Git; </li> <li>Inglês técnico. </li>  </ul> <h3>Diferenciais </h3> <ul> <li>Experiência com Java; </li> <li>Experiência com Grails; </li> <li>Experiência em banco de dados MySQL; </li> <li>Experiência em criação e evolução de APIs Rest. </li>  </ul> <p>A vaga aceita trabalho remoto? </p> <p>Sim </p> <h3>Seniority level </h3> <ul> <li>Mid-Senior level </li>  </ul> <h3>Employment type </h3> <ul> <li>Full-time </li>  </ul> <h3>Job function </h3> <ul> <li>Other </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "ASAAS",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156132__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Mobile-NET&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Gestor(a) de CRM",
+    "description": "<p><p><b>Vaga: Gestor(a) Especialista em CRM </b> </p><p>A <b>iLimit Marketing </b> acredita em um mundo sem limites, onde resultados grandiosos são apenas o começo. Com mais de 2 anos de atuação no mercado e mais de 200 projetos entregues com sucesso, somos especialistas em performance digital e ajudamos empresas de diferentes segmentos a crescerem de forma consistente. </p><p>Hoje, nossa equipe é composta por 10 profissionais apaixonados por inovação e performance, e buscamos um(a) <b>Gestor(a) especialista em CRM </b> para potencializar nossas estratégias digitais e gerar impacto real nos resultados dos clientes. </p><h3>Sobre a Vaga </h3><p>Estamos em busca de um(a) profissional <b>focado em CRM e automação de marketing </b>, com olhar analítico e estratégico para integrar dados, automações e funis de vendas, garantindo que cada lead seja acompanhado até a conversão. </p><h3>Sua missão como Gestor(a) de CRM: </h3><ul><li>Criar, implementar e gerenciar fluxos de automação e nutrição de leads. </li><li>Estruturar e integrar ferramentas de CRM (RD Station, HubSpot, Pipedrive, Zoho ou similares). </li><li>Organizar e otimizar funis de vendas dentro do CRM. </li><li>Garantir a correta integração entre captação de leads e CRM (formulários, APIs, Zapier, integrações diretas). </li><li>Monitorar e analisar KPIs de CRM (taxa de conversão, CAC, LTV, engajamento de leads, entre outros). </li><li>Trabalhar junto ao time de marketing e vendas, trazendo insights baseados em dados. </li> </ul><h3>O que buscamos: </h3><ul><li>Experiência sólida em CRM e automação de marketing (obrigatório). </li><li>Domínio em pelo menos uma das ferramentas: RD Station, HubSpot, Pipedrive ou similares. </li><li>Capacidade analítica para estruturar e interpretar dados de funil de vendas. </li><li>Comprometimento e disponibilidade em horário comercial. </li><li>CNPJ ativo (contrato PJ). </li><li>Alinhamento com nossa cultura de fé, foco e performance ilimitada. </li> </ul><h3>Remuneração </h3><p>De <b>R$ 2.000,00 a R$ 4.500,00 </b>, de acordo com experiência e nível de entrega. </p><h3>O que oferecemos: </h3><ul><li>Equipe 100% remota, com cultura forte, leve e de alta performance. </li><li>Plano de carreira real, com possibilidade de crescimento acelerado na empresa. </li><li>Acesso a treinamentos, mentorias e imersão no digital. </li><li>Bonificações por performance. </li><li>Espaço para se desenvolver como profissional e como pessoa. </li> </ul><p>Se identificou? Então mostra que você pensa ilimitado e vem transformar resultados com a gente! </p> </p> #J-18808-Ljbffr",
+    "company": "ILimit Marketing",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156183__1953?utm_source=1953&utm_medium=feed&keyword=Gestor-de-CRM&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Director, Smart Automation Delivery",
+    "description": "<p><h3>Overview </h3> <p>Experian North America is scaling AI-driven Operational Excellence to transform how we work and serve customers. We're looking for a hands-on engineering leader who's fluent in GenAI/agentic systems and legacy automation (RPA/low-code) — someone who can lead by doing, inspire by example and promote the vision. </p> <p>You will lead our award-winning Smart Automation & Delivery organization to the next level, promoting next-gen AI transformation while ensuring responsible evolution from traditional RPA toward agentic workflows. You will be central to how we reshape operations with AI, from legacy to intelligent automation, from ideas to measurable outcomes. You will report to the VP Head of Productivity and Transformation. </p> <h3>Responsibilities </h3> <ul> <li><b>Create and Promote the Roadmap: </b> Promote, educate, identify, prioritize and deliver high-impact automations across teams with clear value and fast time-to-benefit. </li> <li><b>Build and Scale AI-Powered Systems: </b> Architect and evolve a scalable agentic automation platform (multi-agent orchestration, tool use, evaluation/guardrails) and deliver use cases from idea to production. </li> <li><b>Promote Engineering Excellence: </b> Champion modern SDLC practices - CI/CD, IaC, automated testing, observability, SRE/on-call, and reliability-by-design practices for AI and automation solutions. </li> <li><b>Govern with Speed and Safety: </b> Partner with Global CoEs, Legal, Compliance, and Security to move quickly and safely while managing risks. </li> <li><b>Measure Outcomes: </b> Track return on investment, capacity creation, and adoption. </li> <li><b>Lead and Grow Talent: </b> Coach a versatile global team (Business Analysts, Engineering, Support). Foster a learning culture, mentor new leaders, and up-skill the team in GenAI/agentic and automation disciplines. </li>  </ul> <h3>About Experian </h3> <p>Experian is a global company in data services, helping organizations and consumers manage risk and make informed decisions. We empower individuals and businesses at important life moments, from purchasing a home to expanding customer bases. With over 125 years of experience, we specialize in data gathering, analysis, and fraud prevention. Our 21,700 employees across 30 countries are dedicated to innovation and creating opportunities for a better tomorrow. Recently ranked the fifth-best company to work for in Costa Rica, we prioritize inclusive culture, employee well-being, and career development. Join us at  to be part of our team. </p> <h3>Experience and Skills </h3> <ul> <li><b>Engineering and leadership experience: </b> 10+ years in software/automation engineering, including 5+ years leading delivery teams. </li> <li><b>Technology expertise: </b> Experience with GenAI/agentic systems (e.g., multi-agent orchestration, tool calling, RAG) and enterprise automation (RPA/low-code). </li> <li><b>Modern SDLC Know-How: </b> Cloud-native (Azure/AWS), containerized development, APIs, CI/CD, IaC, automated testing, observability, and production support (SRE/SLA). </li> <li><b>Proven track record: </b> Shipping production solutions with measurable growth. </li> <li><b>Influence at all levels: </b> Experience in executive engagement and cross-functional influence, with the ability to translate technical work into growth. </li> <li><b>Collaborative mindset: </b> Eagerness to contribute to a mission-driven team. Enthusiasm for innovation and using technology to solve our challenges will help you succeed in this role. </li> <li><b>Education: </b> Computer Science, Engineering or related bachelor's degree. </li>  </ul> <h3>Bonus </h3> <ul> <li>Lean Six Sigma (Green/Black), Agile/Scrum/SAFe. </li> <li>Cloud (AWS/Azure) or RPA certifications (i.e. Automation Anywhere, UiPath, Power Platform). </li> <li>Experience rolling out enterprise copilots/assistants and change management for tooling adoption. </li> <li>Experience leading shared services/CoE models globally. </li>  </ul> <h3>Additional Information </h3> <ul> <li><b>Benefits/Perks: </b> </li>  </ul> <p>Our benefits include: Medical, life and dental insurance, Asociacion Solidarista, International Share Save Plan, Flex Work/Work from home, Paid time off, Annual Performance Bonus, Education Reimbursement, Family Bonding, Bereavement Leave, Referral Program, and more. </p> <ul> <li>This is a fully remote job opportunity. #LI-Remote </li> <li>Our uniqueness is that we celebrate yours. Experian's culture and people are important differentiators. We take our people agenda very seriously and focus on what matters; DEI, work/life balance, development, authenticity, engagement, collaboration, wellness, reward & recognition, volunteering... the list goes on. Experian's people first approach is award-winning; Great Place To Work™ in 24 countries, FORTUNE Best Companies to work and Glassdoor Best Places to Work (globally 4.4 Stars) to name a few. Check out Experian Life on social or our Careers Site to understand why. </li>  </ul> <h3>Equal Opportunity </h3> <p>Experian is proud to be an Equal Opportunity and Affirmative Action employer. Innovation is an important part of Experian's DNA and practices, and our diverse workforce drives our success. Everyone can succeed at Experian and bring their whole self to work, irrespective of their gender, ethnicity, religion, colour, sexuality, physical ability or age. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity. </p> </p> #J-18808-Ljbffr",
+    "company": "Experian Group",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156296__1953?utm_source=1953&utm_medium=feed&keyword=Director-Smart-Automation&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Back-end Engineer Senior",
+    "description": "<p><h3>Overview </h3><p>Na Avenue, somos movidos por um propósito claro: expandir o potencial do investidor brasileiro, oferecendo acesso a oportunidades globais de investimento, com produtos, serviços e experiências que ajudam nossos clientes a construir um futuro financeiro mais sólido, diversificado e conectado ao mundo. A tecnologia é o motor da nossa atuação, em um ambiente dinâmico, colaborativo e com autonomia para propor, testar e escalar soluções que impactam milhares de clientes. </p><h3>No dia a dia </h3><p>Buscamos alguém com visão crítica, capacidade de execução e vontade de construir soluções robustas e escaláveis. Valorizamos quem se envolve com o problema, contribui com o time e busca entregar com qualidade e propósito. Se você gosta de atuar em squads multidisciplinares, com autonomia e responsabilidade, essa vaga é para você. </p><h3>Responsabilidades </h3><ul><li>Desenhar e propor a arquitetura de soluções; </li><li>Entender e priorizar entregas relevantes para a Avenue; </li><li>Suportar e monitorar as plataformas de seu contexto; </li><li>Implementar soluções escaláveis e robustas. </li> </ul><h3>Requisitos Obrigatórios </h3><ul><li>Conhecimento e experiência em Golang; </li><li>Desenvolvimento de serviços robustos e escaláveis; </li><li>Persistência de dados utilizando MySQL, Postgres, ES e Datastore; </li><li>Conhecimento sobre comunicação síncrona e assíncrona; </li><li>Desenhar comunicação entre os nossos serviços utilizando RabbitMQ e gRPC; </li><li>Conhecimento sobre Design Patterns e suas aplicações em Go; </li> </ul><h3>Diferenciais </h3><ul><li>Experiência trabalhando com serviços financeiros (não obrigatório, mas desejável). </li> </ul><h3>Informações adicionais </h3><p>Essa é uma vaga 100% home office para regime CLT. </p><h3>Benefícios </h3><ul><li>Vale refeição e vale alimentação atrativos; </li><li>Plano de Saúde Omint; </li><li>Plano Odontológico Amil; </li><li>Seguro de vida MetLife; </li><li>Wellhub ou TotalPass; </li><li>Auxílio home office no valor de R$200 mensais; </li><li>Home office boost: incentivo único no valor de R$2.000 depositado para upgrade do setup; </li><li>Incentivo educacional (reembolso para cursos, certificações e eventos); </li><li>Day off no mês do aniversário; </li><li>Psicologia Viva: sessões de terapia online gratuitas; </li><li>Auxílio Creche no valor de R$455 para cada filho(a) de até 5 anos; </li><li>Empresa Cidadã: licença maternidade e paternidade estendidas; </li><li>Bônus semestral (conforme regras formuladas pela Avenue); </li><li>Corretagem gratuita ilimitada e 50 operações com desconto no câmbio para operações de investimento no app da Avenue; </li><li>USD 100,00 depositados no primeiro salário para abrir sua conta na Avenue e começar a investir. </li> </ul><h3>Observação </h3><p>Localização: Greater Rio de Janeiro </p> </p> #J-18808-Ljbffr",
+    "company": "Avenue",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156299__1953?utm_source=1953&utm_medium=feed&keyword=Back-end-Engineer-Senior&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Senior Data Analyst",
+    "description": "<p><p>Somos uma empresa de tecnologia, cujo propósito é proporcionar e viabilizar uma Justiça melhor e gerar mais confiança nas relações sociais através do acesso à informação. </p> <p>Estamos caminhando para sermos reconhecidos como single source of truth para informações jurídicas e construir esse caminho não é trivial. </p> <h3><b>Jusbrasil em números: </b> </h3> <ul> <li>+ de 1,2 bi de documentos jurídicos de interesse público </li> <li>+ de 1PB de dados na nossa infraestrutura de tecnologia </li> <li>+ de 30 m de usuários </li> <li>+ de 700 colaboradores </li> <li>+ de 80% dos advogados brasileiros cadastrados </li>  </ul> <h3><b>Sobre a função </b> </h3> <p>No Jusbrasil, estamos avançando muito no setor de Data Analytics, utilizando dados para impulsionar a inovação e tomar decisões estratégicas. Nossa cultura é movida pela curiosidade e pela busca incessante por respostas nos dados. Estamos expandindo nossa equipe e procurando um(a) Analista de Dados Sênior que não apenas entenda profundamente a análise de dados, mas que também tenha a capacidade técnica para buscar e integrar novas fontes de informação, enriquecendo nosso ecossistema de dados. </p> <p>Como Analista de Dados Sênior, sua missão será transformar dados brutos em insights acionáveis que influenciarão diretamente a estratégia de negócios da Jusbrasil. Você será a ponte entre a análise de dados e a engenharia de dados, garantindo que nossas análises sejam cada vez mais ricas e completas, através da integração de dados de diversas fontes externas via APIs. </p> <p><b>Principais responsabilidades </b> </p> <ul> <li><b>Análise Estratégica: </b> Liderar projetos de análise complexos do início ao fim, desde a definição do problema e a coleta de dados até a apresentação de insights e recomendações para a liderança. </li> <li><b>Visualização e Storytelling com Dados: </b> Desenvolver dashboards interativos e relatórios claros (utilizando ferramentas como Metabase, Looker, etc.) para comunicar suas descobertas de forma eficaz para stakeholders técnicos e não técnicos. </li> <li><b>Modelagem e Testes de Hipóteses: </b> Aplicar métodos estatísticos e de modelagem para realizar análises preditivas, testes A/B e identificar tendências e oportunidades de crescimento. </li> <li><b>Extração e Integração de Dados via APIs: </b> Projetar, desenvolver e manter scripts (principalmente em Python) para extrair dados de APIs de serviços parceiros e plataformas de terceiros. </li> <li><b>Enriquecimento do Data Warehouse: </b> Trabalhar em colaboração com a equipe de engenharia de dados para integrar as novas fontes de dados ao nosso ambiente, garantindo a qualidade, consistência e disponibilidade da informação. </li> <li><b>Mentoria: </b> Atuar como referência técnica para outros analistas da equipe, compartilhando conhecimento e promovendo as melhores práticas em análise e manipulação de dados. </li>  </ul> <p><b>Habilidades mandatórias: </b> </p> <ul> <li>Sólida experiência como Analista de Dados, com um portfólio que demonstre a capacidade de gerar impacto nos negócios através de análises. </li> <li>Proficiência avançada em SQL para consultas complexas em bancos de dados relacionais e não relacionais. </li> <li>Experiência comprovada com ferramentas de Business Intelligence e Visualização de Dados. </li> <li>Forte conhecimento em programação com Python, especificamente para manipulação de dados (Pandas, NumPy) e para o consumo de APIs. </li> <li>Experiência prática na extração e automação de coleta de dados de APIs REST/GraphQL, compreendendo os processos de autenticação (OAuth, API Keys, etc.). </li> <li>Habilidade de comunicar insights complexos de forma simples e direta para diferentes públicos. </li> <li>Perfil proativo, curioso e com excelente capacidade de resolução de problemas; </li>  </ul> <p><b>Diferenciais </b>: </p> <ul> <li>Experiência com ferramentas de orquestração de dados/ETL (Airflow, etc) </li> <li>Experiência com tecnologias de comunicação assíncrona (Pub/Sub, Kafka, etc.). </li> <li>Familiaridade com a aplicação de Grandes Modelos de Linguagem (LLMs) para tarefas de análise de dados. </li> <li>Conhecimento em modelagem de dados para ambientes de Data Warehouse. </li>  </ul>  </p> #J-18808-Ljbffr",
+    "company": "Jusbrasil",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156324__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Analyst&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Linux System Administrator (Monitoring team)",
+    "description": "<p><b>Join Hostinger and we’ll grow fast! </b> </p><p>Is there a limit to growth? Not at Hostinger. </p><p>We’re constantly reaching new heights. With a team of 900 professionals, we are behind the success of over 4 million clients in 150 countries, helping them launch their e-shops, blogs, portfolios, businesses, and passion projects. </p><p><b>Our mission: </b> To build world-class solutions for anyone to easily succeed online </p><p><b>Our culture: </b> Guided by <b><a>10 company principles </a> </b> </p><p><b>Our formula for success: </b> Customer obsession, innovative products, and talented teams. </p> </br> <b>What You Will Do </b><ul><li>Participate in shift rotation to respond to product infrastructure alerts and incidents. </li><li>Monitor product infrastructure issues with tools like Prometheus, Grafana, and Graylog and have full access to the infrastructure. </li><li>Work on regular product infrastructure maintenance, debugging, enhancing, and development tasks. </li><li>Document actions so your findings turn into repeatable actions - and then into automation. </li><li>Optimize and implement automation on multiple projects with Ansible. </li><li>Implement new and improve current services using Python, Bash, or other tools most suitable for the task. </li> </ul><b>What We Expect </b><ul><li>You are <b>fluent in English </b> to work on a global team. </li><li>Experience with Linux system administration, coupled with a passion for monitoring and monitoring-driven operations. </li><li>Practical knowledge of using bash commands to debug logs, service outputs, and network/firewall issues. </li><li>An insatiable appetite for learning and becoming innovative. </li><li>Team player mindset with a go-for-it attitude and the ability to collaborate and communicate asynchronously. </li><li>Nice skills to have: Capability to script with Python, PHP, Bash, Go, or other programming languages </li> </ul><b>Benefits for You </b><ul><li>360 Growth: We provide limitless learning opportunities: access to platforms like Reforge and CoachHub, global conferences, feedback culture, digital libraries and industry-leading subscriptions. Advance your career with internal mobility and grow with a team eager to share knowledge and support your success. </li> </ul><ul><li>Freedom & Responsibility: Work on your terms, whether from the comfort of home or anywhere in the world. With a home office budget, you can elevate your workspace. Enjoy the flexibility to manage your schedule while bringing your ideas to life in a fast-paced, dynamic environment. </li> </ul><ul><li>Wellness Simplified: Your health comes first with company-provided sick days and recharge leave. Participate in global sports challenges and simply enjoy the balance of a lifestyle that prioritizes wellness. </li> </ul><ul><li>Work Hard, Party Hard: Recognize hard work with company events like Town Hall, Meet the Client initiatives, team-building experiences, and workations. Celebrate life’s big moments with milestone gifts for weddings, new parenthood, and graduations. </li> </ul> </br><p>Get ready to take your personal and professional growth to new heights! Join Hostinger today and be part of our journey </p><p>Three. Two. Onboard </p> #J-18808-Ljbffr",
+    "company": "Hostinger",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156540__1953_d9d614b43f2ff36c03a6dd7e918fd83a?utm_source=1953&utm_medium=feed&keyword=Linux-System-Administrator&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Consultor(a) de Engenharia",
+    "description": "<p><h3>Sobre Nós </h3> <p><b>O Grupo Houer </b> é uma das maiores empresas do Brasil que atua no segmento em consultoria e serviços empresariais, inovação e projetos de impacto. </p> <p>Atuamos no ramo da infraestrutura que <b>impacta a vida de milhões de pessoas </b>. Estruturamos e viabilizamos projetos de concessões, PPPs e de outras vertentes em diversas áreas de atuação por todas as regiões do Brasil. </p> <p>Entendemos que é preciso pensar no futuro e nos impactos que deixaremos para as próximas gerações. Nossas ações visam, sobretudo, a vontade de contribuir com um mundo melhor e mais desenvolvido. </p> <p>O Time Houer é composto por mais de <b>550 colaboradores </b> unidos e engajamos num só propósito; <b>transformar o mundo e impactar gerações. </b> </p> <p>Nossa sede está localizada em Belo Horizonte - Minas Gerais. Contamos com escritórios em todas as regiões do Brasil. </p> <p>Somos impulsionados por pessoas e pessoas movem o mundo. </p> <p>Somos GPTW, uma das melhores empresas para se trabalhar. </p> <p>Este reconhecimento é um reflexo do nosso compromisso com o bem-estar dos nossos colaboradores e da nossa busca incessante por excelência e impacto em tudo o que fazemos. </p> <h3>RESPONSABILIDADES E ATRIBUIÇÕES </h3> <ul> <li>Levantamento de campo periódico para coleta de informações e medições de grandezas relacionadas aos indicadores de desempenho; </li> <li>Verificação e cálculo de indicadores de desempenho; </li> <li>Elaboração de relatórios periódicos dos indicadores de desempenho; </li> <li>Acompanhamento periódico de reuniões com o poder concedente e a concessionária; </li> <li>Apoio á elaboração de relatório de medição. </li>  </ul> <h3>REQUISITOS E QUALIFICAÇÕES </h3> <ul> <li>Imprescindível Graduação Completa em Engenharias, preferencial civil, mecânica, elétrica ou sanitarista; </li> <li>Desejável experiência como projetista, consultor, fiscal ou executor de projetos e obras; </li> <li>Desejável experiência com planos de manutenção; </li> <li>Desejável experiência em projetos e fiscalização de obras; </li> <li>Desejável experiência em levantamento de dados em campo; </li> <li>Desejável conhecimento em Informática (Pacote Office); </li> <li>Conhecimento em Power BI será considerado um diferencial. </li>  </ul> <p>Gostaria de trabalhar em uma grande empresa que seu objetivo e <b>impactar positivamente a vida das pessoas </b>? </p> <p>Então venha com a gente construir novas experiencias! </p> <p>Cadastre-se em nossa oportunidade e venha fazer parte do Grupo Houer que tem paixão por inovação e projetos de impacto. </p> </p> #J-18808-Ljbffr",
+    "company": "HOUER CONSULTORIA E CONCESSÕES LTDA",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7156651__1953_efffe88337188952ff4169fe6767a14c?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Engenharia&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
     "title": "SaaS Deployment Specialist",
     "description": "If you are looking for a meaningful career where people work and act with passion, rethink the existing and always strive to find the best solution - you have come to the right place. We develop future technologies to relentlessly make supply chains better.We are a leader in supply chain software solutions, helping organizations streamline operations, reduce costs, and improve efficiency.## **SaaS Deployment Specialist**## ## Infios is a global provider of a unique blend of logistics, 3PL, transportation, warehouse and mobile fleet management solutions. As an international, growth-oriented corporation, Infios serves the evolving and increasingly complex requirements of medium to large corporate operations. Through a culture of innovation, Infios strikes the perfect balance among client satisfaction, employee fulfillment and shareholder value through our accelerated logistics and warehousing software.## ## Infios currently has a full-time position open for a SaaS Deployment Specialist to work remotely in Brazil or India. This individual will have a proven record of accomplishment in supporting customer-facing activities and managing projects delivering on time projects.## ## This person will work with the Cloud Operations Team; a fast-paced team of highly technical employees tasked with delivering world class SaaS offerings to brand name recognizable customers.## ## What a Day in the Life looks like:## * ## Effective provisioning, installation, configuration, solution migration, and maintenance of systems hardware and software and other related Cloud infrastructure located within Infios’s Cloud network* ## Utilizes various automation, monitoring, and service management tools & techniques to troubleshoot issues and perform performance tuning* ## Involved in architectural decision making, and providing recommendations based on knowledge and past experience* ## Ensures that system infrastructure, operating systems, software systems, and security mechanisms adhere to best practices and organizational standards* ## Participates in technical research and development to enable continuing innovation and automation on SaaS migration and upgrades## ## **What you bring to the team:*** ## Technical Associate Degree or Bachelor Degree in IT, Computer Science, or related field* ## 3+ years of experience administering Cloud based infrastructure – AWS, Azure, OCI* ## Deep understanding of Microsoft technologies including Active Directory, Group Policy, Remote Desktop Services, IIS, Failover Clustering, and common server OS including Server 2022* ## Background in Microsoft SQL from a DBA and programming perspective* ## Experience with Terraform, Kubernetes, Helm, Jenkins, Python, PowerShell scripting is a plus* ## SOC, PCI, and other compliance standards knowledge a plus* ## Previous experience working on Infios systems is a plus* ## Experience managing projects in a customer facing role* ## **Must be able to pass a full background check**## **Other Talent*** Ability to provide superior customer satisfaction* Enjoys intellectual challenges/troubleshooting* Strong written and verbal communication skills facilitated by excellent interpersonal skills* Ability to manage stress in a productive manner* Ability to confidently deal with clients and deliver messages effectively* Ability to use critical thinking and logic skills to isolate and resolve technical issues in a timely manner* Ability to prioritize and escalate where necessary* Attention to detail, ability to manage changing priorities and be focused, motivated and enthusiastic* Possess strong sense of teamwork, integrity, self-motivation, positive attitude, and initiativeThe successful candidate will have a proven ability to be self-motivated, perform effectively under minimum supervision, and driven to deliver world class services. This position requires a person who takes pride in the commitment to the position with a high degree of professionalism.Please include the position number in your cover letter. While we thank all those who apply, please note that we will only be contacting those selected for an interview.**Why join us**At Infios, we're not just looking for employees; we're looking for partners in innovation, growth, and purpose. Meeting you where you are to create the future you need is at the core of who we are and what we do. Whether you're at the beginning of your career or a seasoned expert, we meet you on your journey, equipping you with the tools and opportunities to build the future you envision. Together, we will relentlessly work toward one common goal - making supply chains better.**We believe the future is better when supply chains work better.**We are an equal-opportunity employer and committed to inclusion in the workplace.At Infios, we believe that inclusion is a fundamental cornerstone of our success. We are committed to creating a safe and welcoming environment where every individual’s unique experiences and perspectives are valued—whether they look, think, move, believe, or love differently.All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, national origin, sex, sexual orientation, gender identity, marital status, pregnancy, religion, age, disability, veteran status, genetic information, or any other characteristic protected by law.       Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role. If you require assistance or accommodation due to a disability during the recruiting process, please let us know at        Disclaimer: This job advertisement is not designed to cover a comprehensive listing of all duties or responsibilities that are required for this job. Please note that any salary information is a general guideline only. Individual compensation will be determined by various factors such as the scope and responsibilities of the position, experience, education, skills, location, and market and business considerations. Applications must be submitted via our career site.<br>#J-18808-Ljbffr",
     "company": "Infios US, Inc.",
@@ -284,7 +392,7 @@
     "company": "Optery",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7234371__1953_3d8e9f747e40d5df0f3580ee1de5691e?utm_source=1953&utm_medium=feed&keyword=Senior-Technical-Product&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7234371__1953_ea9c0ac44758c0924758868a63ec186d?utm_source=1953&utm_medium=feed&keyword=Senior-Technical-Product&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -527,7 +635,7 @@
     "company": "dnata Brasil",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7236770__1953_87b2a5a8f37e81e80a25ca5195aa3702?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7236770__1953_c1e93af7b2f847024809fae8e77a7f9b?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -923,7 +1031,7 @@
     "company": "4DF Connect",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7240706__1953_c960d6133cf9c05c0e2aeb95b6f76031?utm_source=1953&utm_medium=feed&keyword=Quality-Assurance-Engineer&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7240706__1953_bc96421043045875cd607bcf8c77deb0?utm_source=1953&utm_medium=feed&keyword=Quality-Assurance-Engineer&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1058,7 +1166,7 @@
     "company": "Beep Saúde",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7241778__1953_beb68ca31b8dc8ef91bf1f635c7560e7?utm_source=1953&utm_medium=feed&keyword=Analista-de-CRM&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7241778__1953_6d87d33cc4007baf2c714ee116eb2075?utm_source=1953&utm_medium=feed&keyword=Analista-de-CRM&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1193,7 +1301,7 @@
     "company": "Instituto Infnet - Empregos (exceto professores)",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7243016__1953_1c2a619a0531f30ea8a3ba34f275dff7?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7243016__1953_e8e19b1ceddc36dc46affbbce81e051d?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1292,7 +1400,7 @@
     "company": "Atacadao",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7243746__1953_3d0ffe86aa2bcca63f77430386324a9b?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7243746__1953_951d3c02c63d9d1b90c4b5b4867196f6?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2732,7 +2840,7 @@
     "company": "Oi",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7261364__1953_7fd48b060784fefd8a8c6f3f4810a94e?utm_source=1953&utm_medium=feed&keyword=Pessoas-negras&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7261364__1953_33a7f501fe52a86bcdc8183bcf3aad13?utm_source=1953&utm_medium=feed&keyword=Pessoas-negras&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -3002,7 +3110,7 @@
     "company": "Halliburton Energy Services",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7264007__1953_5d365a83d63362766ae0c56cc5e73694?utm_source=1953&utm_medium=feed&keyword=Wireline-Engineer-Associate&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7264007__1953_55e2b3ffae924d4f525a1d19afe35d75?utm_source=1953&utm_medium=feed&keyword=Wireline-Engineer-Associate&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -3011,7 +3119,7 @@
     "company": "Hiflex Group",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7264020__1953_dbe0f59b0e7433846e88eafbe09986bb?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Back-end&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7264020__1953_ab412cb5a041784d411fa5ba8c18dc6f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Back-end&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -3110,7 +3218,7 @@
     "company": "Invisible Expert Marketplace",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7265070__1953_54f04cd89be0004968151f64cd9815a4?utm_source=1953&utm_medium=feed&keyword=Malayalam-Language-Specialist&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7265070__1953_cf6bff61d9ee7f63357ae323056b68cd?utm_source=1953&utm_medium=feed&keyword=Malayalam-Language-Specialist&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -3362,7 +3470,7 @@
     "company": "Crossing Hurdles",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7281217__1953_d2ba1b181b06c83a4fbf206c48585bea?utm_source=1953&utm_medium=feed&keyword=Portuguese-Legal-Expert&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7281217__1953_596e81a0de6ff2e3555898a5f7ad5586?utm_source=1953&utm_medium=feed&keyword=Portuguese-Legal-Expert&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -3740,7 +3848,7 @@
     "company": "V4 Company",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7283693__1953_4d1455b4248e9fe7f72c2542279d1321?utm_source=1953&utm_medium=feed&keyword=Gestor-de-Tr%C3%A1fego&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7283693__1953_9fad025c1856f340d0673410cd3fe47c?utm_source=1953&utm_medium=feed&keyword=Gestor-de-Tr%C3%A1fego&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4082,7 +4190,7 @@
     "company": "EMPREGARE.com",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7287230__1953_ff521c2af255dd0310111aa0798c6b41?utm_source=1953&utm_medium=feed&keyword=SUPERVISOR-DE-VENDAS&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7287230__1953_f10701040d3c618ff9c5ce6ed5c086fe?utm_source=1953&utm_medium=feed&keyword=SUPERVISOR-DE-VENDAS&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4091,7 +4199,7 @@
     "company": "OROBORO ENTERTAINMENT",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7287231__1953_40de218e8d59efe5c0984089d4767ccc?utm_source=1953&utm_medium=feed&keyword=Prospec%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7287231__1953_8f69f0818f2821de9e5af01c59e167aa?utm_source=1953&utm_medium=feed&keyword=Prospec%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4199,7 +4307,7 @@
     "company": "FullStack Labs",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7288491__1953_759d67014636cf4b22da7c703bcbd9a7?utm_source=1953&utm_medium=feed&keyword=HRIS-Business-Analyst&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7288491__1953_c6d7fbc49ea8d2f527219ff6ae8360d8?utm_source=1953&utm_medium=feed&keyword=HRIS-Business-Analyst&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4334,7 +4442,7 @@
     "company": "Kantar IBOPE Media",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7289766__1953_de22564b552fcc24242a7ff2f2348d72?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7289766__1953_254489f2401957ddd599e40ff72fec58?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4433,7 +4541,7 @@
     "company": "Amazon",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7291217__1953_1a2fc2186a4224d4d80e277bcedb9f60?utm_source=1953&utm_medium=feed&keyword=Analista-de-Opera%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7291217__1953_2ef2da6edef28597204ffd3db174e1c8?utm_source=1953&utm_medium=feed&keyword=Analista-de-Opera%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4685,7 +4793,7 @@
     "company": "Grupo Rio tintas",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7293531__1953_d32cd0a162a49248bbd4209b727370d2?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7293531__1953_96e6697e608fef2af3b44993b2c33159?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4802,7 +4910,7 @@
     "company": "Inspira Rede de Educadores",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7294795__1953_be0cab7ec020468dd5a22b41ccf806e1?utm_source=1953&utm_medium=feed&keyword=Analista-de-Growth&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7294795__1953_87005759f9e80648ec15484701f8cae6?utm_source=1953&utm_medium=feed&keyword=Analista-de-Growth&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5360,7 +5468,7 @@
     "company": "Michelin",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7301566__1953_a820ca7eb8bffcce744e63c66ce90031?utm_source=1953&utm_medium=feed&keyword=Account-Manager-B2C&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7301566__1953_e8c1f5157adfdbef7b642e86aeafee09?utm_source=1953&utm_medium=feed&keyword=Account-Manager-B2C&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5432,7 +5540,7 @@
     "company": "Venice Technology",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7302695__1953_22a811df842f08b97658bdda811e808e?utm_source=1953&utm_medium=feed&keyword=Product-Owner-S%C3%AAnior&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7302695__1953_18c83f30ad2aa2aeba99d1fd22c6a61e?utm_source=1953&utm_medium=feed&keyword=Product-Owner-S%C3%AAnior&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5810,7 +5918,7 @@
     "company": "BairesDev",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7308331__1953_ed3bc75b4186f7339cf281301464032c?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7308331__1953_1b795ceef131c498566ae6d31ce6d62c?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5963,7 +6071,7 @@
     "company": "DB",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7310607__1953_d76c31a3ef2b2f7ff6e6bfeb451f4da3?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7310607__1953_997a522dbf8516248dd228934db2cf22?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6215,7 +6323,7 @@
     "company": "Empresa Confidencial",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7314418__1953_a852ce5ba4de0e1adaaae909a5436f6a?utm_source=1953&utm_medium=feed&keyword=Analista-S%C3%AAnior-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7314418__1953_c6d5575c17d637396a29feb2638fc61d?utm_source=1953&utm_medium=feed&keyword=Analista-S%C3%AAnior-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6224,7 +6332,7 @@
     "company": "Ademicon",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7314435__1953_cf7569d053892964afb3adfce2e499c7?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7314435__1953_d250ab7d22de359d669aaeefc0e8b30e?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6314,7 +6422,7 @@
     "company": "TIM Brasil",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7315920__1953_034f2fa7b129c7d8013b824a877eb5c3?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7315920__1953_84e1f90d8e112184d2eefc703eb17ede?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7331,7 +7439,7 @@
     "company": "株式会社ドリティーコーポレーション",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7325638__1953_7a7736fce2f9689cf047de3e9199843e?utm_source=1953&utm_medium=feed&keyword=Executivo-de-contas&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7325638__1953_a46b963fc3be5fc3fe584c8c8f39f4cc?utm_source=1953&utm_medium=feed&keyword=Executivo-de-contas&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7538,7 +7646,7 @@
     "company": "FullStack Labs",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7327550__1953_1d05dfafaa77f71260ed864d291ae0ea?utm_source=1953&utm_medium=feed&keyword=Backend-Node-%2B&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7327550__1953_11601e19e0cd19acf963f5654df0dd3d?utm_source=1953&utm_medium=feed&keyword=Backend-Node-%2B&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7628,7 +7736,7 @@
     "company": "Invisible Expert Marketplace",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7328341__1953_ea26b8cbfee5d38d34a8b035151d579f?utm_source=1953&utm_medium=feed&keyword=Asturian-Language-Specialist&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7328341__1953_b417f760a7be34e668488bb33372e79f?utm_source=1953&utm_medium=feed&keyword=Asturian-Language-Specialist&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7853,7 +7961,7 @@
     "company": "CAST",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7330532__1953_2ab742ea62a32ec0e6f5be197c356a81?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-SR&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7330532__1953_fa34e3b59a825e8cc909fb18d9cfa4ab?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-SR&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7943,7 +8051,7 @@
     "company": "The Coca-Cola Company",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7335782__1953_25dd59247e6b2743518f1ddd1f1508f5?utm_source=1953&utm_medium=feed&keyword=Director-ARTDs-Finance&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7335782__1953_4da66a4f2b23bfb4632bf7c0afa59115?utm_source=1953&utm_medium=feed&keyword=Director-ARTDs-Finance&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7952,7 +8060,7 @@
     "company": "e-Core",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7335804__1953_36664f9b63307564de15b4e9c8601a81?utm_source=1953&utm_medium=feed&keyword=Software-Developer-III&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7335804__1953_16cba3c265d2b682392f6d8c910e6c03?utm_source=1953&utm_medium=feed&keyword=Software-Developer-III&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -8186,7 +8294,7 @@
     "company": "PSI GENTE E TRABALHO LTDA",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7337480__1953_e3f4fd22be0909c4b75c783e818060ac?utm_source=1953&utm_medium=feed&keyword=Head-de-Marketing&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7337480__1953_8def4f0334cd842f363ada460e8a6341?utm_source=1953&utm_medium=feed&keyword=Head-de-Marketing&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -8825,7 +8933,7 @@
     "company": "Walter’s Coiffeur",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7343619__1953_4e513add4233d2a72a1998bdc65eccba?utm_source=1953&utm_medium=feed&keyword=Cabeleireiro-Walter&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_7343619__1953_767ebe596b26140721fa1ff33cc5efb0?utm_source=1953&utm_medium=feed&keyword=Cabeleireiro-Walter&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -8889,114 +8997,6 @@
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
     "url": "https://br.whatjobs.com/coopob__cpl___70_7343820__1953?utm_source=1953&utm_medium=feed&keyword=Deposista-Inhauma&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Prospecções",
-    "description": "<p><h3>Overview </h3><p>Join the <b>Prospecções </b> team at <b>OROBORO ENTERTAINMENT </b>, a leading artistic agency. We seek a communications and sales professional to grow our client portfolio and support our commercial team. </p><h3>Responsibilities </h3><ul><li>Drive new business development through active prospecting and relationship building. </li><li>Present and negotiate contracts that meet client and company objectives. </li><li>Collaborate with producers, managers and artists to understand market needs and deliver tailored solutions. </li><li>Maintain accurate pipeline data in the CRM and provide regular performance reports. </li><li>Represent OROBORO in external events, trade shows and networking opportunities. </li> </ul><h3>Qualifications </h3><ul><li>Excellent verbal and written communication skills. </li><li>Proficiency in Microsoft Office (Word, Excel, PowerPoint). </li><li>Strong negotiation and persuasion abilities. </li><li>Experience with graphic design tools for client presentations (e.g., Canva, Photoshop). </li><li>Adaptability to dynamic schedules and travel requirements. </li><li>English fluency is a plus. </li> </ul><h3>Benefits </h3><p>Full‑time position (Monday‑Friday, 9:30‑18:30). 100% home‑office. </p><p>Competitive salary and performance incentives. </p><h3>How to Apply </h3><p>Send your résumé to the recruiting email provided in the official job posting. All communications will be conducted confidentially and in accordance with equal‑employment‑opportunity policies. </p> </p> #J-18808-Ljbffr",
-    "company": "OROBORO ENTERTAINMENT",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7343923__1953?utm_source=1953&utm_medium=feed&keyword=Prospec%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Head Comercial",
-    "description": "<p>Área e especialização profissional: Comercial, Vendas - Representação Comercial<br>Nível hierárquico: Gerente<br>Lugar de trabalho: São Paulo, SP<br>Regime de contratação de tipo Prestador de Serviços (PJ)<br>Jornada Período Integral<br>Somos uma empresa de crescimento rápido no setor de tecnologia, especializada em consultas veiculares, processuais e cadastrais para advogados e clientes. Trabalhamos com um time 100% remoto, valorizando a flexibilidade, a organização e o compromisso com resultados. Sobre a oportunidade: Estamos buscando um (a) Head Comercial para assumir o desafio de iniciar do zero e escalar nosso time de vendas. No começo, será mão na massa: criar indicadores, processos, cronogramas, estruturação de processos comerciais e automações. Depois, escalar o time, contratar, treinar e liderar para multiplicar resultados. Se você gosta de estratégia com execução e sabe como tirar processos do papel e fazer girar, essa vaga é para ti. Principais responsabilidades: Definir indicadores, metas e métricas comerciais desde o início. Criar e implementar processos de recuperação de pedidos via automação (push, e-mail, WhatsApp, SMS) e atendimento humano. Desenvolver e executar estratégias de upsell (automação + humano). Fazer vendas B2B (advogados, despachantes, seguradoras, lojistas, etc.), incluindo prospecção e cold call. Construir e manter um funil de vendas eficiente. Montar, treinar e liderar o time comercial conforme o crescimento. Acompanhar métricas de forma contínua e aplicar melhorias para bater e superar metas. Requisitos obrigatórios: Experiência prática em vendas consultivas B2B e/ou B2C. Capacidade comprovada de definir e acompanhar indicadores comerciais. Experiência com automações de vendas ou habilidade para delegar e gerenciar a implementação. Perfil executor nos primeiros meses (hands-on). Experiência em prospecção ativa e negociação. Boa comunicação, resiliência e foco em resultados. Desejável: Experiência anterior como coordenador(a), líder ou head comercial. Experiência com vendas para segmentos como advocacia, despachantes ou seguros. Conhecimento em ferramentas de CRM e automação. Local: Trabalho 100% remoto. </p> #J-18808-Ljbffr",
-    "company": "RVS",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7343942__1953?utm_source=1953&utm_medium=feed&keyword=Head-Comercial&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Gerente – 2 Vagas – Supermercados Rio Sul – Rio Comprido",
-    "description": "<p><h3>Overview </h3><p>Cargo: Gerente </p><p>Vagas: 2 </p><p>Empresa: Supermercado Rio Sul – Rio Comprido </p><p>Ramo de atuação da empresa: Supermercados </p><h3>Responsibilities </h3><ul><li>Gestão de equipe e operação de loja. </li><li>Responsável por garantir o bom funcionamento das áreas, controle de metas e resultados. </li><li>Idade até 55 anos. </li> </ul><h3>Qualifications </h3><ul><li>Experiência comprovada na função </li><li>Habilidade em liderança e gestão de equipe </li><li>Disponibilidade para atuar em escala </li> </ul><h3>Details </h3><ul><li>Salário: R$ 5.000,00 </li><li>Benefícios: Vale-transporte </li><li>Regime de contratação: Não especificado </li><li>Horário de trabalho: Escala 6×1 </li><li>Modelo de trabalho: Presencial </li><li>Local: Rio Comprido RJ </li> </ul><h3>How to apply </h3><p>Enviar currículo via e-mail </p><p>Assunto: Gerente </p> </p> #J-18808-Ljbffr",
-    "company": "Supermercados Rio Sul",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7343991__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-2&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Lider Governança - Rouparia - Hospital Caxias D'Or",
-    "description": "<p><h3>Lider Governança - Rouparia - Hospital Caxias D'Or </h3> <p>Join to apply for the <b>Lider Governança - Rouparia - Hospital Caxias D'Or </b> role at <b>Rede D'Or São Luiz </b> </p> <h3>Responsabilidades </h3> <ul> <li>Supervisionar o fornecimento de enxoval para os pacientes e acompanhantes do Hospital. </li> <li>Supervisionar o setor de rouparia, zelando pela organização e higienização do mesmo. </li> <li>Garantir a entrega e o recolhimento dos enxovais em todos os setores, visando a segurança e o conforto dos pacientes e acompanhantes. </li> <li>Realizar o inventário trimestral de todos os enxovais do Hospital visando a reposição dos mesmos. </li> <li>Supervisionar o envio dos enxovais (usados) para a lavanderia (enxoval novo), garantindo que as quantidades enviadas serão as mesmas recebidas. </li>  </ul> <h3>Qualificações </h3> <ul> <li>Experiência com Gestão de Enxoval. </li> <li>Experiência em Supervisão da Equipe. </li> <li>Noção de Controle de Qualidade e Higienização. </li> <li>Pacote Office intermediário. </li>  </ul> <h3>Local de Trabalho </h3> <p>Duque de Caxias (Hospital Caxias D'Or) </p> <h3>Escala de Trabalho </h3> <p>220 - (5X2) - 2º A 5º - 08:00 12:00 13:00 18:00 / 6° 08:00 12:00 13:00 17:00 </p> <h3>Disponibilidade </h3> <p>Disponibilidade para treinamento. </p> </p> #J-18808-Ljbffr",
-    "company": "Rede D'Or São Luiz",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7343995__1953?utm_source=1953&utm_medium=feed&keyword=Lider-Governan%C3%A7a&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Engenheiro Dados SeniorTrabalho RemotoEfetivo",
-    "description": "<p><h3>Engenheiro Dados SeniorTrabalho RemotoEfetivo </h3> <p>Join to apply for the <b>Engenheiro Dados SeniorTrabalho RemotoEfetivo </b> role at <b>KMM </b> </p> <p>Descrição da vaga </p> <p>Mais do que simples fornecedores de tecnologia, nos destacamos como verdadeiros especialistas em logística. Nossas soluções são moldadas pela vasta experiência que acumulamos ao longo dos anos, refletindo a sabedoria e os aprendizados adquiridos ao longo de nossa jornada. É essa expertise que nos capacita a oferecer uma abordagem personalizada e altamente eficaz para cada cliente. </p> <p>Por mais de 25 anos, trabalhamos com operações logísticas de grande escala, servindo a uma variedade de setores, incluindo indústrias, varejistas, operadores logísticos e transportadoras. Mantendo um olhar perspicaz sobre as tendências do mercado, desenvolvemos sistemas adaptáveis que se ajustam às necessidades em constante evolução de nossos clientes. </p> <p>Nossa trajetória de pioneirismo ao longo dos últimos anos nos proporcionou um amplo know-how e expertise em todas as nuances do setor logístico. Essa jornada nos permitiu acumular valiosa experiência e nos destacar como líderes em oferecer as melhores práticas do mercado. </p> <p>Além de nosso conhecimento aprofundado, a segurança é uma prioridade essencial para nós. Somos certificados pela ISO/IEC 27001, garantindo que adotemos os mais rigorosos padrões em segurança da informação, demonstrando nosso compromisso com a proteção de nossos parceiros e clientes. </p> <p>Estamos em busca de profissionais apaixonados e determinados para se juntarem a nós como Engenheiro de Dados. Se você tem vontade de aprender, transformar a logística e mobilidade e fazer a diferença, essa é a sua oportunidade! </p> <p>Responsabilidades e atribuições </p> <p>O Engenheiro de Dados Sênior será responsável por projetar, desenvolver e manter pipelines e arquiteturas de dados robustas, escaláveis e seguras. Atuará em estreita colaboração com o time de dados e as áreas de negócio para garantir a disponibilidade e confiabilidade das informações utilizadas em análises e produtos de dados. </p> <b>Principais Responsabilidades </b> <ul> <li>Desenvolver, orquestrar e monitorar pipelines de dados utilizando Apache Airflow, aplicando boas práticas de modularização e versionamento de DAGs. </li> <li>Implementar rotinas de monitoramento e alertas (logs estruturados, métricas e notificações via Grafana, email, etc.). </li> <li>Atuar na modelagem e implementação das camadas bronze, silver e gold em um Data Lake baseado em Databricks. </li> <li>Construir e manter integrações de dados a partir de APIs REST, bancos relacionais, arquivos CSV/Excel/Parquet e filas de mensagens. </li> <li>Desenvolver estratégias eficientes de carga incremental, controle de versionamento e catalogação de fontes. </li> <li>Revisar e otimizar consultas SQL complexas em PostgreSQL e Oracle (PL/SQL), garantindo desempenho e uso eficiente de recursos. </li> <li>Trabalhar com object storage (S3), definindo estratégias de versionamento, compactação e organização de arquivos. </li> <li>Garantir a observabilidade e qualidade dos pipelines, com testes unitários e de integração e documentação técnica atualizada. </li> <li>Participar de ritos ágeis e colaborar na modelagem de tabelas analíticas voltadas a ferramentas de BI (Power BI, Qlik). </li>  </ul> <b>Experiências Desejadas </b> <ul> <li>Vivência em ambientes de dados complexos, com múltiplas fontes e alto volume de informação. </li> <li>Experiência comprovada na construção de pipelines de ETL/ELT em produção. </li> <li>Atuação anterior com arquitetura em camadas (bronze/silver/gold) e governança de dados. </li>  </ul> <p>Requisitos e qualificações </p> <b>Requisitos Obrigatórios </b> <ul> <li>Domínio de Python para desenvolvimento de pipelines e automações. </li> <li>Conhecimento avançado em SQL (consultas complexas, tuning, índices, CTEs, particionamento, views materializadas). </li> <li>Experiência sólida com Apache Airflow (orquestração, versionamento, monitoramento). </li> <li>Experiência com PostgreSQL e modelagem de dados para Data Lake. </li> <li>Familiaridade com object storage (S3 ou equivalente) e formatos otimizados de arquivo (Parquet, ORC, GZIP). </li> <li>Prática com Git e boas práticas de versionamento de código. </li>  </ul> <b>Desejável (diferenciais) </b> <ul> <li>Conhecimento em Oracle/PLSQL. </li> <li>Experiência com Databricks ou ambientes similares (Spark, Delta Lake). </li> <li>Noções de Docker, DBT e monitoramento com Prometheus/Grafana. </li> <li>Formação superior em áreas como Ciência da Computação, Engenharia de Software, Sistemas de Informação ou correlatas. </li> <li>Certificações em cloud ou engenharia de dados (AWS, Azure, Databricks, etc.) serão consideradas um diferencial. </li>  </ul> <b>Informações adicionais </b> <p>No KMM by nstech, temos uma cultura baseada em valores e esperamos que todos os nstechers não apenas se identifiquem, mas também vivam essa cultura em seu dia a dia. </p> <p>Acreditamos que a cultura é uma das maiores vantagens competitivas para negócios bem-sucedidos, pois é algo que não pode ser copiado integralmente. </p> <b>Nossos Pilares Culturais e Seus Atributos São </b> <ul> <li>Servir: foco no cliente, humildade, transparência e ética; </li> <li>Equipe: valorizamos o trabalho em equipe, a vontade de colocar a mão na massa e o espírito colaborativo; </li> <li>Resultados: buscamos agilidade, melhoria contínua, geração de valor a longo prazo e foco nos resultados. </li>  </ul> <p>Por que fazer parte da nstech? </p> <p>Temos a visão de ser a plataforma de tecnologia para logística e mobilidade que conecta os elos e gera mais valor para os negócios da rede integrada de logística da América Latina. </p> <p>Atualmente, contamos com uma equipe de mais de 5 mil nstechers comprometidos em melhorar o mundo por meio da tecnologia aplicada à logística e mobilidade. </p> <p>Estamos empenhados em gerar impacto para a sociedade, clientes, colaboradores e acionistas, e queremos somar forças com pessoas cheias de energia e propósito para fazer parte de nossa equipe e dessa transformação. </p> <p>Esta vaga é REMOTO e CLT, com benefícios integrados: plano de saúde, odontológico, seguro de vida, flex, Gympass, Zenklub, folga no aniversário. </p> <p>Etapas do processo </p> <ul> <li>Etapa 1: Cadastro </li> <li>Etapa 2: Entrevista Gente e Gestão </li> <li>Etapa 3: Entrevista com Head da área </li> <li>Etapa 4: Carta Proposta </li> <li>Etapa 5: Contratação </li>  </ul> <p>JUNTE-SE A NÓS! </p> <h3>CAS | Engenharia de Dados Sênior - Vertical de Associação e Contas </h3> <h3>Engenheiro Especialista em Fatores Humanos e Confiabilidade - Híbrido - Rio de Janeiro/RJ - Vaga exclusivas para PCDs </h3> <p>Indaiatuba, São Paulo, Brazil 3 weeks ago </p> <h3>Profissional Engenheiro(a) de Dados Sênior - Remoto </h3> </p> #J-18808-Ljbffr",
-    "company": "KMM",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7344574__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Dados-SeniorTrabalho&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Banco de Talentos | Reposição Merchandising | RJ e ES",
-    "description": "<h3>Banco de Talentos | Reposição Merchandising | RJ e ES </h3><p><b>Resumo da posição </b> </p><p>Localização: ESTADO DO RIO DE JANEIRO E ESPÍRITO SANTO </p><p>Reporte: Líder de Merchandising </p><p>Temos pessoas internas mapeadas para a posição: Não </p><p>Atendimento ao cliente; </p><p>Garantir precificação; </p><p>Recolher, desmontar e compactar embalagens perdidas; </p><p>Assegurar-se da qualidade da apresentação das mercadorias; </p><p>Manter a limpeza do local de trabalho; </p><p>Arrumar as mercadorias para inventario e retirar as mercadorias liberadas na recepção e organizá-las no depósito. </p><p><b>O que fará você obter sucesso? </b> </p><p>Relacionamento e Comunicação Interpessoal </p><p><b><em>“Para a Nestlé, o respeito pela inclusão, diversidade e igualdade de oportunidades é muito importante. Buscamos fortalecer o propósito de ter equipes diversas e contemplar todas as comunidades, culturas e idades.” </em> </b> </p> #J-18808-Ljbffr",
-    "company": "Nestlé",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7344713__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "SUPERVISOR OPERACIONAL",
-    "description": "<p><h3>Descrição da vaga </h3><p>Estamos em busca de um Supervisor Operacional para liderar equipes técnicas em campo, garantindo a execução eficiente dos serviços prestados à Light. O profissional será responsável por coordenar atividades operacionais, assegurar o cumprimento dos prazos, padrões de qualidade e segurança, além de atuar como elo entre a operação e a gestão. </p><h3>Responsabilidades </h3><ul><li>Supervisionar equipes de campo nas atividades de manutenção, instalação e inspeção de redes elétricas; </li><li>Garantir o cumprimento dos procedimentos operacionais e normas técnicas da Light; </li><li>Acompanhar indicadores de produtividade, qualidade e segurança; </li><li>Realizar reuniões de alinhamento com equipes e gestores; </li><li>Apoiar na logística de materiais, equipamentos e recursos humanos; </li><li>Elaborar relatórios operacionais e registros de ocorrências; </li><li>Atuar na solução de problemas técnicos e operacionais em campo. </li> </ul><h3>Requisitos </h3><ul><li>Formação técnica em Eletrotécnica, Eletricidade ou áreas correlatas (desejável superior em Engenharia ou Gestão); </li><li>Experiência comprovada em supervisão de equipes operacionais no setor elétrico; </li><li>Conhecimento em normas de segurança (NR10, NR35, SEP); </li><li>Habilidade de liderança, tomada de decisão e comunicação eficaz; </li><li>Domínio de ferramentas como Excel, sistemas de gestão e controle de produção. </li> </ul><h3>Sobre a Concrejato </h3><p>Fundada em 1978, a Concrejato Engenharia é especializada no restauro de patrimônio histórico e cultural, retrofit de edifícios, obras de infraestrutura e industriais, manutenção de redes de distribuição de gás, obras e serviços de saneamento, entre outros. </p><p>Contamos com uma equipe multidisciplinar de profissionais altamente qualificados, que atuam com o apoio de inovações tecnológicas e operacionais para atender às demandas de cada contrato. </p><p>Todos os nossos serviços obedecem rigorosos protocolos de acordo com certificações que atendem aos mais altos níveis de exigência em Qualidade, Segurança, Meio Ambiente e Saúde (QSMS) e ESG. </p><p><b>Venha construir a sua história profissional com a gente! Seja um talento da Concrejato. </b> </p><h3>Acompanhe-nos em nossos canais digitais </h3> </p> #J-18808-Ljbffr",
-    "company": "Concrejato Engenharia",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7344898__1953?utm_source=1953&utm_medium=feed&keyword=SUPERVISOR-OPERACIONAL&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Prospecções",
-    "description": "<p><p>A Oroboro Entertainment é uma empresa de agenciamento artístico e está com vaga aberta para o Departamento Comercial. Buscamos um profissional de Comunicação e Vendas, com expertise em técnicas de vendas, gestão de projetos. </p> <ul> <li>Importante excelente fluência verbal e escrita? Inglês (diferencial). Organização. Fácil adaptação aos processos da empresa. Lidar bem com metas. Domínio do pacote Office (Word, Excel, PowerPoint). Técnicas de negociação e persuasão. Domínio de programas de edição de imagens para formatação de projetos (Canva, Photoshop e afins). Flexibilidade para viagens. Lidar bem com prazos desafiadores. Habilidade para propor soluções assertivas em situações delicadas. Primar pela excelência no Atendimento dos clientes da empresa. Foco na ampliação da carteira de clientes da empresa. </li> <li>Envio de curriculuns para ******. Informações serão conversadas em entrevista de trabalho. Período: integral, seg à sex, das 9h30 às 18h30. Sistema home office 100%. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "OROBORO ENTERTAINMENT",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7345062__1953_83681d3b4b754936b171684a51b379d7?utm_source=1953&utm_medium=feed&keyword=Prospec%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "OPERADOR RELACIONAMENTO (694)",
-    "description": "<p><h3>Overview </h3> <p>Operacional - Médio (Administrativo e Operações) </p> <h3>Responsibilities </h3> <ul> <li>Atender clientes no esclarecimento de informações, solicitações e reclamações sobre produtos ou procedimentos, registrando nos sistemas de atendimento e encaminhando para outras áreas quando necessário. </li> <li>Cumprir as metas diárias de atendimento (TMA, TME, produtividade, qualidade e outros). </li> <li>Informar aos clientes sobre novos serviços, promoções e atualizações que possam atender às suas necessidades de saúde e bem-estar. </li> <li>Garantir um atendimento cordial e empático, alinhado aos valores de saúde e bem-estar da empresa. </li> <li>Orientar utilização de canais de autoatendimento (APP, Bot Whatsapp, Site). </li>  </ul> <h3>Qualifications </h3> <ul> <li>Grau de escolaridade exigida: 2º grau completo e/ou formação Técnica. </li> <li>Pacote Office com ênfase em Excel básico e Atendimento ao Cliente. </li>  </ul> <h3>Benefícios </h3> <ul> <li>ASSISTÊNCIA FUNERAL </li> <li>ASSISTÊNCIA MÉDICA </li> <li>ASSISTÊNCIA ODONTOLÓGICA </li> <li>AUXÍLIO BABÁ/REEMBOLSO CRECHE </li> <li>PLR </li> <li>SEGURO DE VIDA EM GRUPO </li> <li>VALE ALIMENTAÇÃO </li> <li>VALE REFEIÇÃO </li> <li>VALE TRANSPORTE (não se aplica para trabalho 100% remoto) </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Sinaf Seguros S.A",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7345115__1953?utm_source=1953&utm_medium=feed&keyword=OPERADOR-RELACIONAMENTO-694&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Prospecções",
-    "description": "<p><h3>Prospecções – OROBORO ENTERTAINMENT </h3> <p>A Oroboro Entertainment é uma empresa de agenciamento artístico e está com vaga aberta para o Departamento Comercial. </p> <p>Buscamos um profissional de Comunicação e Vendas, com expertise em técnicas de vendas, gestão de projetos. </p> <ul> <li>Importante excelente fluência verbal e escrita </li> <li>Inglês (diferencial) </li> <li>Organização </li> <li>Fácil adaptação aos processos da empresa </li> <li>Lidar bem com metas </li> <li>Domínio do pacote Office (Word, excell, PowerPoint) </li> <li>Técnicas de negociação e persuasão </li> <li>Domínio de programas de edição de imagens para formatação de projetos (Canva, Photoshop e afins) </li> <li>Flexibilidade para viagens </li> <li>Lidar bem com prazos desafiadores </li> <li>Habilidade para propor soluções assertivas em situações delicadas </li> <li>Primar pela excelência no Atendimento dos clientes da empresa </li> <li>Foco na ampliação da carteira de clientes da empresa </li>  </ul> <p>Envio de curriculuns para ****** </p> <p>Maiores informações serão conversadas em entrevista de trabalho </p> <p>Período: integral, seg à sex, das 9h30 às 18h30 </p> <p>Sistema home office 100%. </p> </p> #J-18808-Ljbffr",
-    "company": "OROBORO ENTERTAINMENT",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7345162__1953?utm_source=1953&utm_medium=feed&keyword=Prospec%C3%A7%C3%B5es&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Neurologista",
-    "description": "<p><p>Join to apply for the Neurologista role at Galileu </p> <p>1 day ago Be among the first 25 applicants </p> <h3>NEUROLOGISTA – venha construir a nova saúde digital com a Galileu! </h3> <p>A saúde está evoluindo, e a Galileu Saúde está na linha de frente dessa transformação. </p> <p>Somos uma healthtech brasileira que une excelência clínica, tecnologia proprietária e cuidado humano para oferecer uma medicina mais acessível, eficiente e centrada no paciente. </p> <p>Se você é NEUROLOGISTA e acredita que a inovação é o futuro da medicina, queremos você no nosso time! </p> <h3>O Que Oferecemos </h3> <ul> <li>Atendimentos: Ambulatoriais eletivos – 100% home office. </li> <li>Modelo de teleconsulta estruturado – agenda organizada, garantindo qualidade e eficiência. </li> <li>Remuneração transparente – valor líquido, pago no dia 30 do mês subsequente ao plantão. </li> <li>Ambiente multidisciplinar – colaboração entre especialistas para cuidado integral ao paciente. </li> <li>Capacitação exclusiva em saúde digital – plataforma completa e protocolos em tecnologias. </li> <li>Suporte e acompanhamento contínuos – para que você foque no essencial: o paciente. </li> <li>Modalidade de contrato: sócio quotista – com total alinhamento e segurança jurídica. </li>  </ul> <h3>Requisitos Para Candidatura Obrigatório </h3> <ul> <li>Residência médica concluída, título de especialista ou RQE ativo. </li> <li>Certificado digital A1. </li> <li>Equipamento próprio (notebook ou desktop). </li> <li>Familiaridade com ferramentas digitais (prontuário eletrônico, sistemas operacionais, internet). </li>  </ul> <p>Na Galileu, acreditamos que a tecnologia deve potencializar o cuidado médico e fortalecer a conexão entre profissionais e pacientes. </p> <p>Por isso, investimos em inovação, capacitação e um ambiente colaborativo, garantindo que você tenha tudo o que precisa para exercer a medicina digital com excelência e impacto real. </p> <p>Se você quer fazer part de do futuro da saúde, venha para a Galileu! </p> <h3>Envie Seu Currículo </h3> <p>WhatsApp: *************** </p> <h3>Seniority level </h3> <ul> <li><h3>Seniority level </h3>Entry level </li>  </ul> <h3>Employment type </h3> <ul> <li><h3>Employment type </h3>Full-time </li>  </ul> <h3>Job function </h3> <ul> <li><h3>Job function </h3>Health Care Provider </li> <li><h3>Industries </h3>Public Health </li>  </ul> <p>Referrals increase your chances of interviewing at Galileu by 2x </p> <p>Get notified about new Neurologist jobs in Salvador, Bahia, Brazil. </p> <p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> </p> #J-18808-Ljbffr",
-    "company": "Galileu",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7345198__1953?utm_source=1953&utm_medium=feed&keyword=Neurologista&location=Rio-de-Janeiro&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Espec Santander II 8h",
-    "description": "<p><p>Country: Brazil </p> <h3>Especialista Santander </h3> <p>Se você tem vontade de crescer e aprender sempre, e tem paixão em lidar com pessoas, esse pode ser o seu lugar! O Santander é um ecossistema em crescimento, que tem o propósito de contribuir para que pessoas e negócios prosperem. Aqui é o espaço para criar o novo, questionar e desafiar o mercado. É ter a urgência do agora e do futuro alinhados, para atender ao cliente sempre da melhor forma. É fazer parte de uma empresa global, que preza pela diversidade em todas as suas dimensões e que valoriza a cultura de horizontalidade dos cargos. No Santander temos a cultura de horizontalidade e nela praticamos 4 clusters: Especialista, Líder, Head e Sócio. Temos uma vaga para você se tornar Especialista Santander, onde você será encarreirado como Especialista, sendo o principal conhecedor da sua área. </p> <h3>Responsabilidades </h3> <ul> <li>Execução de oportunidades de negócios, no fluxo da loja, potencializando a oferta de produtos e serviços </li> <li>Instrução à digitalização de clientes </li> <li>Atendimento aos clientes de todos os segmentos, garantindo a excelência da experiência </li> <li>Conquista de novos clientes </li> <li>Em algumas lojas, poderá ser considerado a atuação nos ambientes: autoatendimento, pronto atendimento, mesa gerencial, tesouraria e/ou guichê de caixa </li>  </ul> <h3>Qualificações </h3> <ul> <li>Think Customer – Penso no Cliente </li> <li>Embrace Change – Impulsiono a mudança </li> <li>Act Now – Atuo com rapidez </li> <li>Move Together – Trabalho em equipe </li> <li>Speak Up – Falo abertamente </li> <li>Certificação CPA 10 – ANBIMA (mas se tiver CPA20, melhor ainda!) </li> <li>Cursando a Graduação (mas se tiver Graduação Completa ou Pós-Graduação, melhor ainda!) </li> <li>Conhecimento em Pacote Office </li> <li>Vivência com vendas </li>  </ul> <h3>Benefícios </h3> <ul> <li>Remuneração Variável (PLR + RV) </li> <li>Assistência Médica e Odontológica </li> <li>Auxílio Alimentação e Refeição </li> <li>Previdência Complementar </li> <li>Seguro de Vida </li> <li>Auxílio Creche/Babá </li> <li>Gympass ou Totalpass </li> <li>Vale Transporte </li> <li>Programa Nascer </li> <li>Be Healthy - Programa que incentiva todos a terem hábitos mais saudáveis </li> <li>PAPE - Programa de apoio pessoal especializado </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Santander Brasil",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_7345206__1953?utm_source=1953&utm_medium=feed&keyword=Espec-Santander-II&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   }
 ]
