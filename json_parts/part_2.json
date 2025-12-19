@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Devops Engineer",
-    "description": "<p><b>About the Opportunity </b> </p><p>We are seeking a <b>DevOps / Technical Support Engineer </b> to support a development team working on the internationalization and maintenance of a large-scale e-commerce platform. The environment consists of a distributed microservices architecture deployed on <b>on-premises Kubernetes clusters </b> and <b>virtual machines </b>, requiring hands-on troubleshooting, deployment operations, and strong coordination with engineering teams and clients. This role is highly technical and involves active participation in English-speaking client meetings and collaboration across multiple teams. </p><p><br></p><p><b>Responsibilities </b> </p><ul><li>Support the development team responsible for translating and adapting a distributed microservices e-commerce platform. </li><li>Manage and troubleshoot Kubernetes microservice deployments using Helm charts. </li><li>Operate and maintain Jenkins CI/CD pipelines; diagnose and resolve failures in automated deployment processes. </li><li>Collaborate closely with Java and Python development teams to understand deployment requirements. </li><li>Troubleshoot client ecosystem tools based on Jenkins self-service pipelines. </li><li>Support backend technologies such as PostgreSQL and Kafka, handling configuration, connectivity, and integration issues. </li><li>Retrieve and analyze logs from Kubernetes pods and on-prem VMs using Grafana, ELK (Elasticsearch, Logstash, Kibana), and Jenkins logs. </li><li>Participate in English-speaking client meetings to gather requirements, clarify needs, and provide updates. </li><li>Manage work using a Kanban workflow. </li><li>Contribute to improvements in deployment processes, documentation, monitoring, and troubleshooting procedures. </li> </ul><p><br></p><p><b>Required Qualifications </b> </p><ul><li>Experience with Kubernetes, Helm, and containerized deployments in on-premise environments. </li><li>Strong understanding of CI/CD pipelines, especially Jenkins. </li><li>Basic to intermediate experience with microservices written in Java and Python. </li><li>Familiarity with PostgreSQL and Kafka. </li><li>Ability to diagnose distributed system issues using logs, dashboards, and monitoring tools (Grafana, ELK, etc.). </li><li>Experience with on-premises infrastructure. </li><li>Strong communication skills with the ability to participate confidently in English-speaking client meetings. </li><li>Experience with Agile/Kanban methodologies. </li><li>Strong problem-solving skills and ability to work independently in complex environments. </li><li>Proven experience troubleshooting legacy systems built in Java. </li> </ul><p><br></p><p><b>Nice to Have Skills </b> </p><ul><li>Experience with large enterprise e-commerce platforms. </li><li>Knowledge of networking, authentication, and authorization concepts. </li><li>Familiarity with scripting languages such as Bash or Python. </li><li>Experience with Groovy for Jenkins Pipeline-as-Code. </li> </ul><p><br></p><p>Avenue Code reinforces its commitment to privacy and to all the principles guaranteed by the most accurate global data protection laws, such as GDPR, LGPD, CCPA and CPRA. The Candidate data shared with Avenue Code will be kept confidential and will not be transmitted to disinterested third parties, nor will it be used for purposes other than the application for open positions. As a Consultancy company, Avenue Code may share your information with its clients and other Companies from the CompassUol Group to which Avenue Code’s consultants are allocated to perform its services. </p>",
-    "company": "Avenue Code",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1275153__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Devops-Engineer&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
     "title": "Senior Full Stack Developer",
     "description": "<p><b>We are looking for a Senior Full Stack Software Developer for a 100% Remote, 12 month +, 1099 contract </b> </p><p><br></p><p><b>No 3rd Party C2Cs Please. </b> </p><p><br></p><p><b>Location: </b> Brazil, South America (work remote supporting US based client/project) </p><p><b>Employment Type: </b> Contract Work, 40 hours weekly </p><p><br></p><p><b>100% Requirement: Must have good verbal & written communication (English)  </b> </p><p><br></p><p><b>Summary: </b> </p><p>We’re looking for a Senior Full Stack Software Developer. The project involves working with a tech-enabled healthcare organization: they build internal platforms to support physicians and other providers, as well as patient and partner-facing functionality. They are scaling virtual care across the country, using tech to drive high-quality patient outcomes. </p><p><br></p><p><b>Key Responsibilities  </b> </p><ul><li>Develop and implement full-stack features, with a primary focus on crafting intuitive and accessible frontend user experiences. </li><li>Collaborate with team members to design and deliver high-quality, user-friendly, and accessible product experiences. </li><li>Continuously analyze and improve product success metrics and workflows to optimize user satisfaction. </li> </ul> <p><b>About You  </b> </p><ul><li>An experienced software engineer with frontend experience who is excited to develop leadership skills </li><li>Skilled in .NET development as well as React work on the Frontend </li><li>Good experience with both AWS & PostgreSQL is required </li><li>Independently able to identify and solve complex problems, recognizing when to seek assistance to maintain progress and efficiency </li><li>Excellent at communicating with both technical and non-technical audiences </li><li>Excited by ambiguity, fast-paced environments, and the opportunity to help shape the direction of a growing company </li> </ul> <p><b>Nice to Have  </b> </p><ul><li>Experience in healthcare or other privacy-centric verticals </li><li>Exposure to relational databases, modern frontend frameworks (primarily React) </li><li>Knowledge of common design patterns and best practices for maintainability and security </li> </ul>",
     "company": "Catalyte",
@@ -725,7 +716,7 @@
     "company": "Quality Digital",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1318735__1953_66aaa3c5795caf44e84c5aad79e863b3?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-s%C3%AAnior-Java&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1318735__1953_5797592d72e311bfb7b0e593e285b82e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-s%C3%AAnior-Java&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -968,7 +959,7 @@
     "company": "GFT Technologies Brasil",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1330808__1953_576812d53484a8b000399a313bc36388?utm_source=1953&utm_medium=feed&keyword=Cloud-Application-Architect&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1330808__1953_9ea617572298079884b93963b65467e9?utm_source=1953&utm_medium=feed&keyword=Cloud-Application-Architect&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1049,7 +1040,7 @@
     "company": "CriticalRiver Inc.",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1332919__1953_42ff1793a587306d7e94ee43d0407606?utm_source=1953&utm_medium=feed&keyword=Technical-Program-Manager&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1332919__1953_4b1f5222b916e3bc976cfb8eacbb7f0c?utm_source=1953&utm_medium=feed&keyword=Technical-Program-Manager&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1166,7 +1157,7 @@
     "company": "TurnKey Tech Staffing",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1339785__1953_1694bb319d7e1937b63ebe8f315fc483?utm_source=1953&utm_medium=feed&keyword=Data-Visualization-Specialist&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1339785__1953_13cfbd7b5dacf9ea924826d77ae60986?utm_source=1953&utm_medium=feed&keyword=Data-Visualization-Specialist&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1211,7 +1202,7 @@
     "company": "Schindler Group",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1341787__1953_2a6903a79732498aa3e8aff739a832e8?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1341787__1953_95a0dc00e5894b0ad852b31f97e9d508?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1382,7 +1373,7 @@
     "company": "TIM Brasil",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1354934__1953_128df08e1a71f669676640eaee91d732?utm_source=1953&utm_medium=feed&keyword=Campaigns-Data-Professional&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1354934__1953_a9a73d0724cf6406d76197ec4279f014?utm_source=1953&utm_medium=feed&keyword=Campaigns-Data-Professional&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1463,7 +1454,7 @@
     "company": "Celebrity Cruises",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1361234__1953_1cf5d4016b1a92f0b6559f14c3b09f6b?utm_source=1953&utm_medium=feed&keyword=Chef-Tournant&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1361234__1953_75c41e1436f3b2c569a35eb91ef280d4?utm_source=1953&utm_medium=feed&keyword=Chef-Tournant&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1499,7 +1490,7 @@
     "company": "Autônomo",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1364875__1953_576b54a445a4deb8d35e49f9e1034aea?utm_source=1953&utm_medium=feed&keyword=Editor-de-V%C3%ADdeos&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1364875__1953_a5c358d6a48b4a429cbf5d992583a83a?utm_source=1953&utm_medium=feed&keyword=Editor-de-V%C3%ADdeos&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1742,7 +1733,7 @@
     "company": "Next Supply Group",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381945__1953_b27e2bfc951f8b8ae26bc4943d89d920?utm_source=1953&utm_medium=feed&keyword=Analista-de-Compras&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381945__1953_3c72c3801acd1e16e6624f5efd9a7747?utm_source=1953&utm_medium=feed&keyword=Analista-de-Compras&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1751,7 +1742,7 @@
     "company": "Cogna Educação",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381951__1953_7d9f4009d8c1db20bac2dca933e3ac25?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-NET&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381951__1953_7ac95425098ae412064644c89928275e?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-NET&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1895,7 +1886,7 @@
     "company": "ília",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1390200__1953_35c7281ec7d624ea8cda261f4bc3d170?utm_source=1953&utm_medium=feed&keyword=SR-Desenvolvimento-Java&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1390200__1953_5574264701b5eed3b69a162f0972e6e8?utm_source=1953&utm_medium=feed&keyword=SR-Desenvolvimento-Java&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -2111,7 +2102,7 @@
     "company": "Viseu Secondment",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1405564__1953_caeeb1c5d47d06184b9fd5a17b9b7dcd?utm_source=1953&utm_medium=feed&keyword=Advogado-Pleno-l&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1405564__1953_f2c460e910a3c152c11b96915e9dad13?utm_source=1953&utm_medium=feed&keyword=Advogado-Pleno-l&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -2120,7 +2111,7 @@
     "company": "Longbeard",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1405573__1953_7be0a14b619a620e93f9ac9e1cfb70c5?utm_source=1953&utm_medium=feed&keyword=IA-Cat%C3%B3lica-busca&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1405573__1953_f747f2cac94fa29b864db43bf1738ad1?utm_source=1953&utm_medium=feed&keyword=IA-Cat%C3%B3lica-busca&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -2156,7 +2147,7 @@
     "company": "Contyline Assessoria Contábil Ltda",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1406510__1953_171304cd48f59579c94c174255b186a8?utm_source=1953&utm_medium=feed&keyword=Equipe-de-contabilidade&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1406510__1953_dbfbbc410c91985db2e4d3688fc3da90?utm_source=1953&utm_medium=feed&keyword=Equipe-de-contabilidade&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -8997,6 +8988,15 @@
     "city": "Rio De Janeiro",
     "state": "Federative Republic Of Brazil",
     "url": "https://br.whatjobs.com/coopob__cpl___102_24896343__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-Pj-Rj&location=Rio-De-Janeiro&geoID=7326",
+    "tipo": ""
+  },
+  {
+    "title": "Advogado(A) - Controladoria Jurídica - Rj",
+    "description": "<p>Venha fazer parte da nossa equipe! Estamos em busca de Advogado(a) para integrar o time de Contencioso Cível na unidade do Rio de Janeiro. Nosso Escritório promove a construção de um ambiente plural e receptivo, por isso, todas as vagas estão alinhadas com o nosso compromisso com a diversidade e inclusão. </p>Responsabilidades e atribuições<ul><li>Análise de processos cíveis, com foco em Direito do Consumidor. </li><li>Elaboração de relatórios. </li><li>Atualização de sistemas jurídicos. </li><li>Realização de cadastros. </li><li>Registro de protocolos. </li><li>Emissão de guias de custas. </li><li>Lançamento de publicações. </li><li>Agendamento de prazos. </li><li>Atendimento ao cliente. </li> </ul>Requisitos e qualificações<ul><li>Inscrição na OAB ativa. </li><li>Experiência anterior no contencioso cível, com foco em Direito do Consumidor. </li><li>Conhecimento avançado do pacote MS Office (Word, Excel e Power Point). </li><li>Conhecimento em sistemas jurídicos. </li> </ul>Informações adicionais<p>Disponibilidade para trabalhar em regime semipresencial. </p>#J-18808-Ljbffr",
+    "company": "Villemor Amaral Advogados",
+    "city": "Rio De Janeiro",
+    "state": "Federative Republic Of Brazil",
+    "url": "https://br.whatjobs.com/coopob__cpl___102_24896446__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-Controladoria&location=Rio-De-Janeiro&geoID=7326",
     "tipo": ""
   }
 ]
