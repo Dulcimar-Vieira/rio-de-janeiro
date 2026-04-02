@@ -1,50 +1,5 @@
 [
   {
-    "title": "Engenheiro(a) de Software Senior",
-    "description": "<p><b>Unidade de Negócio: </b> Gringo & Zapay </p><p><br></p><p><b>Local de trabalho: </b> Remoto </p><p><br></p><p><b>Modelo de trabalho:  </b>CLT </p><p><br></p><p><b>Responsabilidades e atribuições </b> </p><p><br></p><ul><li>Desenvolver micro serviços independentes que resolvem problemas de domínio específico </li><li>Responsável por todo ciclo de vida do desenvolvimento de código, indo do planejamento junto com o time de produto (pré código) até o deploy em produção e acompanhamento dos seus impactos (pós código). </li><li>Resolver problemas e contribuir com os desafios do time de tecnologia e de produto, compartilhando ideias, soluções, códigos, arquiteturas, etc. </li><li>Aprimorar a experiência do desenvolvimento de software na Gringo, considerando ferramentas, cobertura de testes, estrutura de códigos, etc. </li><li>Participar ativamente de discussões e decisões voltadas para design de software. Tomando a frente e ajudando a criar documentação. </li><li>Criar soluções escaláveis, sustentáveis e focadas no usuário. Nós usamos tecnologias como Node.js, Python, React Native, Flutter, PostgreSQL. Você não precisa conhece-las, mas estar aberto a aprendê-las. </li><li>Ajudar a organizar a arquitetura de software para orquestrar harmonicamente nossa arquitetura de serviços. </li> </ul><p><br></p><p><b>Requisitos e qualificações </b> </p><p><br></p><p><b>É imprescindível que você tenha: </b> </p><p><br></p><ul><li>Proficiência em pelo menos uma linguagem de programação </li><li>Experiência com APIs </li><li>Raciocínio logico </li> </ul><p><br></p><p><b>Não obrigatório, mas será incrível se você tiver: </b> </p><p><br></p><ul><li>Demonstrar experiência desenvolvendo aplicações mobile escaláveis e focadas na cliente. </li><li>Experiência com plataformas em nuvem, como GCP, AWS, Azure, etc </li><li>Entende como CI/CD funciona. </li><li>Tiver conhecimento em containers e orquestração como Kubernetes, por exemplo. </li><li>Experiência de desenvolvimento mobile </li> </ul><p><br></p><p><b>Informações adicionais </b> </p><p><br></p><p><b>Fique por dentro do que te oferecemos: </b> </p><p><br></p><ul><li>Assistência Médica (SulAmérica) </li><li>Assistência Odontológica (Bradesco) </li><li>Wellhub (antigo Gympass) – com extensão para até 3 dependentes </li><li>Telemedicina 24h – consultas online por chamada de vídeo, disponíveis todos os dias da semana </li><li>Isenção na mensalidade do SEM PARAR – para 1 veículo no plano Tag Imparável </li><li>Vale-Alimentação ou Vale-Refeição – você escolhe a melhor opção: </li><li>VA para compras em supermercados </li><li>VR para uso em restaurantes no dia a dia </li><li>Day-off de aniversário (pessoal e da empresa) </li><li>Programa de acompanhamento para gestantes e licença-paternidade estendida </li><li>Seguro de Vida </li><li>Auxílio-Creche </li><li>Auxílio para dependente PCD </li><li>PLR </li> </ul>",
-    "company": "Gringo",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4158900__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Lead Data Engineering (Remoto)",
-    "description": "<p>A Brunel está apoiando uma empresa do setor de georastreamento na busca por um(a) <b>Data Engineering Team Lead </b> para liderar iniciativas estratégicas de dados e impulsionar a evolução da sua plataforma. Buscamos um(a) profissional com perfil <b>player-coach </b>, capaz de equilibrar uma atuação técnica hands-on com a liderança de equipe, sendo responsável por guiar o time na construção de uma infraestrutura de dados moderna, escalável e orientada ao negócio. É <b>essencial possuir inglês avançado ou fluente para conversação </b>, já que a posição envolve interação constante com times e stakeholders internacionais. A contratação é no modelo <b>CLT </b>, com atuação <b>100% remota </b>. </p><p><br></p><p><b>Principais Responsabilidades: </b> </p><p><br></p><p><b>Atuação Estratégica e Técnica </b> </p><ul><li>Atuar como engenheiro(a) sênior, participando diretamente do desenvolvimento (design, codificação e entrega de features). </li><li>Liderar o desenho e evolução da arquitetura de dados, garantindo escalabilidade, confiabilidade e performance. </li><li>Trabalhar com tecnologias modernas como Snowflake, Databricks e serviços em cloud (AWS/Azure). </li><li>Gerenciar e desenvolver o time, promovendo um ambiente colaborativo e de alta performance. </li><li>Incentivar o crescimento técnico e de carreira dos engenheiros. </li><li>Atuar em conjunto com Product Managers na descoberta e definição de soluções, garantindo alinhamento com necessidades do negócio. </li><li>Definir e garantir boas práticas de arquitetura, engenharia e metodologias ágeis. </li><li>Gerenciar e reduzir dívida técnica da plataforma. </li><li>Liderar iniciativas de análise, planejamento e execução de projetos de dados. </li><li>Garantir entregas consistentes e alinhadas com os objetivos estratégicos. </li> </ul><p><br></p><p><b>Responsabilidades do Dia a Dia: </b> </p><ul><li>Desenvolver e otimizar pipelines de dados e processos de ETL (Airbyte, Fivetran, Azure Data Factory). </li><li>Construir e manter infraestrutura de dados robusta e escalável. </li><li>Trabalhar de forma colaborativa com times de dados, produto, engenharia e stakeholders de negócio. </li><li>Gerenciar infraestrutura com práticas modernas (Terraform, Ansible, Azure Application Insights). </li><li>Garantir governança, qualidade e confiabilidade dos dados. </li><li>Atuar na operação de ambientes produtivos, incluindo suporte a incidentes críticos. </li><li>Promover inovação contínua e adoção de novas tecnologias, incluindo uso de IA no ciclo de desenvolvimento. </li> </ul><p><br></p><p><b>Requisitos Técnicos (Obrigatórios) </b> </p><ul><li>Experiência sólida com pipelines de dados, ETL e ambientes produtivos. </li><li>Experiência com Airbyte, Fivetran, Snowflake, Databricks e Azure Data Factory. </li><li>Forte domínio de SQL e modelagem de dados (incluindo grandes volumes). </li><li>Experiência com ferramentas de BI como Power BI e Sigma. </li><li>Conhecimento em Infraestrutura como Código (Terraform, Ansible). </li><li>Programação em Python (diferencial: Scala). </li><li>Experiência com Docker e Kubernetes. </li><li>Conhecimento em data lakes, bancos relacionais, NoSQL e OLAP. </li><li>Boa comunicação e visão orientada a produto. </li><li>Inglês fluente. </li> </ul><p><br></p><p><b>Diferenciais </b> </p><ul><li>Experiência com pipelines de AI/ML e serviços como AWS SageMaker ou Azure Synapse. </li><li>Vivência com governança de dados e qualidade. </li><li>Background em sistemas distribuídos, APIs ou arquiteturas orientadas a eventos. </li> </ul><p><br></p><p><b>Formação e Experiência </b> </p><ul><li>Mais de 6 anos de experiência em Data Engineering (hands-on). </li><li>Mais de 3 anos liderando times ou iniciativas de dados. </li><li>Formação em Ciência da Computação, Data Science ou áreas correlatas. </li> </ul>",
-    "company": "Brunel",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4163245__1953?utm_source=1953&utm_medium=feed&keyword=Lead-Data-Engineering&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Engenheiro de Dados - Remoto",
-    "description": "<p>A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto especificam suas necessidades de TI na Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na próxima vaga: <b>Engenheiro de Dados/ML Especialista - Remoto </b> </p><p><b>O que oferecer a você </b> </p><ul><li>Assistência médica sem desconto para titulares; </li><li>Assistência odontológica sem desconto para titulares; </li><li>Cartão flex tanto para alimentação quanto refeição; </li><li>Auxílio home office para vaga remota; </li><li>Vale transporte para posições presenciais ou híbridas; </li><li>Creche Auxílio; </li><li>Seguro de vida; </li><li>Desconto em terapia: plataforma de apoio psicossocial; </li><li>Parceria com instituições de ensino; </li><li>Parceria com escolas de idiomas; </li><li>Programa de subsídio para aulas de inglês; </li><li>Programa de prazo: prêmio para prazo bem sucedido; </li><li>Licença maternidade prolongada de 180 dias e licença paternidade de 20 dias; </li><li>Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis; </li><li>GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, ganhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics! </li> </ul><p><b>O que esperar dessa posição </b> </p><p>Um especialista sênior que liderou a criação e gestão dos pipelines de dados que alimentam os modelos analíticos do projeto. Você será responsável por garantir a qualidade, integridade e disponibilidade dos dados para treinamento e inferência dos modelos de Machine Learning em produção. Esperamos que você oriente outros membros da equipe e defina estratégias de engenharia de dados e MLOps. Atuação em projeto de desenvolvimento e melhorias em sistemas bancários. </p><p><br></p><p><b>O que esperamos de você </b> </p><ul><li>Machine Learning: Profundo conhecimento em algoritmos de Machine Learning e na construção de modelos analíticos de ponta a ponta. </li><li>Engenharia de Dados: Ampla experiência na construção e otimização de pipelines de dados (ETL/ELT) com ferramentas como Apache Spark, Airflow ou similares. </li><li>Programação e Bibliotecas: Domínio de Python e suas bibliotecas de dados (Pandas, NumPy) e ML (Scikit-learn, TensorFlow/PyTorch). </li><li>MLOps: Experiência liderando a implementação de práticas de MLOps para versionamento, monitoramento e retreinamento automatizado de modelos. </li><li>Big Data: Habilidade para trabalhar com grandes volumes de dados em ecossistemas de Big Data (Data Lakes, Data Warehouses).  </li> </ul><p><br></p><p><b>O que fazer em seguida </b> </p><p>Caso você seja uma pessoa que está procurando, aguarde nosso contato para conhecê-lo melhor e siga as instruções durante o processo seletivo. Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail  . </p>",
-    "company": "Getronics",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4163989__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Tech Systems Analyst",
-    "description": "<p>We are looking for a strong Java Application Support Engineer to join our global Financial Services application support team, made up of team members in the United States, Brazil, and India. This position will sit remotely in Brazil. In this role, you will monitor, troubleshoot, deploy, and debug existing applications. Relational Database experience with SQL, MySQL, Oracle SQL, or PL/SQL experience is preferred. Deployment experience using Jenkins is highly preferred. Our team works in an Agile Scrum environment with daily stand-ups and sprint meetings. You will be a part of an on-call rotation once you are trained on our applications. </p><p><br></p><p>Responsibilities: </p><ul><li>Java application support </li><li>Monitor, troubleshoot, deploy, and debug existing applications </li><li>Debug software components, identify, fix, and verify remediation of code defects (own work and the work of others) </li><li>Support and maintain projects developed by the team and assist in production deployment and outages </li><li>Configure, deploy, debug, monitor, and document new system features and enhancements using Jenkins </li><li>Successfully communicate designs, research, and potential issues with team members </li><li>Collaborate with business professionals to determine functional and non-functional requirements for software development projects. </li><li>Participate in rotational 24x7 on-call 3rd/4th level support </li> </ul><p><br></p><p>Qualifications: </p><ul><li>Associate Degree, or, Technologo (Technologist) Degree, or higher is required. </li><li>4+ Years of Java/J2EE application support experience </li><li>2+ years of Relational Database experience </li><li>2+ years of CI/CD tools (Jenkins) </li><li>2+ years of experience on Linux platform </li><li>Good understanding of Object-Oriented Programming and Design principles </li><li>Knowledge of the full lifecycle of software development including use of version control tools, build management, unit testing, issue tracking software (e.g. SVN, Git, Maven, Jenkins, JIRA) </li><li>Excellent organizational skills, self-administration, attention to detail, multi-tasking, and effective prioritization </li><li>Strong interpersonal and English communication skills </li><li>Self-motivated and able to meet objectives </li><li>Experience with the following technologies preferred: </li><li>Spring/Spring-MVC/Spring Batch/Spring Boot is a plus </li><li>Tomcat, JBoss </li><li>REST Services, SOAP Services </li><li>Relational Database experience  </li><li>JIRA & Confluence </li><li>Dynatrace & Splunk </li> </ul>",
-    "company": "InComm Payments",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4164001__1953?utm_source=1953&utm_medium=feed&keyword=Tech-Systems-Analyst&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Engenheiro químico",
-    "description": "<p><b>Faça parte de uma das maiores empresas de serviços de TI do mundo! Aqui você transforma a sua carreira! </b> </p><p><br></p><p>Por que entrar na TCS? Aqui na TCS acreditamos que as pessoas fazem a diferença, é por isso que vivemos uma cultura de aprendizado ilimitado, cheia de oportunidades de melhoria, e desenvolvimento mútuo. O cenário ideal para expandir ideias através das ferramentas certas, contribuindo para o nosso sucesso em um ambiente colaborativo. </p><p><br></p><p>Estamos procurando por <b>Engenheiro químico </b>, que queira aprender e transformar sua carreira, em modalidade <b>CLT </b>, <b>Presencial,  </b>na cidade do<b> Rio de Janeiro - RJ. </b> </p><p><br></p><p><b>Principais Responsabilidades: </b> </p><ul><li>Acompanhamento do projeto HISEP (simulação, processo, injeção química, análise de risco,...). </li><li>Acompanhamento da prontidão do protótipo de Teste do HISEP. Necessidade de viagens eventuais a Itajubá-MG. </li><li>Acompanhamento de outros projetos de pesquisa, em especial junto ao CENPES.  </li> </ul><p><br></p><p><b>Educational grade / Formação: </b> </p><ul><li>Nível superior em ENGENHARIA QUIMICA ou DE PETROLEO reconhecida pelo MEC e registro regular no respectivo órgão de fiscalização do exercício da atividade. </li> </ul><p><br></p><p><b>Technical competencies / Competências técnicas: </b> </p><ul><li>8 (oito) anos de experiência em atividades na área de Gestão de Projetos. </li><li>Experiência em simulação de processos. </li><li>Experiência em gerenciamento estruturação de escopo, cronograma, custos, qualidade e aquisições. </li> </ul><p><br></p><p><b>Experience / Experiência: </b> </p><ul><li>Desejável vivência em ambientes de alta complexidade operacional, na Indústria de Petróleo e Gás. Desejável experiência com gestão de projetos. </li> </ul><p><br></p><p><br></p><p><<<< Por favor, anexe o seu currículo em inglês >>>>>> </p><p><br></p><p><br></p><p><br></p><p><b>O que oferecemos? Benefícios da TCS Brasil: </b> </p><ul><li>Plano de Saúde </li><li>Plano Odontológico </li><li>Seguro de Vida </li><li>Vale Transporte </li><li>Vale Refeição/Alimentação </li><li>Auxílio Creche </li><li>Gympass </li><li>TCS Cares – 0800 gratuito que fornece assistência 24h/dia: psicológica, jurídica, social e financeira </li><li>Parceria com o SESC </li><li>Reembolso de Certificações </li><li>Portal de aprendizagem gratuito da TCS – cursos online e treinamentos ao vivo </li><li>Oportunidade de experiência internacional </li><li>Parceria de Descontos com Universidades e Escolas de Idiomas </li><li>Bring Your Buddy – Ao indicar pessoas você se torna elegível a receber um bônus para cada contratação </li><li>TCS Gems – Reconhecimento por performance </li><li>Xcelerate – Plataforma de carreira com mentoria gratuita </li> </ul><p><br></p><p><br></p><p>A Tata Consultancy Services é uma empresa que oferece oportunidades iguais a todos os candidatos que atendam nossas necessidades de conhecimento e competência, independente de qualquer origem socioeconômica, raça, cor, nacionalidade, religião, sexo, gênero, idade, estado civil, condição de saúde, acessibilidade reduzida ou qualquer outro. Incentivamos qualquer pessoa interessada em construir uma carreira na TCS a participar do nosso processo de recrutamento e seleção. Promovemos uma cultura inclusiva, sempre trabalhamos pela equidade. Nosso lema é \\\"Inclusão sem exceção\\\". Junte-se a nós e torne-se um TCSer! </p><p><br></p><p>RGS:   </p>",
-    "company": "Tata Consultancy Services",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4167476__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-qu%C3%ADmico&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
     "title": "SAP Basis",
     "description": "<p>Localização: </p><p>Remoto </p><p>Tipo de Contrato: </p><p>PJ </p><p>Sobre a Vaga </p><p>Estamos em busca de um(a) profissional sênior com experiência em SAP BASIS para integrar a equipe do nosso cliente. Nesta função, você contribuirá com a assessoria em questões de arquitetura técnica, suporte em situações críticas e participação em atividades de lançamento e manutenção. </p><p>Responsabilidades </p><ul><li>Assessorar clientes em questões de arquitetura técnica e paisagem. </li><li>Suportar a desescalada de situações críticas de clientes, trabalhando com equipes relevantes da SAP. </li><li>Participar de atividades de lançamento e manutenção de clientes. </li><li>Fornecer suporte técnico contínuo e transferência de conhecimento. </li><li>Revisar o status da conta e transitar contas à medida que o volume ou a complexidade aumenta. </li> </ul><p>Requisitos </p><ul><li>Mínimo de 5 anos de experiência em SAP Basis. </li><li>2 anos de conhecimento em nuvem (gestão de soluções, consultoria ou gestão de programas de entrega). </li><li>Experiência prática com Aplicação S/4 HANA e banco de dados HANA. </li><li>Experiência obrigatória em Upgrade & Migração SAP (OS/DB). </li> </ul><p>Qualificações Desejáveis </p><ul><li>Experiência na integração de produtos SaaS (ex.: Ariba, Salesforce, C4S) com o ambiente SAP é um diferencial. </li><li>Experiência com qualquer hyperscaler (AWS, Azure ou GCP). </li> </ul><p>Quem Somos </p><p>Talento onde você precisa, quando você precisa! A SGF Global é uma provedora líder de soluções especializadas em talentos, dedicada a conectar profissionais altamente qualificados com oportunidades em diversos setores. Oferecemos soluções de contratação para posições temporárias, permanentes e de contrato para efetivação em áreas como tecnologia, finanças e contabilidade, engenharia, marketing e criação, serviços jurídicos, suporte administrativo e ao cliente, energia, petróleo e gás, telecomunicações, manufatura, aeroespacial, ciências da vida, mineração e utilidades. </p><p>Na SGF Global, trabalhamos para colocá-lo na melhor posição para ter sucesso. Oferecemos acesso a posições de alto nível, remuneração competitiva, benefícios atrativos e treinamentos online gratuitos. Fique por dentro de todas as oportunidades, a qualquer momento — mesmo em movimento. </p>",
     "company": "SGF Global",
@@ -320,7 +275,7 @@
     "company": "T-Systems do Brasil",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4195702__1953_6ba1e981852cacf5b63222825ef1da9e?utm_source=1953&utm_medium=feed&keyword=Analista-de-Neg%C3%B3cios&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4195702__1953_ab88aadd254535b40c2f17a95a2a7b6f?utm_source=1953&utm_medium=feed&keyword=Analista-de-Neg%C3%B3cios&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -617,7 +572,7 @@
     "company": "SONDA",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4293681__1953_c9ee93fa6dffd98444475ee505101c32?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack-Power&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4293681__1953_9f2f5a9efeda379987b84b38dc91c0e3?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack-Power&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -653,7 +608,7 @@
     "company": "GFT Technologies Brasil",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4303927__1953_3a39b066632e597460bac9c8a3efd278?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4303927__1953_d71de62cc2bc0ceca5aed55f1d9a7c91?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -779,7 +734,7 @@
     "company": "AgileHRO",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4352383__1953_288955de2367d5ff8c94f409d711b3d3?utm_source=1953&utm_medium=feed&keyword=Lead-Telecommunication-Engineer&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4352383__1953_7370a8579dafb8c6ee8a580050294ab8?utm_source=1953&utm_medium=feed&keyword=Lead-Telecommunication-Engineer&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -914,7 +869,7 @@
     "company": "Stefanini Brasil",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4414916__1953_99b6d3803201485e48e40e7365ba3a10?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4414916__1953_a2158c0e5bdf525af2f8364eb22d38ef?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1202,7 +1157,7 @@
     "company": "Almaviva Solutions",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4442410__1953_e5e6cf406c3aa23e30ee6920a4a747bb?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-NET-PL&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4442410__1953_cf73418a1be4c0a2d861a2406cf27812?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-NET-PL&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1301,7 +1256,7 @@
     "company": "BRQ Digital Solutions",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4447365__1953_ddb9e9022be7d97f740523d9c8f36d20?utm_source=1953&utm_medium=feed&keyword=Senior-Site-Reliability&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4447365__1953_22c616f8ad6082b8d1c8926f2ae8b1e1?utm_source=1953&utm_medium=feed&keyword=Senior-Site-Reliability&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -2840,7 +2795,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469307__1953_5ae8e905d1c7fdd68053bef99278e118?utm_source=1953&utm_medium=feed&keyword=Fundamentos-da-Soldagem&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469307__1953_7b512e9b07d74182521a0ed9da5e8ac6?utm_source=1953&utm_medium=feed&keyword=Fundamentos-da-Soldagem&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2849,7 +2804,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469312__1953_e4b348012fb4320991e12f4687ceaff8?utm_source=1953&utm_medium=feed&keyword=Preven%C3%A7%C3%A3o-e-Compreens%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469312__1953_269c1afbe76e718aa7b2f1a2707af391?utm_source=1953&utm_medium=feed&keyword=Preven%C3%A7%C3%A3o-e-Compreens%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2858,7 +2813,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469313__1953_98ffc969b9ca8aab08310296a695af55?utm_source=1953&utm_medium=feed&keyword=%C3%81lgebra-para-Matem%C3%A1tica&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469313__1953_e5113f79400f79b05fd7a92535ac9d41?utm_source=1953&utm_medium=feed&keyword=%C3%81lgebra-para-Matem%C3%A1tica&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2867,7 +2822,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469315__1953_b655b52eeb9acf89a940ebadd2f10f72?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Criptomoedas&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469315__1953_c046a0707db8109ae5f479590a816024?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Criptomoedas&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2876,7 +2831,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469317__1953_1e525414303af488951464be89272cbc?utm_source=1953&utm_medium=feed&keyword=Treinamento-para-Trabalhadores&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469317__1953_78dccebe3bcb92ed05fb382121c76390?utm_source=1953&utm_medium=feed&keyword=Treinamento-para-Trabalhadores&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2885,7 +2840,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469318__1953_e121c020bb73dff329622e0f03a4a313?utm_source=1953&utm_medium=feed&keyword=C%C3%A1lculo-de-Folha&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469318__1953_9b64877ef04430ac811b03ff040284ba?utm_source=1953&utm_medium=feed&keyword=C%C3%A1lculo-de-Folha&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2894,7 +2849,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469319__1953_c5bc64c8d82d28f803de0c080521438d?utm_source=1953&utm_medium=feed&keyword=Equipamentos-e-Dispositivos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469319__1953_b36a44622a9dd3438b301b81d0324fd6?utm_source=1953&utm_medium=feed&keyword=Equipamentos-e-Dispositivos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2903,7 +2858,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469320__1953_dc422e254a23d7e4cb2031f7a321f143?utm_source=1953&utm_medium=feed&keyword=Fundamentos-da-Reda%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469320__1953_da83edf8ac2b6ea8e2826089f614e7a9?utm_source=1953&utm_medium=feed&keyword=Fundamentos-da-Reda%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2912,7 +2867,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469326__1953_22a1c3d3c2e80946a3214cbb23de83b6?utm_source=1953&utm_medium=feed&keyword=Dificuldades-Espec%C3%ADficas-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469326__1953_ea25722425515c68d3a2fde528165325?utm_source=1953&utm_medium=feed&keyword=Dificuldades-Espec%C3%ADficas-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4901,7 +4856,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471295__1953_648664a29424c26be022a35185e9ea75?utm_source=1953&utm_medium=feed&keyword=Treinamento-Know-Your&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471295__1953_cedc00055ba82f8c2c291b75ce75874b?utm_source=1953&utm_medium=feed&keyword=Treinamento-Know-Your&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4910,7 +4865,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471297__1953_24cef5faf587edd815b7f0a5d5d6a1ea?utm_source=1953&utm_medium=feed&keyword=Psicologia-do-Esporte&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471297__1953_3cd773605c9b60fb701bd1405a790391?utm_source=1953&utm_medium=feed&keyword=Psicologia-do-Esporte&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4919,7 +4874,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471298__1953_a2aecc8b8130be5c6adb67150c5f0551?utm_source=1953&utm_medium=feed&keyword=Fundamentos-do-Processamento&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471298__1953_ac2486fba6947547c633cb1756013a64?utm_source=1953&utm_medium=feed&keyword=Fundamentos-do-Processamento&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4928,7 +4883,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471299__1953_c23a48a76307474227e37445a62c640f?utm_source=1953&utm_medium=feed&keyword=Como-se-Tornar&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471299__1953_7604baa1ab00c93eb96c9a98c293fb52?utm_source=1953&utm_medium=feed&keyword=Como-se-Tornar&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4937,7 +4892,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471300__1953_ed9edc184a4f2f29605a157656267710?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Conscientiza%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471300__1953_c92d06443940ec28c26e2c0bfa547ba5?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Conscientiza%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4946,7 +4901,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471301__1953_4d9ca29fb2d0abfc144c78b73ea7a1ac?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Terminologia&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471301__1953_db1a5963372ff3b28d143143ba1c2397?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Terminologia&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5918,7 +5873,7 @@
     "company": "Cogna Educação",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4476185__1953_79b99094b81c8a8699c8508ca11952aa?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4476185__1953_5c2a1b8b3542a5f7288790261f31c1e2?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -6341,7 +6296,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480226__1953_3013e1b11855b64804dc1d17774658e4?utm_source=1953&utm_medium=feed&keyword=Estrat%C3%A9gias-e-Pr%C3%A1ticas&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480226__1953_5de728554115a2d9885393aa1a448417?utm_source=1953&utm_medium=feed&keyword=Estrat%C3%A9gias-e-Pr%C3%A1ticas&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6350,7 +6305,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480228__1953_58f065fcb91672247a1046a8514d542c?utm_source=1953&utm_medium=feed&keyword=Diretrizes-EHS&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480228__1953_e7e4a8e52d2470b3ee89f4e4f3bd8bb4?utm_source=1953&utm_medium=feed&keyword=Diretrizes-EHS&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6359,7 +6314,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480230__1953_0a5d302f68ec6a11b6b8e896c03b4e1f?utm_source=1953&utm_medium=feed&keyword=Diploma-Avan%C3%A7ado-em&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480230__1953_51b73322351d840d5cbfed7ca53d4bdd?utm_source=1953&utm_medium=feed&keyword=Diploma-Avan%C3%A7ado-em&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6368,7 +6323,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480232__1953_0957ca541cf45c1f724f3b8157b7b609?utm_source=1953&utm_medium=feed&keyword=Diploma-Avan%C3%A7ado-em&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480232__1953_02aabe779092974b06586ce9defb3c0d?utm_source=1953&utm_medium=feed&keyword=Diploma-Avan%C3%A7ado-em&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6377,7 +6332,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480233__1953_92538bd287f4f866f3ebb747080f94ab?utm_source=1953&utm_medium=feed&keyword=M%C3%BAsica-na-Educa%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480233__1953_43fa882ef17d988eba880cf8cbaed312?utm_source=1953&utm_medium=feed&keyword=M%C3%BAsica-na-Educa%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6386,7 +6341,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480238__1953_c97fba06204adde05292ab83a376c0bc?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480238__1953_c6d7a71a1c9117e671ce9f138200a9dd?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6395,7 +6350,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480240__1953_5682493c409e982f6c08f69803d7f61a?utm_source=1953&utm_medium=feed&keyword=Estudos-em-Enfermagem&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480240__1953_a7859915540c2fde363ad753826b4afe?utm_source=1953&utm_medium=feed&keyword=Estudos-em-Enfermagem&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6404,7 +6359,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480242__1953_190fb39c422ac8daac1def19b441046e?utm_source=1953&utm_medium=feed&keyword=Estudos-em-Sa%C3%BAde&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480242__1953_71668c977d8252c7d294ae0b48c257b0?utm_source=1953&utm_medium=feed&keyword=Estudos-em-Sa%C3%BAde&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6413,7 +6368,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480243__1953_6f347fb34c01695eb161398e802a4b53?utm_source=1953&utm_medium=feed&keyword=Trabalhando-como-Assistente&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480243__1953_066215ba295bc912e0844bab6fb0ea89?utm_source=1953&utm_medium=feed&keyword=Trabalhando-como-Assistente&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7862,7 +7817,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480728__1953_a46ebb5cd4cece12523f73b2c19d7616?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Turismo&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480728__1953_c0cdf6f2b67240ba96f1a69ac199554c?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Turismo&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7871,7 +7826,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480729__1953_ac089c987626045d0e02edbb57875817?utm_source=1953&utm_medium=feed&keyword=Franc%C3%AAs-para-Iniciantes&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480729__1953_2c9c16587c93dcc1886a6cd03cc14523?utm_source=1953&utm_medium=feed&keyword=Franc%C3%AAs-para-Iniciantes&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7880,7 +7835,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480730__1953_22d1ae1a89a9f001b128804a6501bcff?utm_source=1953&utm_medium=feed&keyword=Curso-Completo-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480730__1953_ec9ec5d426a53a85747191fe77bdecec?utm_source=1953&utm_medium=feed&keyword=Curso-Completo-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7889,7 +7844,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480731__1953_6a83ecbb5f8fa72281821cdb54a23d15?utm_source=1953&utm_medium=feed&keyword=Curso-de-Introdu%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480731__1953_7c9d6553c7c7fcc37ccfe34487b7e8fb?utm_source=1953&utm_medium=feed&keyword=Curso-de-Introdu%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7898,7 +7853,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480732__1953_559c98f27d7b8a14011baf2ddabc1bc5?utm_source=1953&utm_medium=feed&keyword=PNL-Programa%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480732__1953_135bacd5274d1c72c96f7962897868cb?utm_source=1953&utm_medium=feed&keyword=PNL-Programa%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7907,7 +7862,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480734__1953_61292eac20c291bfe04766b78421c4de?utm_source=1953&utm_medium=feed&keyword=Fundamentos-da-Enfermagem&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480734__1953_ecd6057123ed1b6c330c76609a91215c?utm_source=1953&utm_medium=feed&keyword=Fundamentos-da-Enfermagem&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7916,7 +7871,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480737__1953_60a266fc0e120dcb6ff279cb76ef0d17?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Seguran%C3%A7a&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480737__1953_8158422a7b616db8a45da9768bbebafa?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Seguran%C3%A7a&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7925,7 +7880,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480740__1953_301d6afb1992c8bae57c59cfee517f6e?utm_source=1953&utm_medium=feed&keyword=Curso-Online-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480740__1953_60a514db485e9001fd62dcebd58308a4?utm_source=1953&utm_medium=feed&keyword=Curso-Online-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7934,7 +7889,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480742__1953_3abaf950a4b3e5ae28094565d20d39b6?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-de-Casos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480742__1953_39c7719b89f51b50598ed27f4047ed08?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-de-Casos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7943,7 +7898,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480744__1953_2fe641e3d9f0f8c3b5ad580aec692e4b?utm_source=1953&utm_medium=feed&keyword=Sa%C3%BAde-Canina-Ra%C3%A7as&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480744__1953_cacc00c61a37f9a92dd5b8f3642545b4?utm_source=1953&utm_medium=feed&keyword=Sa%C3%BAde-Canina-Ra%C3%A7as&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -8997,6 +8952,51 @@
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_4490229__1953_e6080b6e7ed15f48b5e78302aaa8042a?utm_source=1953&utm_medium=feed&keyword=Marketing-em-M%C3%ADdias&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Torne-se um Auxiliar de Preparação de Alimentos (VAGAS DISPONÍVEIS)",
+    "description": "<p>Uma coisa que une as pessoas ao redor do mundo é a comida. Diversas culinárias, sabores e ingredientes formam a base da indústria de preparação de alimentos. Como em muitas profissões, um conjunto de regras, técnicas e políticas padrão deve ser aplicado durante o preparo dos alimentos. Este curso de serviço de alimentação examina as políticas e fluxos de trabalho da indústria de preparação de alimentos. Primeiro, identificamos várias ferramentas culinárias e explicamos como usá-las para desempenhar suas funções.  A importância das práticas de higiene e segurança alimentar muitas vezes é subestimada. Discutimos como a higiene e a segurança dos alimentos impactam a saúde humana e afetam a frescura e o sabor dos alimentos preparados. O curso apresenta uma abordagem simples para planejamento de cardápio e desenvolvimento de receitas. Em seguida, exploramos o mundo da seleção, manuseio e cuidado com facas, demonstrando várias técnicas de corte. Abordamos os componentes fundamentais da excelência culinária, incluindo preparo de caldos, molhos e sopas.  Chefs profissionais utilizam diversas técnicas para cozinhar legumes, frutas, carnes e frutos do mar. Focamos nas abordagens mais básicas que podem ser aplicadas a qualquer prato. Explicamos como cozinhar massas perfeitamente com o método \"al dente\" e destacamos a importância de manter medidas precisas ao assar. Por fim, discutimos a seleção e preparo de frutos do mar. Este curso de serviço de alimentação é ideal para aspirantes a chefs e auxiliares de preparação, e para qualquer pessoa que goste de usar a criatividade na cozinha. Inscreva-se para aprender a se tornar um auxiliar de preparação de alimentos. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490232__1953?utm_source=1953&utm_medium=feed&keyword=Torne-se-um-Auxiliar&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Sistema de Gestão da Qualidade AS9100D para a Indústria Aeroespacial (VAGAS DISPONÍVEIS)",
+    "description": "<p>A necessidade de um padrão robusto para a indústria da aviação tem sido globalmente reconhecida por bastante tempo. Após várias tentativas de regulamentar esse setor, atualmente a AS9100D é o principal padrão para organizações que planejam, desenvolvem ou fornecem peças, componentes e conjuntos para as indústrias aeroespacial e de defesa. Este curso é uma tentativa de explorar esse padrão em detalhes e compreender seus principais requisitos.  Dividido em dois módulos, o curso inicialmente ajuda os estudantes a navegar pelas diferentes versões dos padrões AS publicados até hoje. Em seguida, inicia a explicação das cláusulas desse padrão. Apenas as cláusulas principais, ou seja, as cláusulas 4 a 10, fazem parte deste curso. Os alunos receberão explicações dessas cláusulas de forma sequencial. No primeiro módulo, as cláusulas 4, 5, 6 e 7 são explicadas. Já no segundo módulo, são abordadas as cláusulas 8, 9 e 10.  Para diversificar o conteúdo do curso, os desenvolvedores utilizaram diferentes abas, acordions e listas com marcadores. Os alunos também encontrarão explicações ilustradas sobre várias causas. Ao final de cada módulo, há uma lista de questões de avaliação para auxiliar os estudantes a revisarem os pontos principais do tema. Em resumo, este curso é útil para qualquer pessoa que deseje ingressar na indústria da aviação e obter conhecimento sobre a regulamentação e padronização deste setor. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490233__1953?utm_source=1953&utm_medium=feed&keyword=Sistema-de-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Curso Introdutório de Bartender e Mixologia (VAGAS DISPONÍVEIS)",
+    "description": "<p>Você sonha em se tornar o destaque da festa preparando coquetéis perfeitos? Este curso online gratuito aborda a questão comum dos bartenders iniciantes: a falta de conhecimento prático e abrangente. Ao explorar o essencial do bartending e da mixologia, você aprenderá a organizar seu espaço de bar de forma eficiente, dominar a delicada arte do equilíbrio de sabores e compreender as responsabilidades nuances de um bartender profissional.  Avançando, este curso aprimora suas habilidades práticas através de técnicas manuais como servir com precisão, agitar coquetéis, mexer e a arte de macerar. Você também descobrirá a importância da apresentação, desde a escolha do copo adequado até o uso detalhado de guarnições, garantindo que cada bebida servida seja um deleite visual. Seja na montagem em camadas de bebidas ou na criação de misturas suaves, você adquirirá as habilidades necessárias para se destacar atrás do balcão.  Por fim, o curso vai além do básico e adentra a mixologia avançada. Você dominará coquetéis tradicionais, infusões e bebidas exclusivas. Aprenda a preparar mocktails deliciosos e produzi-los em quantidade para eventos maiores, economizando tempo e dinheiro. Em última análise, você seguirá receitas e criará as suas próprias, preparando-se para uma carreira de sucesso como bartender. O conteúdo do curso foi desenvolvido em parceria com Jade Ismail, Consultora de Alimentos e Bebidas. Para mais informações sobre nossa especialista, visite  O texto foi gerado em parte com GPT-4o, modelo avançado da OpenAI, e revisado por especialistas para garantir precisão e alta qualidade pedagógica. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490234__1953?utm_source=1953&utm_medium=feed&keyword=Curso-Introdut%C3%B3rio-de&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Fundamentos do Six Sigma (6σ) - White Belt Six Sigma (VAGAS DISPONÍVEIS)",
+    "description": "<p>Neste curso online gratuito White Belt Six Sigma, você aprenderá sobre os princípios básicos do Six Sigma e sua comparação com o Lean. Você entenderá como combinar Lean e Six Sigma para trazer maiores benefícios à organização. Conhecerá diferentes definições de Six Sigma, juntamente com suas perspectivas, técnicas, metodologias e métricas. Também aprenderá as diversas abordagens para implementar o Six Sigma e suas respectivas descrições. Além disso, conhecerá as diferentes ferramentas que o Six Sigma utiliza para aplicar seus processos.  Em seguida, a abordagem DMAIC é explicada com a descrição de suas cinco fases. Após isso, os procedimentos do DMAIC são detalhados. Depois, a abordagem DMADV é introduzida e explicada, sendo ambas comparadas e contrastadas. Cada um dos níveis do Six Sigma Belts é apresentado e descrito, antes dos papéis do Six Sigma Champion e do Six Sigma Executive serem explicados. Por fim, as certificações Six Sigma são apresentadas, juntamente com suas funções dentro de uma organização.  Ao concluir este curso gratuito, você adquirirá informações valiosas sobre os conceitos básicos do Six Sigma. Esse conhecimento é benéfico para qualquer pessoa que atue no mundo dos negócios em qualquer nível. White Belts não apenas podem ajudar na gestão de mudanças dentro de uma organização, como também podem participar de times locais de resolução de problemas que apoiam projetos. Essas são habilidades valiosas, então por que esperar? Inscreva-se agora e comece a aprender hoje mesmo! </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490235__1953?utm_source=1953&utm_medium=feed&keyword=Fundamentos-do-Six&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Atualização ISO 14001:2015/Amd 1:2024 – Sistemas de Gestão Ambiental (VAGAS DISPONÍVEIS)",
+    "description": "<p>Sua organização está preparada para os mais recentes desafios em gestão ambiental? Com a Emenda 2024 da ISO 14001, manter conformidade e competitividade está mais complexo do que nunca. Essas atualizações trazem novas expectativas e responsabilidades, tornando fundamental estar informado. Compreender essas mudanças é essencial não só para manter a conformidade, mas também para garantir a sustentabilidade e o alinhamento regulatório de longo prazo da sua empresa.  Nosso curso Atualização ISO 14001:2015/Amd 1:2024 – Sistemas de Gestão Ambiental desvenda com maestria as complexidades das normas atualizadas, oferecendo uma visão detalhada de como elas impactam diretamente as operações do seu negócio. Descubra como as considerações sobre mudanças climáticas se tornaram parte integrante da ISO 14001 e como essas alterações alinham a norma aos frameworks ISO mais amplos, garantindo uma gestão ambiental abrangente.  Não permita que os novos requisitos de auditoria o surpreendam ou prejudiquem seu negócio. Este curso oferece o conhecimento essencial para navegar com confiança pelo processo de auditoria atualizado. Você entenderá exatamente o que os auditores estão buscando agora e como garantir que sua empresa não apenas atenda, mas supere continuamente as expectativas ambientais mais recentes. Transforme essas atualizações em uma vantagem estratégica que impulsiona o sucesso! </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490238__1953?utm_source=1953&utm_medium=feed&keyword=Atualiza%C3%A7%C3%A3o-ISO-14001-2015-Amd&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   }
 ]
