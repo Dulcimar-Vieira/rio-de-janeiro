@@ -1,95 +1,5 @@
 [
   {
-    "title": "Business Systems Administrator",
-    "description": "<p><b>Business Systems Administrator </b> </p><p><br></p><p><b>Location </b>: Remote (Brazil) </p><p><br></p><p><br></p><p><b>About Sphise Technologies </b> </p><p><br></p><p>Sphise Technologies is a global outsourcing and talent solutions company, partnering with high-growth businesses to build strong, high-impact teams across finance, technology, and operations. Our trusted technology partner is scaling its operational systems ecosystem and is seeking a <b>Business Systems Administrator </b> to support the stability, integration, and growth of its core business platforms. As the organisation expands, this role will play a key part in ensuring systems remain reliable, integrated, and optimised while supporting AI-enabled workflows and operational efficiency. </p><p><br></p><p><br></p><p><b>Position Overview </b> </p><p><br></p><p>We are seeking an experienced <b>Business Systems Administrator </b> to support the daily operation, optimization, and expansion of core business systems. This contractor role will serve as a central technical and strategic partner to Business Operations, ensuring that the organization’s systems ecosystem remains stable, integrated, scalable, and capable of supporting future growth. This role requires experience managing multiple interconnected platforms, building integrations and APIs, and implementing automation and AI-powered solutions that improve operational efficiency and decision-making. Core systems include platforms such as <b>HubSpot, Gong, Maxio, Arrows, ZoomInfo </b>, and other operational and revenue tools. </p><p><br></p><p><br></p><p><br></p><p><b>What You'll Do: </b> </p><p><br></p><ul><li>Manage the day-to-day administration and performance of core business systems </li><li>Maintain system access, permissions, and overall platform reliability </li><li>Build and maintain integrations and APIs across CRM, revenue, and operational systems </li><li>Troubleshoot system issues and ensure reliable data flow between platforms </li><li>Support the implementation of automation and AI-powered workflows </li><li>Assist with onboarding and rollout of new tools and platforms </li><li>Ensure data accuracy, governance, and reporting across systems </li><li>Partner with internal teams to improve processes and system efficiency. </li> </ul><p><br></p><p><br></p><p><b>What You Bring: </b> </p><p><br></p><ul><li><b>3+ years of experience </b> managing business systems in a SaaS or high-growth environment </li><li>Strong experience administering <b>CRM and revenue platforms (HubSpot required) </b> </li><li>Proven experience building and managing <b>APIs and system integrations </b> </li><li>Experience working with <b>multi-system ecosystems </b> </li><li>Hands-on experience implementing <b>automation or AI-enabled tools </b> </li><li>Strong systems thinking and architectural mindset </li><li>Excellent troubleshooting and problem-solving skills </li><li>High attention to detail and focus on data integrity </li><li>Strong written and verbal communication skills </li><li>Ability to translate business needs into technical solutions. </li> </ul><p><br></p><p><br></p><p><b>Nice to Have </b> </p><ul><li>Experience with <b>Gong, Maxio, Arrows, ZoomInfo </b>, or similar revenue operations tools </li><li>Familiarity with <b>iPaaS tools </b> such as Zapier, Make, or Workato </li><li>Experience supporting <b>Customer Success and Revenue Operations teams </b> </li><li>Background in <b>process optimization and change management </b> </li><li>Experience working in <b>private equity-backed or rapidly scaling organizations. </b> </li> </ul><p><br></p><p><br></p><p><b>What We Offer </b> </p><ul><li>Competitive compensation </li><li>Fully remote work environment </li><li>Opportunity to work with modern SaaS platforms and automation tools </li><li>High-impact role supporting business operations and systems strategy </li><li>Collaborative and fast-growing environment with strong ownership. </li> </ul>",
-    "company": "Sphise",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4417922__1953_bd0418bd3ea2dc81514a1b9f8721e05e?utm_source=1953&utm_medium=feed&keyword=Business-Systems-Administrator&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Senior Data Engineer",
-    "description": "<p><b>Senior Data Engineer (Oracle / ODI) – Data Warehouse & ETL Specialist </b> </p><p><b>About the Role </b> </p><p>We are looking for a <b>Senior Data Engineer with strong expertise in Oracle and ODI (Oracle Data Integrator) </b> to join our team and support enterprise-grade data initiatives. </p><p>This role is ideal for professionals who thrive in <b>complex data environments </b>, working with large-scale Data Warehouses and mission-critical systems — especially within financial services or similar industries. </p><p>You will be responsible for designing, developing, and optimizing <b>ETL/ELT pipelines </b>, ensuring high standards of <b>data quality, performance, and reliability </b>. </p><p><b>Key Responsibilities </b> </p><ul><li>Design and develop ETL/ELT processes using ODI </li><li>Build and maintain scalable Data Warehouse solutions </li><li>Develop complex SQL and PL/SQL logic (procedures, packages, functions) </li><li>Implement data quality, reconciliation, and auditing frameworks </li><li>Optimize performance (SQL tuning, indexing, partitioning) </li><li>Develop and manage ODI Load Plans and workflows </li><li>Troubleshoot and debug data pipelines and mappings </li><li>Translate business requirements into technical specifications </li><li>Integrate multiple data sources (databases, files, APIs) </li> </ul><p><b>Required Qualifications </b> </p><ul><li>6+ years of experience in Data Engineering / ETL development </li><li>3+ years of hands-on experience with <b>Oracle Data Integrator (ODI) </b> </li><li>Strong expertise in <b>Oracle SQL and PL/SQL </b> </li><li>Proven experience in <b>Data Warehouse implementations (end-to-end) </b> </li><li>Deep understanding of ETL/ELT concepts and data modeling </li><li>Experience with: </li><li>ODI Topology, Designer, Operator </li><li>Knowledge Modules (KM) </li><li>Load Plans and scheduling </li><li>Error handling and data reconciliation </li><li>Strong analytical and problem-solving skills </li><li>Ability to work independently in fast-paced environments </li><li>Fluent or advanced English communication skills </li> </ul><p><b>Nice to Have </b> </p><ul><li>Experience in financial services industry </li><li>Exposure to modern data platforms (Databricks, Snowflake, etc.) </li><li>Cloud experience (AWS, Azure, or GCP) </li> </ul><p><b>What We Offer </b> </p><ul><li>Opportunity to work on <b>high-impact enterprise data projects </b> </li><li>Collaborative and technically strong team environment </li><li>Exposure to both <b>legacy and modern data architectures </b> </li><li>Career growth aligned with evolving data technologies </li> </ul><p><b>Apply Now </b> </p><p>If you are passionate about data engineering and enjoy solving complex data challenges, we’d love to hear from you. Send to  </p>",
-    "company": "Etho IT Solutions",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4419801__1953_33f13daa23df5b3bc6d6e3197234501d?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Staff AI Engineer | AI Orchestration & SDLC Automation",
-    "description": "<p>✨ Seu talento impulsiona o nosso futuro </p><p><br></p><p>A <b>Getnet </b> é uma empresa global de tecnologia especializada em soluções de pagamento para o comércio. Fundada no Brasil e presente na América Latina e na Península Ibérica, apoiamos mais de <b>1,3 milhão de comerciantes </b> com serviços completos — da maquininha ao e-commerce. </p><p>Fazemos parte da <b>PagoNxt </b>, a fintech global do Grupo Santander, e atuamos como um hub de adquirência com forte presença em <b>Espanha, Portugal, Brasil, México, Chile, Argentina e Uruguai </b>. </p><p>Nossa missão é clara: <b>simplificar os pagamentos com inovação, segurança e escala </b>, ajudando negócios de todos os tamanhos a crescer com agilidade. </p><p>Oferecemos uma plataforma unificada que integra hardware, software, prevenção à fraude, adquirência, conciliação e serviços financeiros — tudo em um só ecossistema, para que nossos clientes possam focar no crescimento do seu negócio. </p><p>Fazer parte da Getnet é se juntar a uma empresa que combina a inovação de uma fintech com a solidez de um banco global. </p><p><b>Imagine your future. Care for your career. Simplify your journey. </b> </p><p>Isso significa que você terá a chance de construir soluções de impacto, crescer com oportunidades reais de desenvolvimento e evoluir em uma cultura que valoriza bem-estar, inclusão e clareza. </p><p>Combinamos flexibilidade, autonomia e colaboração global — para que você possa focar no que importa, se conectar com propósito e ajudar a moldar o futuro. </p><p>Aqui, você vai encontrar espaço para crescer, oportunidades reais para liderar e uma cultura onde todas as pessoas pertencem e contribuem. </p><p>✨ <b>Se você quer fazer parte da próxima geração de soluções financeiras, este é o lugar certo. </b> </p><p><b>Já te imagina sendo Nxter? </b> </p><p><br></p><p>Na Getnet, estamos buscando uma pessoa para a vaga de Staff AI Engineer | AI Orchestration & SDLC Automation para se juntar ao nosso time no Brasil (Porto Alegre/RS ou São Paulo/RS) </p><p><br></p><p><b> O que você vai fazer </b> </p><p>Estamos buscando uma pessoa que irá atuar como Staff-level Engineer para projetar e gerenciar uma camada de orquestração de IA incorporada em nossos pipelines de CI/CD, transformando a IA em uma capacidade de engenharia de software controlada e escalável. </p><p>Essa função é responsável por institucionalizar agentes de IA (começando com Devin), automatizando o ciclo de vida do software de ponta a ponta, preservando a propriedade e a responsabilidade humanas. </p><p><br></p><p><b>AI Orchestration & Architecture: </b> </p><p>Projetar e implementar uma camada de orquestração de IA integrada ao pipeline de CI/CD. </p><p>Orquestrar agentes e habilidades de IA em todas as etapas do SDLC (design, desenvolvimento, teste, refatoração). </p><p>Definir como as sessões de IA são criadas, gerenciadas, versionadas, auditadas e revisadas. </p><p><br></p><p><b>Context Engineering at Scale: </b> </p><p>Projetar mecanismos para provisionar automaticamente o contexto por projeto, incluindo: </p><ul><li>Bases de código </li><li>Arquitetura e documentação </li><li>Padrões e políticas </li><li>Histórico de tickets e incidentes </li> </ul><p>Garantir que a IA opere com um contexto preciso, delimitado e em conformidade desde o primeiro dia. </p><p><br></p><p><b>SDLC Automation & Ticket Flow </b> </p><p>Automatize fluxos de trabalho a partir de tickets do Jira: </p><ul><li>Ingestão e classificação de tickets </li><li>Criação automática de sessões de IA </li><li>Vinculação de contexto e definição do escopo da tarefa </li><li>Ciclos de revisão e aprovação humana </li> </ul><p>Habilite a rastreabilidade de ticket → código → testes → implantação. </p><p><br></p><p><b>CI/CD Integration </b> </p><p>Incorpore a orquestração de IA em pipelines de CI/CD para: </p><ul><li>Geração e modificação de código </li><li>Geração e manutenção automatizadas de testes </li><li>Revisões de PR e verificações de qualidade </li><li>Verificações de conformidade e segurança </li> </ul><p>Garanta que os resultados da IA sejam governados, repetíveis e mensuráveis. </p><p><br></p><p><b>Devin Deployment & Scaling </b> </p><p>• Liderar a implementação inicial do Devin em toda a organização. </p><p>• Definir padrões de uso, diretrizes e modelos de adoção. </p><p>• Garantir que o Devin evolua de uma ferramenta para uma capacidade de engenharia padronizada. </p><p><br></p><p><b>Measurement & Governance </b> </p><ul><li>Definir métricas para medir o impacto da IA na produtividade, qualidade e confiabilidade. </li><li>Garantir que toda a atividade de IA seja observável, auditável e alinhada com a governança corporativa. </li><li>Aprimorar continuamente a orquestração com base em resultados e feedback. </li> </ul><p><br></p><p><b>Technical Leadership </b> </p><ul><li>Atuar como responsável técnico pela IA dentro do SDLC (Ciclo de Vida de Desenvolvimento de Software). </li><li>Colaborar com as equipes de Plataforma, DevOps, QA (Garantia da Qualidade), Segurança e Arquitetura. </li><li>Orientar engenheiros seniores e definir as melhores práticas. </li> </ul><p><br></p><p><b>✅ O que buscamos em você </b> </p><p>• Sólida experiência profissional em engenharia de software. </p><p>• Liderança técnica comprovada em nível de equipe/principal. </p><p>• Sólida experiência em engenharia de plataforma, CI/CD e ferramentas internas. </p><p>• Experiência na construção de sistemas de orquestração de fluxo de trabalho. </p><p>• Experiência prática na integração de agentes de IA ou LLMs em pipelines de produção. </p><p>• Experiência em ambientes regulamentados de grande escala. </p><p>• Experiência em desenvolvimento. </p><p><br></p><p><b>✅ Required skills </b> </p><p><b>Platform & Orchestration </b> </p><p>• Sistemas distribuídos e orquestração de fluxos de trabalho </p><p>• Design de pipelines CI/CD </p><p>• APIs, SDKs e frameworks de automação </p><p>• Observabilidade e auditabilidade </p><p><br></p><p><b>Applied AI </b> </p><p>• Modelos de Aprendizagem Baseados em Lógica (LLMs), orquestração de agentes, chamada de ferramentas </p><p>• Engenharia de contexto e RAG (Random Access Group - Grupo de Ação Racional) </p><p>• Fluxos de trabalho com interação humana </p><p>• Avaliação de resultados de IA e controle de qualidade </p><p><br></p><p><b>SDLC & Quality </b> </p><p>• Fluxos de trabalho baseados em Git </p><p>• Estratégias de teste automatizadas </p><p>• Controles de qualidade e aplicação de conformidade </p><p>• Produtividade do desenvolvedor e métricas de experiência do desenvolvedor </p><p><br></p><p><b>  O que oferecemos </b> </p>",
-    "company": "Getnet",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4420414__1953?utm_source=1953&utm_medium=feed&keyword=Staff-AI-Engineer&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Senior Staff Reservoir Simulation Engineer",
-    "description": "<p><b>Position Summary </b> </p><p>CMG is seeking a Senior Staff Reservoir Simulation Engineer to join our Customer Success and Consulting team. This is a full-time, permanent position. As part of the growing costumer success and consulting team, the successful candidate will play an active role in delivering high quality consulting, support and training services to end users and customers of CMG in a global setting. </p><p>CMG is a worldwide leader in its field, thanks to its great staff who consistently deliver superior technology and unparalleled customer service. </p><p><br></p><p><b>Essential Responsibilities </b> </p><p>The successful candidate will work as part of the Customer Success and Consulting team, under the direction of a Team Lead – CSC. </p><p><br></p><p>The successful candidate will: </p><ul><li>Become very proficient with CMG’s software suite, including the graphical pre- and post-processor. </li><li>Play an active role in supporting CMG clients who use the software for a variety of challenging and leading-edge petroleum reservoir recovery processes. </li><li>Teach advanced reservoir simulation training courses to CMG clients. </li><li>Become part of an international consulting team and work on conventional, unconventional, thermal, chemical, compositional and energy transition reservoir studies. </li><li>Will get an opportunity to develop broad knowledge and expertise in simulating various enhanced oil and gas recovery processes. </li><li>Develop knowledge and expertise in emerging energy transition topics such as subsurface and wellbore modelling of CCS/CO2 Sequestration, geothermal, hydrogen storage, etc. </li><li>Provide technical leadership and mentorship to junior engineers within the reservoir simulation team. </li><li>Act as a subject matter expert in reservoir simulation, providing guidance and expertise on complex projects and challenging technical issues. </li><li>Take a lead role in engaging with clients, understanding their needs, and providing high-level technical support and expertise. </li><li>Build and maintain strong client relationships, serving as a trusted advisor and consultant on reservoir simulation matters. Lead and oversee multiple reservoir simulation projects simultaneously, ensuring they are delivered on time, within budget, and to the client's satisfaction. </li><li>Coordinate with internal teams, including software development, technical support, and sales, to ensure seamless project execution and delivery. </li> </ul><p><br></p><p>The above statements are intended only to describe the general nature of the job and should not be construed as an all-inclusive list of position responsibilities. </p><p><br></p><p><b>Education </b> </p><p>Civil Engineering, Petroleum Engineering, Chemical Engineering, Mechanical Engineering, Geology post-secondary degree or related graduate or post-graduate degree. </p><p><br></p><p><b>Knowledge & Skills </b> </p><ul><li>This is a technical role that will require a good understanding of reservoir engineering concepts, enhanced recovery methods and reservoir simulation concepts. </li><li>Experience in advanced processes such as enhanced oil recovery (EOR) or emerging energy transition processes an asset. </li><li>Excellent technical and communication skills and a collaborative approach towards clients and colleagues. </li><li>Excellent analytical, troubleshooting and problem-solving skills. </li><li>Self-motivated, results focused team player with a positive attitude and ability to multi-task in a dynamic work environment. </li><li>Ability to clearly advise clients on technical matters. </li><li>Excellent public speaking and presentation skills. </li><li>Familiarity with state-of-the-art engineering software. </li><li>Hands-on experience with CMG simulation software or any other reservoir simulator an asset. </li><li>Require minimal supervision and have very good time management and communication skills both in written and verbal English. </li><li>Working proficiency of company standard MS Windows and associated office productivity software tools (Word, Excel, PowerPoint). </li><li>All applicants must be legally entitled to live and work in Brazil. </li><li>Be customer focused, learn about the business to help bring value to our customers. </li><li>Team focused with a positive attitude, must be self-motivated, and have very good time management and communication skills both in written and verbal English. </li> </ul><p><br></p><p><b>Experience  </b> </p><ul><li>Minimum of 15 years of experience is required. </li> </ul><p><br></p><p><b>No need to call us about the status of your application. We promise—we’re reviewing every submission, and if your skills are a match, you’ll hear from us! </b> </p><p>We kindly request that external recruiters and agencies refrain from submitting unsolicited resumes or candidate profiles. Submissions without a signed agreement in place will not be considered and will become the property of CMG. </p><p><br></p><p><b>About Us </b> </p><p><b>Innovators in Simulation Technology </b> </p><p>CMG (TSX:CMG) is a global software and consulting company that combines science and technology with deep industry expertise to solve complex subsurface and surface challenges for the new energy industry around the world. CMG is headquartered in Calgary, AB, with offices in Houston, London, Dubai, Bogota, Rio de Janeiro, Bengaluru, and Kuala Lumpur. For more information, please visit  </p>",
-    "company": "Computer Modelling Group",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4422954__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Staff-Reservoir&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Gerente Professional Services - Vaga Afirmativa para Mulheres",
-    "description": "<p>Venha fazer parte do i4time para juntos, impulsionarmos o mercado segurador do Brasil com tecnologia e inovação! </p> <p><br></p><p><b>O que fazemos? </b> </p><p>A i4pro é líder em soluções tecnológicas para o mercado segurador e a única empresa brasileira que atende todos os ramos regulados pela Susep. </p><p>Oferecemos soluções de administração de apólice de ponta a ponta, com experiência SaaS. </p><p>Somando alta tecnologia, experiência, conhecimento especializado e inovação, promovemos redução de custos, riscos operacionais e despesas em TI, possibilitamos que as seguradoras cresçam ao focar em seu core business. </p><p>Acreditamos que a simplicidade e agilidade são as chaves para a eficácia, ao tornar processos e experiências acessíveis e descomplicadas. </p><p>Hoje, temos mais de 270 colaboradores que fazem acontecer e +40 seguradoras que aproveitam os benefícios de nossos produtos e serviços! </p><p>Em 2025, pelo quinto ano consecutivo, recebemos a certificação do Great Place to Work (GPTW). </p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>i4pro + você = i4evc </b> </p><p>Ao longo de sua jornada na i4pro, você terá diversas oportunidades para se desenvolver, evoluir e transformar, tudo isso em um ambiente de trabalho colaborativo e saudável que preza pelo reconhecimento, valorização e bem-estar de todos. <b>Assim, contamos com você para: </b> </p><p><br></p><p><br></p><p>Garantir a <b>excelência na entrega dos serviços de software e consultoria da i4pro </b>, atuando como <b>gestora de contas estratégicas </b>, responsável pelo <b>relacionamento com clientes </b>, <b>governança da entrega </b>, <b>sustentação do dia a dia operacional </b> e <b>expansão de receita via vendas consultivas </b>, assegurando satisfação do cliente, rentabilidade e crescimento sustentável. </p><p><br></p><p><br></p><p>Ser o <b>braço executivo Professional Services </b> na gestão das contas e operações, equilibrando <b>entrega, relacionamento e crescimento comercial </b>, com autonomia para tomada de decisão no dia a dia e forte alinhamento estratégico. </p><p><br></p><p><br></p><p><b>Gestão de Delivery & Operação </b> </p><p>· Gerenciar a entrega de projetos e contratos de serviços, garantindo <b>prazo, qualidade, escopo e margem </b> </p><p>· Atuar na governança da operação, acompanhando <b>SLAs, KPIs, indicadores de qualidade e satisfação do cliente </b> </p><p>· Coordenar equipes multidisciplinares (gerentes de projeto, consultores, especialistas técnicos) </p><p>· Identificar riscos operacionais e atuar preventivamente em planos de mitigação </p><p>· Implementar e sustentar boas práticas de <b>Agile, Scrum e Kanban </b>, alinhadas à estratégia da área </p><p><b>Gestão de Contas & Relacionamento com Clientes </b> </p><p>· Atuar como <b>Account Owner  </b>de clientes estratégicos, sendo o principal ponto de contato executivo </p><p>· Manter relacionamento próximo com stakeholders do cliente (TI, Negócio, Operações e C-level) </p><p>· Conduzir <b>QBRs, reuniões executivas, comitês de acompanhamento e alinhamento estratégico </b> </p><p>· Garantir alto nível de <b>NPS, retenção de contratos e renovação de serviços </b> </p><p>· Traduzir necessidades do cliente em demandas estruturadas para os times internos </p><p><b>Vendas Consultivas & Expansão de Receita </b> </p><p>· Identificar oportunidades de <b>upsell e cross-sell  </b>em contas existentes </p><p>· Apoiar e conduzir processos de <b>propostas comerciais, SOWs, aditivos e renegociações contratuais </b> </p><p>· Trabalhar de forma integrada com as áreas Comercial, Produtos e Tecnologia </p><p>· Garantir equilíbrio entre crescimento de receita, viabilidade operacional e margem </p><p>· Contribuir para o pipeline de crescimento da diretoria de serviços </p><p><b>Gestão Financeira & Performance </b> </p><p>· Acompanhar <b>rentabilidade por conta/projeto, </b> analisando custos, receita e margem </p><p>· Apoiar o Head de PS na construção de <b>previsões (forecast), capacity planning e planejamento financeiro </b> </p><p>· Garantir aderência aos modelos comerciais e contratos firmados </p><p><b>Desenvolvimento de Pessoas </b> </p><p>· Desenvolver lideranças intermediárias e especialistas técnicos </p><p>· Conduzir feedbacks estruturados, PDI e acompanhamento de performance </p><p>· Promover cultura de <b>excelência, senso de urgência, protagonismo e foco em resultados </b> </p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>Você também precisa ter: </b> </p><p>· Ampla experiência em <b>serviços de tecnologia, delivery ou consultoria </b> </p><p>· Ter atuado como <b>Gerente de Projetos, Delivery Manager, Service Manager ou Account Manager </b> </p><p>· Experiência comprovada em <b>gestão de contas e venda consultiva de serviços de TI </b> </p><p>· Formação superior em Engenharia da Computação, Ciência da Computação, Administração, Engenharia de Produção ou áreas correlatas. </p><p>· Pós-graduação ou MBA em Gestão de Projetos, Gestão Empresarial, Tecnologia da Informação ou áreas afins. </p><p>· Inglês avançado. </p><p><br></p><p><br></p><p><br></p><p><b>Se você tiver, será um diferencial: </b> </p> <p>· Vivência no setor de seguros. </p><p>· Certificações profissionais em gerenciamento de projetos (por exemplo, PMP, PMI-ACP). </p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>Nosso modelo de trabalho: </b> </p><p>Priorizamos o bem-estar dos nossos colaboradores, com posições em formato remoto, presencial ou presencial com política de home office, que é definido conforme as necessidades da vaga e as atribuições do cargo. </p><p>No caso dessa posição, a atuação é de forma<b> presencial com política de home office. </b> </p><p><br></p><p><br></p><p><br></p><p>Necessário residir na <b>região central do Rio de Janeiro </b>, sua atuação será <b>nos nossos clientes da região. </b> </p><p><br></p><p><br></p><p><b>Disponibilidade para eventuais viagens para nosso escritório, em São Paulo. </b> </p>",
-    "company": "i4pro",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4423656__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-Professional-Services&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Gerente de FP&A",
-    "description": "<p><b>Descrição </b>: </p><p>• Gerenciar e analisar o P&L da empresa de todos os negócios, acompanhando receitas, custos, despesas e margens. </p><p>• Elaborar orçamento anual (budget), forecast e revisões periódicas. </p><p>• Analisar variações entre realizado x orçado, propondo planos de ação. </p><p>• Desenvolver relatórios gerenciais e apresentações para diretoria. </p><p>• Apoiar decisões estratégicas por meio de análises financeiras e indicadores de performance. </p><p>• Monitorar custos operacionais e identificar oportunidades de otimização. </p><p>• Estruturar e acompanhar KPIs financeiros e indicadores de rentabilidade. </p><p>• Liderar ou apoiar projetos de melhoria de processos financeiros. </p><p><br></p><p> <b>Outros requisitos </b>: </p><p>• Formação superior em Administração, Economia, Contabilidade ou áreas correlatas. </p><p>• Experiência sólida em planejamento financeiro e análise de P&L. </p><p>• Vivência com budget, forecast e análise de performance financeira. </p><p>• Excel avançado. </p><p>• Perfil analítico, visão estratégica e forte capacidade de comunicação. </p><p>• Experiência em empresas de varejo, distribuição ou indústria. </p>",
-    "company": "Prestige Perfumes e Cosméticos SA",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4424155__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-FP&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Comandante A330",
-    "description": "<p>O seu sonho é comandar uma carreira de sucesso diretamente da cabine? CheGOL a hora. </p><p>Estamos em busca de profissionais para atuarem como Comandante. </p><p><br></p><p>Em seu plano de voo, está prevista uma atuação junto ao Time da Diretoria de Operações, alinhada à estratégia da Companhia e aos regulamentos vigentes, contribuindo para a evolução das nossas operações com os mais altos padrões de Segurança e consistência. </p><p><br></p><p><b>Responsabilidades e atribuições </b> </p><p><br></p><p><b>Missão do Cargo </b> </p><p><br></p><p>Exercer a autoridade de Comandante desde a apresentação para o voo até a entrega da aeronave ao final da viagem, garantindo a Segurança operacional, a conformidade regulatória e a continuidade das operações e representando a empresa perante passageiros, tripulação e autoridades, em alinhamento ao Código Brasileiro de Aeronáutica (CBA) e aos regulamentos vigentes. </p><p><br></p><p>Além disso, atuar em integração com os Times da Companhia, contribuindo com sua experiência para o fortalecimento contínuo da operação. </p><p><br></p><p><b>Autoridade </b> </p><p><br></p><ul><li>Exercer autoridade plena sobre a aeronave, tripulação, passageiros e carga durante toda a operação; </li><li>Recusar aeronave que não esteja em condições aeronavegáveis; </li><li>Adiar, suspender ou encerrar o voo quando indispensável à Segurança; </li><li>Recusar embarque ou determinar desembarque de pessoas que comprometam a Segurança ou a disciplina a bordo; </li><li>Adotar medidas necessárias à proteção da aeronave, das pessoas e dos bens transportados; </li><li>Representar o Administrador da empresa durante toda a viagem; </li><li>Atuar em ocorrências relacionadas a atos ilícitos (AVSEC), mantendo comunicação com os órgãos de controle; </li><li>Contratar manutenção extraordinária, quando necessário; </li><li>Validar licenças e certificados, conforme prerrogativa da autoridade aeronáutica. </li> </ul><p><br></p><p><b>Segurança Operacional </b> </p><p><br></p><ul><li>Garantir a Segurança de tripulantes, passageiros e carga do fechamento das portas até o desembarque final; </li><li>Assegurar as condições de aeronavegabilidade, peso e balanceamento; </li><li>Certificar-se da correta quantidade de combustível e monitorar seu consumo; </li><li>Avaliar as condições meteorológicas, NOTAMs e dos aeródromos; </li><li>Garantir que o voo esteja devidamente despachado junto ao DOV.; </li><li>Assegurar o cumprimento dos procedimentos do Programa de Segurança do Operador Aéreo; </li><li>Reportar condições inseguras aos órgãos de controle e à área de Safety; </li><li>Identificar e reportar perigos operacionais por meio do sistema oficial da empresa. </li> </ul><p><br></p><p><b>Gestão da Tripulação </b> </p><p><br></p><ul><li>Assegurar a subordinação técnica e disciplinar da tripulação; </li><li>Delegar atribuições, exceto aquelas relacionadas à Segurança do voo; </li><li>Definir o Pilot Flying e garantir a execução correta dos checklists; </li><li>Garantir que apenas atividades essenciais sejam realizadas em fases críticas do voo; </li><li>Zelar pelo cumprimento da regulamentação profissional, incluindo jornada, repouso e limites operacionais. </li> </ul><p><br></p><p><b>Conformidade e Registros </b> </p><p><br></p><ul><li>Preencher ou assegurar o correto preenchimento do Diário de Bordo e do Relatório Técnico da Aeronave; </li><li>Registrar ocorrências que demandem inspeção obrigatória, como pouso duro, turbulência severa, tail strike, RTO, incidência de raio e excedentes de limites operacionais; </li><li>Assegurar os registros de ocorrências a bordo, incluindo eventos médicos, nascimentos e óbitos, conforme regulamentação aplicável; </li><li>Garantir o cumprimento das diretrizes de Segurança Operacional (SGSO) e da Política Ambiental. </li> </ul><p><br></p><p><b>Cabine e Passageiros </b> </p><p><br></p><ul><li>Assegurar a transmissão das instruções de Segurança; </li><li>Garantir o cumprimento das normas de Segurança em situações normais, de emergência e em evacuação; </li><li>Assegurar a integridade e a Segurança da cabine de comando; </li><li>Garantir a correta utilização dos equipamentos de emergência. </li> </ul><p><br></p><p><b>Não pode faltar em sua bagagem: </b> </p><p><br></p><p><b>Formação </b> </p><p><br></p><ul><li>Ensino Médio completo (Ensino Superior é um diferencial) </li><li>Experiência superior na função </li> </ul><p><br></p><p><b>Certificações Obrigatórias </b> </p><p><br></p><ul><li>Licença de Piloto de Linha Aérea (PLA); </li><li>Certificado de Habilitação Técnica (CHT) para o Airbus A330; </li><li>Certificado Médico Aeronáutico (CMA) válido; </li><li>Passaporte brasileiro válido por mais de 6 (seis) meses; </li><li>Vistos americanos B1, B2 e D válidos. </li> </ul><p><br></p><p><b>Conhecimentos Técnicos </b> </p><p><br></p><ul><li>Regulamentação aeronáutica aplicável (RBAC 121 e CBA); </li><li>Sistema de Gerenciamento de Segurança Operacional (SGSO); </li><li>Procedimentos operacionais da aeronave A330; </li><li>Operação de aeronaves widebody e voos de longo curso. </li> </ul><p><br></p><p><b>Idiomas </b> </p><p><br></p><ul><li>Proficiência na língua inglesa (ICAO) 4 ou superior. </li> </ul><p><br></p><p><b>IMPORTANTE:  </b>o local de trabalho será definido após a aprovação no processo seletivo. É necessário possuir disponibilidade para mudança. </p><p><br></p><p><b>Informações adicionais </b> </p><p><br></p><p><b>Um lugar para crescer, viver e explorar </b> </p><p><br></p><p>Oferecemos remuneração e benefícios compatíveis com o mercado, incluindo assistência médica, programas de bem-estar, participação nos resultados e mais. </p><p><br></p><p>Além disso, um dos diferenciais de fazer parte do Grupo GOL é o Benefício Viagem. Aqui, nossos Colaboradores têm a oportunidade de explorar o Brasil e destinos internacionais, vivenciar novas culturas, criar memórias e ampliar suas experiências. </p><p><br></p><p>Se você se identifica com o nosso Jeito de Ser, inscreva-se e venha voar com a gente. Faça parte do Time de Águias. </p>",
-    "company": "GOL Linhas Aéreas",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4424553__1953?utm_source=1953&utm_medium=feed&keyword=Comandante-A330&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Atendente (Exclusiva para Pessoas com deficiência)",
-    "description": "<p><b>Principais responsabilidades </b>: </p><p>Realizar atendimento ao cliente de forma presencial, garantindo uma experiência acolhedora e eficiente; </p><p>Esclarecer dúvidas sobre produtos e serviços, orientando com clareza e cordialidade; </p><p>Apoiar na organização do ambiente de loja, garantindo padrão de qualidade e apresentação; </p><p>Registrar atendimentos e informações em sistema, assegurando a correta atualização dos dados; </p><p>Atuar na resolução de demandas e eventuais reclamações, buscando sempre a melhor solução para o cliente; </p><p>Contribuir com o atingimento de metas de atendimento e qualidade; </p><p>Trabalhar em parceria com o time, mantendo um ambiente colaborativo e produtivo; </p><p>Seguir processos e políticas internas, garantindo conformidade nas atividades realizadas. </p><p><br></p><p><b>Requisitos: </b> </p><ul><li>Ensino médio completo; </li><li>Conhecimento em Pacote Office (Word, Excel e Outlook); </li><li>Facilidade no uso de sistemas e tecnologia; </li><li>Boa comunicação verbal e escrita; </li><li>Perfil organizado, proativo e com foco no atendimento ao cliente. </li> </ul>",
-    "company": "Empresa Confidencial",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4424621__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-Exclusiva-para&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "Pessoa Desenvolvedora Salesforce - Sênior",
-    "description": "<p><b>Descrição da vaga </b> </p><p>A FCamara está em busca de uma Pessoa Desenvolvedora Salesforce - Sênior, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. </p><p><br></p><p><b>Responsabilidades e atribuições </b> </p><p>- Analisar códigos em Apex </p><p>- Desenvolver novas features utilizando Apex e Javascript </p><p><br></p><p><b>Requisitos e qualificações </b> </p><p><b>Hard Skills: </b> </p><p>- Perfil de Desenvolvedor Salesforce Sênior/Especialista </p><p>- Especialista em desenvolvimento Back-end utilizando Apex; </p><p>- Experiencia com Salesforce Platform, Lightning Web Components, Application Lifecycle Management, Object-oriented programing </p><p>- Experiencia com Trigger, Classificações de teste, Github, Jenkins, Javascript, Web Services, SOQL/ SOSL, System integration; </p><p>- Experiencia em metodologias ágeis para desenvolvimento de software(Scrum /Kanban) </p><p>- Além da experiência como desenvolvedor, necessário ter vivência com padrão da ferramenta, como por exemplo, desenvolvimento de funcionalidades padrão Salesforce, Salesforce Cloud, entre outros. </p><p><br></p><p><b>Soft Skills: </b> </p><p>- Insights de negócio </p><p>- Engajado e perfil proativo </p><p>- Comunicação fluída </p><p>- Atendimento ao Cliente </p><p>- Solução de problemas </p><p>- Organização </p><p>- Foco </p><p>- Resiliência </p><p><br></p><p><b>Transformamos mundos sonhados em trajetórias reais. </p> </b>",
-    "company": "FCamara",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4426076__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Salesforce&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
-    "title": "English Teacher with Advanced Portuguese Skills",
-    "description": "<p>Are you a Portuguese speaker who graduated as an English Teacher? We are looking for you! </p><p>Teach fun English classes online via Zoom from the comfort of your own home! You can set your own hours and teach on the go as long as you have a solid color backdrop, a laptop, good WiFi, a webcam, and a microphone. </p><p><br></p><p>If you love teaching, but dread prepping for lessons and grading, this is the perfect job for you. We provide our teachers with all the lesson materials so all you have to do is show up for class and do what you do best, which is teach! </p><p>Whether you’re looking for a second stream of income or a full-time job, we’ve got you covered. You can work as little as 16 hours a month up to as much as 30 hours a week. </p><p><br></p><p><b>What is a typical day for an Online English Teacher at LatinHire? </b> </p><p>You will be scheduled shifts two weeks in advance according to the availability you provide us and we also offer the flexibility of dropping shifts and picking up extra shifts. </p><p>If you are busier one week, you can drop some of your shifts and have other teachers help you out or if you want to earn more $$ another week, you can pick up extra shifts and help other teachers out. </p><p>When you are on shift, you log on to our platform and teach the lessons provided as well as write short feedback for the students after class. Simple as that! </p><p><br></p><p><b>In short, here are some reasons why you will love working as an Online English Teacher with LatinHire: </b> </p><p><br></p><ul><li>Up to 30 hours of shifts available per week! </li><li>You be your own boss and set your own schedule </li><li>Work from anywhere (as long as you have good WiFi, workspace, computer, webcam, and microphone). </li><li>Depending on the number of hours you decide to teach and on your schedule, you can earn up to USD 900+ per month. </li> </ul><p><br></p><p><b>Minimum Requirements: </b> </p><p><br></p><ul><li>Portuguese as a first language. </li><li>C1 or C2 Level English Speaker </li><li>University degree in English Teaching or related area. </li><li>One year of experience in teaching English as a foreign language. </li><li>Access to a computer with a reliable, high-speed (at least 2MB) internet connection. </li><li>Must pass a criminal background check. </li><li>Teachers must provide at least ten (10) hours of weekly availability. </li> </ul><p><br></p><p><b>Who we are: </b> </p><p>Established in 2003, LatinHire recruits and manages teams of subject matter experts (SMEs) for online education companies. For over 20 years, our teams have played key roles in the backend of very successful educational startups. </p>",
-    "company": "LatinHire",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4426320__1953?utm_source=1953&utm_medium=feed&keyword=English-Teacher-with&location=rio-de-janeiro&geoID=7326",
-    "tipo": ""
-  },
-  {
     "title": "Full Stack Engineer",
     "description": "<p><b>Senior Full Stack Developer (.NET Core & Angular) </b> </p><p><br></p><p><b>  Salary: </b> $5,500 – $6,500 USD per month (based on experience) </p><p><b>  Schedule: </b> Full-time, Monday–Friday, 8:30 AM – 5:30 PM (EST) </p><p><b>  Location: </b> Fully remote (Latin America) </p><p><br></p><p><b>Latino Legends is conducting a search on behalf of one of our innovative, fast-growing clients in the marketing and digital delivery space. </b> </p><p><br></p><p>Our client is a technology-driven marketing organization that builds and scales high-performance digital platforms for global brands. They specialize in developing advanced marketing systems, product delivery solutions, and integrated digital experiences that support microsites, social media, and complex backend operations. The company is known for embracing modern technologies, agile practices, and continuous innovation. </p><p>This is an exciting opportunity for a <b>Senior Full Stack Developer </b> who enjoys solving complex technical challenges and wants to play a key role across the full Software Development Life Cycle (SDLC). </p><p><br></p><p><b>The Role </b> </p><p><br></p><p>As a Senior Full Stack Developer, you will be a key contributor to the client’s technology team. You will go beyond implementation—helping architect, design, and scale applications that power a global digital ecosystem. From backend services to modern frontend interfaces, your work will directly impact performance, scalability, and user experience. </p><p><br></p><p><b>Technical Qualifications & Requirements </b> </p><p><br></p><ul><li><b>Experience: </b> 7+ years of professional software development experience. </li><li><b>Backend Expertise: </b> Strong proficiency in C#, .NET, ASP.NET Core/MVC, and Entity Framework. Experience designing RESTful APIs and microservices. </li><li><b>Frontend Expertise: </b> Advanced experience with JavaScript/TypeScript and Angular (v12+), including state management, component architecture, and performance optimization. </li><li><b>DevOps & Cloud: </b> Hands-on experience with Docker and Kubernetes, plus cloud platforms such as Azure (preferred) or AWS/GCP. Familiarity with CI/CD pipelines (Azure DevOps, GitHub Actions). </li><li><b>Software Craftsmanship: </b> Solid understanding of design patterns, SOLID principles, unit testing/TDD, and Agile/SCRUM methodologies. </li><li><b>Leadership & Collaboration: </b> Comfortable mentoring teammates, participating in code reviews, and contributing to best practices within distributed teams. </li> </ul><p><br></p><p><b>Key Responsibilities </b> </p><p><br></p><ul><li>Architect and develop scalable, high-quality applications using modern .NET and Angular frameworks. </li><li>Collaborate with business and technical stakeholders to translate requirements into effective technical solutions. </li><li>Maintain high standards for code quality through documentation, testing, and peer reviews. </li><li>Research and implement new technologies to keep the platform modern and competitive. </li> </ul><p><br></p><p><b>Why Join This Opportunity? </b> </p><p><br></p><ul><li>Modern, cloud-native technology stack with minimal legacy constraints. </li><li>Collaborative, professional work environment with high technical standards. </li><li>Opportunities for continuous learning and career growth. </li><li>Strong work-life balance with PTO and recognized holidays. </li> </ul>",
     "company": "Latino Legends",
@@ -185,7 +95,7 @@
     "company": "LatinHire",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4439913__1953_b02db5960e4143630826ca3213493e5e?utm_source=1953&utm_medium=feed&keyword=English-Teacher&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4439913__1953_1c8480de77f562c2fee47f74f791a311?utm_source=1953&utm_medium=feed&keyword=English-Teacher&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -1067,7 +977,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469014__1953_3dbc0883777aa090528b8e53e5cc4fcf?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469014__1953_fd3fcc06066a64ce86471f44c24acf21?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1076,7 +986,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469017__1953_f9e8d13e67347a2575ce4075b9c9344c?utm_source=1953&utm_medium=feed&keyword=CompTIA-A%2B-1000&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469017__1953_ab0d2a731734653e2dd22a9435e35a25?utm_source=1953&utm_medium=feed&keyword=CompTIA-A%2B-1000&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1085,7 +995,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469018__1953_c8800ce8c5920a1f3657dd197daca56e?utm_source=1953&utm_medium=feed&keyword=Programa-de-Fundamentos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469018__1953_27b879de2772c05fefb8a27e28327b96?utm_source=1953&utm_medium=feed&keyword=Programa-de-Fundamentos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1094,7 +1004,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469029__1953_d949cfec032d86856a585c0a37229a78?utm_source=1953&utm_medium=feed&keyword=Compreendendo-os-Fundamentos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469029__1953_224a528366789652aab09f0ee088c95b?utm_source=1953&utm_medium=feed&keyword=Compreendendo-os-Fundamentos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -1103,7 +1013,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469033__1953_3359d30cece1b7c98b7903c6085f3f5e?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Estudos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469033__1953_ed7169fc1ec838042e9de0eac0e02c38?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Estudos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2453,7 +2363,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469586__1953_3656e93c080592cc09fd2cb1d15e88e1?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-aos-Destilados&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469586__1953_ada0f3fa772c3a9b66371de64fedfcb5?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-aos-Destilados&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2462,7 +2372,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469587__1953_7d03aa30c43d6c65affdf8826d489b4e?utm_source=1953&utm_medium=feed&keyword=Torne-se-um-Coach&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469587__1953_58e5c9e7288025e290823ead6dd6894e?utm_source=1953&utm_medium=feed&keyword=Torne-se-um-Coach&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2471,7 +2381,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469588__1953_f190bff09b3eebbeeb2a8b5b8e6eaad1?utm_source=1953&utm_medium=feed&keyword=Fundamentos-de-Auxiliar&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469588__1953_dd0bb8786a7a034fff45e0d0baf9d9bd?utm_source=1953&utm_medium=feed&keyword=Fundamentos-de-Auxiliar&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -2480,7 +2390,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469591__1953_068c9401b274a683c754b1e7a5125943?utm_source=1953&utm_medium=feed&keyword=Sistemas-e-Processos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4469591__1953_d1c38e2965076ed4dc6c2708d62acf81?utm_source=1953&utm_medium=feed&keyword=Sistemas-e-Processos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4172,7 +4082,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471387__1953_d7adcbe7c95820d41dc9fe002fb4b057?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-Estrat%C3%A9gica-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471387__1953_8d4924babf70a7e1562280007fe9caf7?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-Estrat%C3%A9gica-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4181,7 +4091,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471388__1953_e1c99c5d2406cd1160e1420fd3c2e9c7?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-de-Projetos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471388__1953_27632d715babd43c4121573f395e2a4a?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-de-Projetos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4190,7 +4100,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471390__1953_7ecf8efe6a34399d3bf888891cee1e41?utm_source=1953&utm_medium=feed&keyword=Prote%C3%A7%C3%A3o-de-Crian%C3%A7as&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471390__1953_086547501e3653b31a2ac713d9244a32?utm_source=1953&utm_medium=feed&keyword=Prote%C3%A7%C3%A3o-de-Crian%C3%A7as&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4199,7 +4109,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471391__1953_c5557679a051c48501b6ef62ba195a1e?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Psicologia&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471391__1953_42a2d2effc35b275a81824a9b5f838e5?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Psicologia&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4208,7 +4118,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471392__1953_f0aac1756033dcdf8ae27abf0de33b2c?utm_source=1953&utm_medium=feed&keyword=Treinamento-para-Agente&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471392__1953_039c092fe709ad2a565bf38df65a8166?utm_source=1953&utm_medium=feed&keyword=Treinamento-para-Agente&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4217,7 +4127,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471394__1953_18a1fc5efbf0d28f8bef9f043155cd5a?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-de-Habilidades&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471394__1953_055f8135c354c9b14249358bb3b14a5b?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-de-Habilidades&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4226,7 +4136,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471395__1953_753b3d603bb8dd336e6df1d2c106cb82?utm_source=1953&utm_medium=feed&keyword=Fundamentos-para-Assistentes&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471395__1953_5d6ac8028a0b7868af90474d8906e91b?utm_source=1953&utm_medium=feed&keyword=Fundamentos-para-Assistentes&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4235,7 +4145,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471397__1953_1c420837709544de8fffa39324be0866?utm_source=1953&utm_medium=feed&keyword=Curso-Profissional-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471397__1953_ddee4012ed3ebe8aa51f8dd54312f7b8?utm_source=1953&utm_medium=feed&keyword=Curso-Profissional-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4244,7 +4154,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471400__1953_8d612a6b7a4fa9783acb8a47d0199391?utm_source=1953&utm_medium=feed&keyword=Aplica%C3%A7%C3%B5es-da-Radiografia&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471400__1953_314e112ff83ca1f8196c105f032be746?utm_source=1953&utm_medium=feed&keyword=Aplica%C3%A7%C3%B5es-da-Radiografia&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4253,7 +4163,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471401__1953_e4a7454a4051195f3819dc50e48fbceb?utm_source=1953&utm_medium=feed&keyword=Cuidados-Infantis-e&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471401__1953_272b4afac00c6a2b7f6cff341a2531b9?utm_source=1953&utm_medium=feed&keyword=Cuidados-Infantis-e&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4262,7 +4172,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471402__1953_8a0847257461cb87b7a5870b12364d35?utm_source=1953&utm_medium=feed&keyword=Curso-de-Forma%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471402__1953_a27b9f3abc01e48e6b2f7727d1408e4d?utm_source=1953&utm_medium=feed&keyword=Curso-de-Forma%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4271,7 +4181,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471403__1953_8c48f5e3b13e634488d6eb3620a7ea08?utm_source=1953&utm_medium=feed&keyword=Princ%C3%ADpios-e-Conceitos&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4471403__1953_7e5a457ae59f8f06dcc15e62552db71a?utm_source=1953&utm_medium=feed&keyword=Princ%C3%ADpios-e-Conceitos&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -4865,7 +4775,7 @@
     "company": "T-Systems do Brasil",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4477020__1953_e5fe6251daaf6a7bcc4393fd6cffc28b?utm_source=1953&utm_medium=feed&keyword=Business-Relationship-Manager&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4477020__1953_aa8e66763f1872851f9fb4648a3c89b9?utm_source=1953&utm_medium=feed&keyword=Business-Relationship-Manager&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -5333,7 +5243,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480262__1953_e10b17748a81b3dfb072b5eac0237424?utm_source=1953&utm_medium=feed&keyword=Curso-de-Controle&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480262__1953_d732d63a834610b07f5a68e948d09a88?utm_source=1953&utm_medium=feed&keyword=Curso-de-Controle&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5342,7 +5252,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480263__1953_052d92e9ec58ee437b9981e05da98e23?utm_source=1953&utm_medium=feed&keyword=ISO-45001-2018&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480263__1953_36e5e285b5fe86bb4d36efabe2826186?utm_source=1953&utm_medium=feed&keyword=ISO-45001-2018&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5351,7 +5261,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480264__1953_e31b90d2c2118af9b63835ecaf30373d?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480264__1953_a707351ee108ade82865d08e3d2a2af8?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5360,7 +5270,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480265__1953_3bf45614190cc2749ce261728f9b2e7f?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Desenvolvimento&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480265__1953_87c6e95fc092a9f841948fa820ad2095?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Desenvolvimento&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5369,7 +5279,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480266__1953_80af1034aadf7c894766d3ab74148168?utm_source=1953&utm_medium=feed&keyword=Terapia-para-Les%C3%B5es&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480266__1953_8640ddaad553999872149750c35bb886?utm_source=1953&utm_medium=feed&keyword=Terapia-para-Les%C3%B5es&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5378,7 +5288,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480267__1953_4b91bc76c7884fc459dec8827bb6baee?utm_source=1953&utm_medium=feed&keyword=Curso-Online-Gratuito&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480267__1953_2004b79b32709802b4f2c6dd2816e30c?utm_source=1953&utm_medium=feed&keyword=Curso-Online-Gratuito&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5387,7 +5297,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480269__1953_e14aa25d0405c39e59c048a3d627e92d?utm_source=1953&utm_medium=feed&keyword=Infraestrutura-Cr%C3%ADtica-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480269__1953_e265ad863b46667efcb36e2bee427ef5?utm_source=1953&utm_medium=feed&keyword=Infraestrutura-Cr%C3%ADtica-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5396,7 +5306,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480274__1953_00b0225ce06d2ee1f6f963a6ef611641?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Conscientiza%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480274__1953_84345a8e2c52a6a28f805eebac376385?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Conscientiza%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5405,7 +5315,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480275__1953_f8c0c89ace0185b6586af5d01183a8cd?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-em-Petr%C3%B3leo&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480275__1953_8f6a6f7ebfaa30cddd6e8bfce75f97b8?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-em-Petr%C3%B3leo&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5414,7 +5324,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480276__1953_3cd417bf2b3491cfca07e0c02a8dfdf5?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-ao-Mundo&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480276__1953_5cf987b85759cdf18877b1c59cea4545?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-ao-Mundo&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5423,7 +5333,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480277__1953_ad05cc928a6678a4f3969062d120dbfe?utm_source=1953&utm_medium=feed&keyword=Forma%C3%A7%C3%A3o-para-Assistentes&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480277__1953_fd17fd149340ea0e29be0c6029b60f2e?utm_source=1953&utm_medium=feed&keyword=Forma%C3%A7%C3%A3o-para-Assistentes&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5432,7 +5342,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480278__1953_4e6dbfe73a617aa92d15fbe103f9f847?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480278__1953_8e6c6be143aa449893d6a6ab922653bd?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -5441,7 +5351,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480279__1953_9a459adabcd7895134c90acd6cb0aab1?utm_source=1953&utm_medium=feed&keyword=Design-e-Implementa%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480279__1953_e152a57449bbeab28ce38d779eb2b012?utm_source=1953&utm_medium=feed&keyword=Design-e-Implementa%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6845,7 +6755,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480770__1953_66e883c311888498ef6b55fffb9ed34a?utm_source=1953&utm_medium=feed&keyword=Curso-Completo-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480770__1953_506011752d862d75465a1c6dc1858f04?utm_source=1953&utm_medium=feed&keyword=Curso-Completo-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6854,7 +6764,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480772__1953_2fa2658969985030e9e9643b260c6073?utm_source=1953&utm_medium=feed&keyword=Workshop-Avan%C3%A7ado-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480772__1953_f04dfcc949ba6ff19c479980f7059e17?utm_source=1953&utm_medium=feed&keyword=Workshop-Avan%C3%A7ado-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6863,7 +6773,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480777__1953_05125d14d551e56c83401d85638bf6ee?utm_source=1953&utm_medium=feed&keyword=Curso-Completo-CompTIA&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480777__1953_259161ac0ec7e6ce8c9c1ea86cf41fab?utm_source=1953&utm_medium=feed&keyword=Curso-Completo-CompTIA&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -6872,7 +6782,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480778__1953_41424e1263f2aaa38d15f09daf203861?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Resolu%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4480778__1953_0a5c6dc76b72af9ae24f74b04ba4afc6?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Resolu%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7430,7 +7340,7 @@
     "company": "Dexian",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4482735__1953_0048426423c2177ce260a771ca3b2f7d?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4482735__1953_30975cb2087ff88e53d0f787a8f13d01?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -7520,7 +7430,7 @@
     "company": "Vortigo Digital",
     "city": "rio de janeiro",
     "state": "estado do rio de janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4486744__1953_a9575f756f3bd5f02d3c1a2377857ffe?utm_source=1953&utm_medium=feed&keyword=Analista-de-BI&location=rio-de-janeiro&geoID=7326",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4486744__1953_42e4942ba05f2876b5ece743732f3b13?utm_source=1953&utm_medium=feed&keyword=Analista-de-BI&location=rio-de-janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -7709,7 +7619,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490146__1953_4bb572e054864fe5dedb9fdb184bdc2e?utm_source=1953&utm_medium=feed&keyword=Fundamentos-de-Sistemas&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490146__1953_acd7a985ccc2095ceb1ec4a089e0c0d7?utm_source=1953&utm_medium=feed&keyword=Fundamentos-de-Sistemas&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7718,7 +7628,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490148__1953_f65bf8321770a27a1a24f5416b82daf4?utm_source=1953&utm_medium=feed&keyword=Curso-Online-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490148__1953_d51b942a106f03f94932d065af7c463b?utm_source=1953&utm_medium=feed&keyword=Curso-Online-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7727,7 +7637,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490150__1953_8e6ca8ee656224761a6a9a0f0833d3fa?utm_source=1953&utm_medium=feed&keyword=Cuidados-e-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490150__1953_d7ce989f397bf75ad37eadf868ce9264?utm_source=1953&utm_medium=feed&keyword=Cuidados-e-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7736,7 +7646,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490153__1953_6d6f40dddf8d9ec6ed6e2cb245a6c81c?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-e-Cuidados&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490153__1953_fe39cdab456d3726c3446a96e61eacbb?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-e-Cuidados&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7745,7 +7655,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490160__1953_19b9ec3ab64e4e1315d24c5e2d886cb0?utm_source=1953&utm_medium=feed&keyword=Fundamentos-de-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490160__1953_da06f2654339225769774b015689b17c?utm_source=1953&utm_medium=feed&keyword=Fundamentos-de-Gest%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7754,7 +7664,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490162__1953_02f682687b44bfee15adf701ff4d919b?utm_source=1953&utm_medium=feed&keyword=Curso-B%C3%A1sico-de&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490162__1953_d62588ab45cc1bed188d21c1535102e1?utm_source=1953&utm_medium=feed&keyword=Curso-B%C3%A1sico-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7763,7 +7673,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490163__1953_6173cd1e0dc7a04e973ff048d6a3828d?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Neg%C3%B3cios&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490163__1953_2c6ea38f340e294e3afeaaf75c1e5b89?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Neg%C3%B3cios&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7772,7 +7682,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490164__1953_9636820d0b6c243ddcb2a17a09031a88?utm_source=1953&utm_medium=feed&keyword=Como-Promover-Comportamento&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490164__1953_7d44ca214358fe06652ff18bc9e8d4a5?utm_source=1953&utm_medium=feed&keyword=Como-Promover-Comportamento&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7781,7 +7691,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490166__1953_24ac7b1255ddc92cf85fde3e418f0980?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Qualidade&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490166__1953_d4cc6fcf3844e9c01d7c70ee017ead05?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Qualidade&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7790,7 +7700,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490167__1953_91a62e2ed970f2d221774c401e243368?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Cuidados&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490167__1953_6efbe516f1bd3ba9a95dafc9595bfc22?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Cuidados&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7799,7 +7709,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490170__1953_6330a6b0b1045cc5a50603e8660997c1?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Suporte&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490170__1953_9b421fef4069673dfcd42596e34ec637?utm_source=1953&utm_medium=feed&keyword=Diploma-em-Suporte&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7808,7 +7718,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490172__1953_18ed97399823f24c621781f4652c70c1?utm_source=1953&utm_medium=feed&keyword=Fundamentos-do-ServSafe&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490172__1953_e93f10f0d1507c936b1d43d37158893e?utm_source=1953&utm_medium=feed&keyword=Fundamentos-do-ServSafe&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -7817,7 +7727,7 @@
     "company": "Courses BR CPC",
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490174__1953_5e76fc653dc2de7c63f35094169062fb?utm_source=1953&utm_medium=feed&keyword=Treinamento-em-Conscientiza%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490174__1953_6d6efab8e871bb72372f8dde0283565a?utm_source=1953&utm_medium=feed&keyword=Treinamento-em-Conscientiza%C3%A7%C3%A3o&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   },
   {
@@ -8997,6 +8907,96 @@
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_4490601__1953?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-%C3%A0-Agilidade&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Segurança em Trabalhos a Quente (VAGAS DISPONÍVEIS)",
+    "description": "<p>Este curso de treinamento em segurança para trabalhos a quente oferece aos usuários uma compreensão sobre trabalhos a quente, com exemplos de processos comuns na indústria. Os aprendizes entenderão por que os trabalhos a quente são perigosos e os diferentes tipos de riscos associados a eles. O curso abordará alternativas mais seguras para evitar completamente os riscos dos trabalhos a quente. Também descrevemos o sistema seguro de trabalho necessário quando as alternativas não são práticas. O curso explicará como são classificadas as áreas de trabalhos a quente, definindo onde esses trabalhos são permitidos e onde são proibidos.  Os aprendizes saberão como identificar possíveis riscos associados às atividades de trabalhos a quente e como realizar avaliações de risco desses trabalhos. O curso explicará a hierarquia de controles para determinar as medidas adequadas de controle para reduzir os níveis de risco. O curso cobre os requisitos para uma permissão de trabalho a quente e a árvore de decisão para determinar quando ela é necessária. Também explica o processo de autorização e os papéis e responsabilidades do pessoal essencial para realizar trabalhos a quente com segurança. O curso conclui com uma lista de precauções importantes para todos os processos de trabalhos a quente.  O curso foi elaborado com base em normas como NFPA 51B e OSHA   e foca no gerenciamento de materiais inflamáveis e combustíveis nas áreas de trabalhos a quente para prevenir incêndios. Muitos empregadores exigem que os funcionários concluam este curso de segurança antes de designá-los como Autoridade para Emissão de Permissão, Operador de Trabalho a Quente ou Vigia de Incêndio. Inscreva-se para aprender a gerenciar os riscos de saúde e segurança que os trabalhos a quente apresentam. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490603__1953?utm_source=1953&utm_medium=feed&keyword=Seguran%C3%A7a-em-Trabalhos&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Introdução aos Fundamentos do Trabalho Social (VAGAS DISPONÍVEIS)",
+    "description": "<p>Neste mundo, existem problemas graves, e ninguém está seguro de lembranças de que todos na sociedade têm seus desafios. Mas estamos completamente desamparados? Felizmente, a resposta é 'não'. Os assistentes sociais estão prontos e dispostos a ajudar desconhecidos a terem vidas melhores. Neste curso fundamental, você aprenderá sobre teorias e modelos de intervenção usados na prática moderna do trabalho social. Entre outros, você terá uma introdução à intervenção em crises, entrevista motivacional, terapia narrativa e abordagem focada na solução.  O material abrange muitos tipos de aconselhamento. O aconselhamento psicodinâmico, por exemplo, é quando um profissional tenta ajudar os usuários a entender suas dificuldades passadas. Você aprenderá como usar a abordagem centrada na pessoa para ajudar outros a alcançar a autorrealização, que significa atingir seu potencial máximo. Também é crucial compreender como a lei opera no trabalho social. A lei obriga todos no dever de cuidado, e os assistentes sociais não são exceção. É um componente vital da própria disciplina. Este curso desvendará todas as leis necessárias e usadas no trabalho social. Por exemplo, sob a Lei de Igualdade de 2010 do Reino Unido, você está protegido contra discriminação. Os assistentes sociais devem não apenas cumprir a legislação, mas também aderir a códigos de conduta e padrões profissionais ao realizar seu trabalho. Examinaremos o Quadro de Capacidades Profissionais (PCF), que orienta todos os aspectos da prática do trabalho social no Reino Unido.  Finalmente, você aprenderá sobre a necessidade da pesquisa no trabalho social. A pesquisa é indiscutivelmente essencial porque fornece respostas às nossas dúvidas e permite que tomemos decisões informadas. Depois, veja como o trabalho social inclui uma variedade de diferentes caminhos de carreira. Por exemplo, você pode ser um assistente de apoio, oferecendo suporte prático às pessoas para que possam viver de forma independente; um coordenador de atividades, um trabalhador de reabilitação ou um terapeuta complementar, todos os quais você estudará neste curso. Você se aprofundará em teorias que apoiam o trabalho social derivadas de outras disciplinas como sociologia e psicologia. Destacaremos a importância do trabalho em equipe no trabalho social, pois a cooperação assegura que os profissionais atinjam o melhor resultado para todos os envolvidos. Este curso o equipará com conhecimento valioso sobre o campo importante e gratificante do trabalho social. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490604__1953?utm_source=1953&utm_medium=feed&keyword=Introdu%C3%A7%C3%A3o-aos-Fundamentos&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Treinamento Avançado para Garçons em Serviços de Alimentação e Bebidas (VAGAS DISPONÍVEIS)",
+    "description": "<p>O que é necessário para se tornar um garçom eficiente? Por que a impressão causada pelo atendimento do garçom é crucial para construir a reputação do seu restaurante ou hotel? Este curso esclarecedor aborda a etiqueta básica para garçons antes de aprofundar nas regras para arrumação de mesas, profissionalismo e atendimento às expectativas dos clientes quando eles chegam ao seu restaurante.  O curso então explora a técnica de up-selling no restaurante como estratégia para aumentar os lucros dos negócios. Diversas estratégias de vendas são analisadas para ampliar a receita e criar um relacionamento amigável com seus hóspedes. Além disso, aprenda a utilizar a técnica prática de up-selling, que faz com que as vendas pareçam mais um serviço ao cliente. Os métodos são sutis o suficiente para evitar incomodar o cliente.  Por fim, uma forma transparente de apresentar e quitar a conta do restaurante ajuda a criar boa vontade com o cliente, seguida pelo uso proativo do feedback para melhorar a experiência deles. Desde a recepção inicial até as etapas finais do atendimento, este curso avançado orienta cada fase do processo. Se você deseja aprimorar sua compreensão desta habilidade focada no atendimento na indústria da hospitalidade, inscreva-se agora e comece o curso hoje mesmo. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490606__1953?utm_source=1953&utm_medium=feed&keyword=Treinamento-Avan%C3%A7ado-para&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Diploma Profissional Certificado em Segurança de Sistemas de Informação (CISSP 2019) (VAGAS DISPONÍVEIS)",
+    "description": "<p>Este curso gratuito fornecerá o entendimento completo sobre tudo o que você precisa saber para se tornar um Profissional Certificado em Segurança de Sistemas de Informação, além de prepará-lo para o exame Certified Information Security Professionals.  Na primeira parte do curso, você estudará ética profissional, política de segurança, normas e procedimentos, e também aprenderá mais sobre proteção de ativos e controles de segurança. Após uma seção dedicada à arquitetura e engenharia de segurança, abordaremos componentes seguros de rede e design de comunicação segura.  Nos módulos posteriores, você aprenderá mais sobre gerenciamento de acesso aos serviços importantes, avaliação e testes de segurança, além de examinarmos os testes de controle de segurança. Em seguida, o curso foca na investigação de atividades de segurança, prevenção e resposta a brechas, construindo uma base em técnicas de proteção e medidas preventivas. Antes da avaliação final, haverá uma seção dedicada à segurança no desenvolvimento de software.  Ao participar deste curso, você adquirirá informações cruciais sobre segurança na era moderna e possuirá todo o conhecimento necessário para se tornar um Auditor de Sistemas de Informação. Então, por que esperar? Comece a aprender hoje e avance na sua educação profissional. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490608__1953?utm_source=1953&utm_medium=feed&keyword=Diploma-Profissional-Certificado&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Primeiros Socorros Pediátricos: Curso Online Gratuito (VAGAS DISPONÍVEIS)",
+    "description": "<p>Este curso aprofunda a importância dos primeiros socorros pediátricos, o que são e o papel dos socorristas. Ter um conhecimento básico em primeiros socorros pediátricos é essencial para pais ou responsáveis por crianças. Descubra como avaliar a condição da vítima antes de oferecer ajuda. Está se perguntando como fazer uma avaliação inicial e ter uma visão geral da situação como socorrista? Este curso explica todos esses detalhes e aborda alguns dos equipamentos e técnicas cruciais que você pode precisar como socorrista.  Em seguida, você se familiarizará com o conteúdo de um kit de primeiros socorros e examinará como usar o equipamento corretamente. Também abordaremos os princípios de curativos e como aplicar ataduras. Quer saber como realizar a ressuscitação cardiopulmonar (RCP) em crianças e bebês? Este curso explicará em detalhes a RCP e como usar um desfibrilador externo automático (DEA). Também discutiremos como tratar os ferimentos mais comuns. A maioria dos socorristas enfrenta as consequências de acidentes ou colisões, e examinaremos como lidar com essas situações. Depois, discutiremos várias doenças, seus desencadeadores e como fornecer primeiros socorros nesses casos. Explore os efeitos de condições agudas, que vão desde lesões leves até emergências com risco de vida.  Crianças podem ser facilmente afetadas pelo ambiente enquanto descansam ou exploram. Este curso explica como agir nessas situações caso um evento ocorra. Também explicaremos o que é 'primeiros socorros psicológicos' e como reconhecer problemas psicológicos que jovens podem enfrentar, incluindo procedimentos de tratamento adequados. Em seguida, discutiremos os mitos citados por alguns como opções de tratamento para ferimentos e doenças específicas. Depois, abordaremos as limitações das habilidades médicas dos socorristas e a necessidade de usar serviços médicos de emergência. Este curso é ideal para quem possui conhecimentos básicos em primeiros socorros e deseja aprimorar-se. Então, por que esperar? Comece sua jornada de aprendizado hoje. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490609__1953?utm_source=1953&utm_medium=feed&keyword=Primeiros-Socorros-Pedi%C3%A1tricos&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Guia Completo de Contabilidade com Xero (VAGAS DISPONÍVEIS)",
+    "description": "<p>Você quer assumir o controle das finanças do seu negócio? O software de contabilidade Xero é popular mundialmente, pois oferece a pequenas e médias empresas recursos confiáveis de contabilidade e planejamento financeiro. Ele é hospedado na nuvem e simplifica o processo de gerenciamento da folha de pagamento e o cumprimento das suas responsabilidades fiduciárias com os stakeholders.  Este curso é direcionado principalmente para estudantes sem experiência prévia em contabilidade e oferece treinamento dividido em segmentos gerenciáveis. Cobrimos os aspectos fundamentais do Xero e explicamos como usar o software para realizar uma ampla gama de atividades contábeis, incluindo ajustar o razão nominal, preencher uma declaração de IVA, conciliar o banco e muito mais.  Após concluir este treinamento e receber a certificação relevante, você poderá usar os recursos de contabilidade empresarial do Xero como um verdadeiro profissional, seja como contador financeiro, assistente de contabilidade, administrador de negócios ou até mesmo assistente de contas. Oferecemos as habilidades contábeis mais requisitadas ensinadas por especialistas. Inscreva-se para aprender a usar o software de contabilidade em nuvem Xero e seus diversos recursos para gerenciar suas finanças e simplificar a contabilidade. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490610__1953?utm_source=1953&utm_medium=feed&keyword=Guia-Completo-de&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Design Gráfico: Curso Online Completo (VAGAS DISPONÍVEIS)",
+    "description": "<p>Frequentemente chamado de “design gráfico”, o design de comunicação utiliza mensagens e imagens para transmitir informações a um público-alvo específico. Este curso estabelece o design como uma forma de resolver problemas, criando um sistema para comunicação. Um bom designer divide o problema em atividades criativas separadas para encontrar soluções eficazes e mensagens convincentes.  O curso começa navegando pela história do design gráfico e do desenvolvimento tipográfico, e traça seu uso em livros e publicidade. O estudo da semiótica (a ciência do simbolismo e das mensagens visuais) permitiu que estudantes de design no século XX estabelecessem parâmetros coerentes de comunicação. Investigamos seu trabalho para ajudar você a manter a limpeza visual e a legibilidade, enquanto emprega técnicas como o uso dinâmico do espaço negativo, composição assimétrica e fotografia de fundo completa.  Explicamos como funciona o processo de marketing “Atenção - Interesse - Desejo - Ação” (AIDA) e guiamos você no uso dos elementos da composição: ponto, linha, cor, plano e ponto focal. Essas técnicas são usadas para criar contraste e ênfase e se combinam com a tipografia para criar sistemas de comunicação organizacional. Também ensinamos como desenvolver projetos de design colaborativamente. O design gráfico é uma habilidade valiosa e este curso é ideal para quem deseja atuar na área, seja iniciando ou buscando renovar suas competências. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490612__1953?utm_source=1953&utm_medium=feed&keyword=Design-Gr%C3%A1fico-Curso&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "ISO 20400: Princípios da Compra Sustentável (VAGAS DISPONÍVEIS)",
+    "description": "<p>A compra sustentável é a aplicação da responsabilidade social e ambiental às políticas, processos e práticas de aquisição. A compra sustentável e a ISO 20400 adotam uma abordagem estruturada e planejada que proporciona benefícios éticos, sociais e ambientais. Este curso online explora os princípios da compra sustentável, incluindo como ela gera um impacto positivo na sociedade e no meio ambiente.  Primeiro, discutimos os benefícios da compra sustentável. Exploramos o impacto ambiental e social dessa prática, os três pilares da sustentabilidade e as áreas centrais da ISO 20400. Da mesma forma, revisamos padrões de compra, como o Forest Stewardship Council, Fair Trade, Rainforest Alliance e outros. Também apresentamos um processo de aquisição em cinco etapas, no qual políticas e práticas sustentáveis devem ser aplicadas. Em seguida, examinamos a análise de mercado e a priorização das ações organizacionais.  Depois, destacamos as áreas comuns de risco na compra sustentável e recomendamos ações para mitigá-las. Aprenda sobre a mensuração de desempenho e os indicadores conforme as recomendações da ISO 20400 para monitorar a compra sustentável. A última seção aborda análise de custos, mecanismos de reclamação, sustentabilidade na cadeia de suprimentos e recompensas para fornecedores que incentivam a compra sustentável. Ao fazer este curso, você descobrirá como a padronização aprimora os impactos sociais, éticos e ambientais da cadeia de suprimentos. Inscreva-se agora. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490613__1953?utm_source=1953&utm_medium=feed&keyword=ISO-20400-Princ%C3%ADpios&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Boas Práticas de Fabricação (BPF) para Garantir a Qualidade do Produto (VAGAS DISPONÍVEIS)",
+    "description": "<p>BPF, ou Boas Práticas de Fabricação, é a base para o controle de qualidade na indústria alimentícia. Os padrões operacionais e procedurais das BPF asseguram consistentemente a qualidade segura e adequada dos produtos alimentícios. As BPF são essenciais em alimentos refrigerados, congelados e preservados por calor. Ao garantir a qualidade e segurança dos alimentos, as Boas Práticas de Fabricação desempenham papel crucial na manutenção da confiança do consumidor. Você está desenvolvendo uma carreira em manufatura? Se sim, o curso de Boas Práticas de Fabricação ajudará você a explorar a importância das BPF na construção e manutenção da confiança do consumidor, especialmente em indústrias que enfrentam aumento no número de recalls de produtos. Mas você atua em desenvolvimento de software de TI e deseja integrar seu conhecimento à indústria? Nesse caso, esta lição lhe concederá insights para entender o software de conformidade com as BPF. Este sistema de gerenciamento de documentos baseado em nuvem permite criar, organizar e controlar registros e fluxos de trabalho em qualquer processo manufatureiro. Ao final do curso, os participantes terão uma compreensão sólida da evolução das BPF, seu impacto na confiança do consumidor e seu papel vital em promover ambientes manufatureiros seguros e regulamentados. O programa oferece insights práticos para a implementação eficaz das BPF, enfatizando os benefícios da redução de erros, aumento da segurança do produto e credibilidade internacional ampliada. Focando em aplicações reais e nas consequências das inspeções, você encontrará um guia abrangente para profissionais que buscam especialização em práticas de BPF em setores primários. </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490614__1953?utm_source=1953&utm_medium=feed&keyword=Boas-Pr%C3%A1ticas-de&location=Rio-de-Janeiro&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Terapia Familiar, de Casal e Aconselhamento Emocional (VAGAS DISPONÍVEIS)",
+    "description": "<p>O aconselhamento é uma técnica que visa prevenir que questões de saúde mental impactem a vida de uma pessoa por meio da educação e tratamentos de curto prazo. Você aprenderá sobre aconselhamento, suas teorias, história e o papel dos conselheiros em auxiliar clientes com seu bem-estar emocional e psicológico. Aconselhar adultos requer uma abordagem diferente da empregada com crianças, devido à incapacidade destas em comunicar seus sentimentos com precisão. Ilustramos as técnicas usadas para orientar ambos e tratá-los conforme suas respectivas capacidades mentais.   Fazer um casamento funcionar é uma das tarefas mais desafiadoras na vida pessoal de um indivíduo. Descubra a importância da terapia de casal, as barreiras de comunicação enfrentadas pelos casais e várias técnicas para resolver problemas no relacionamento, levando a uma vida emocionalmente plena. Investigue a importância e o papel dos conflitos na vida do casal e formas de resolver e melhorar seus relacionamentos. Você também aprenderá a cultivar e manter a intimidade como casal, entendendo as necessidades e valores do seu parceiro. Demonstramos como pedir desculpas e perdoar quando um dos parceiros comete um erro. Compreenda as características de um relacionamento seguro e estável, a importância de administrar as finanças e métodos para fortalecer uma base segura como casal. A infidelidade é uma das maiores causas de divórcio e, frequentemente, é desafiador para um parceiro traído recuperar a confiança após uma traição. Saiba como abrir conversas sobre o tema e formas de promover a cura e reconstruir o relacionamento.  Este curso fornecerá a você uma compreensão completa dos desafios legais, culturais e éticos no aconselhamento profissional, permitindo que trabalhe de forma eficaz ao superá-los. Além disso, você adquirirá habilidades excepcionais e empáticas de comunicação para oferecer um aconselhamento influente em família, casamento e relacionamentos. Este curso é destinado a iniciantes, profissionais das áreas de psicologia e aconselhamento ou qualquer pessoa que deseje melhorar sua saúde emocional e psicológica. Quer que seu aconselhamento seja a força por trás do sucesso de casamentos, famílias e casais? Não perca a oportunidade de ampliar seu conhecimento em aconselhamento. Inscreva-se agora! </p>",
+    "company": "Courses BR CPC",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4490619__1953?utm_source=1953&utm_medium=feed&keyword=Terapia-Familiar-de&location=Rio-de-Janeiro&geoID=19",
     "tipo": ""
   }
 ]
