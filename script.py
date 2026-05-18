@@ -1,80 +1,233 @@
+#!/usr/bin/env python3
+# coding: utf-8
+
 import requests
 import gzip
 import xml.etree.ElementTree as ET
 import io
 import json
 import os
+import hashlib
+import re
+from datetime import datetime
 
-# URL do feed
-feed_url = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
+# =========================
+# CONFIG
+# =========================
 
-# Criar pasta para os arquivos JSON
-json_folder = "json_parts"
-os.makedirs(json_folder, exist_ok=True)
+FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
 
-# Contador de arquivos
-file_count = 1
-
-# Cidades desejadas (convertidas para minúsculo)
-cidades_desejadas = [cidade.lower() for cidade in [
+CIDADES_RJ = [
     "rio de janeiro",
-]]
+    "niteroi",
+    "duque de caxias",
+    "nova iguacu",
+    "sao goncalo"
+]
 
-# Baixar o feed XML comprimido
-try:
-    response = requests.get(feed_url, stream=True, timeout=60)
-except requests.exceptions.RequestException as e:
-    print(f"Erro ao baixar o feed: {e}")
-    exit(1)
+KEYWORDS = [
+    "jovem aprendiz",
+    "aprendiz",
+    "primeiro emprego",
+    "estagio"
+]
 
-if response.status_code == 200:
-    with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
-        jobs = []
-        for event, elem in ET.iterparse(f, events=("end",)):
-            if elem.tag == "job":
-                location_elem = elem.find("locations/location")
-                city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
-                state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
+OUTPUT_FILE = "vagas_rj_jovem_aprendiz.json"
 
-                # Ignorar se cidade ou estado estiverem vazios
-                if not city or not state:
-                    elem.clear()
-                    continue
+# =========================
+# PASTA FEED
+# =========================
 
-                # Verifica se a cidade está na lista desejada
-                if city.lower() in cidades_desejadas:
-                    company = elem.findtext("company/name", "").strip()
-                    if not company:
-                        company = "Confidencial"
+def feed_dir():
+    base = os.path.dirname(os.path.abspath(__file__))
+    feed = os.path.join(base, "feed")
+    os.makedirs(feed, exist_ok=True)
+    return feed
 
-                    job_data = {
-                        "title": elem.findtext("title", "").strip(),
-                        "description": elem.findtext("description", "").strip(),
-                        "company": company,
-                        "city": city,
-                        "state": state,
-                        "url": elem.findtext("urlDeeplink", "").strip(),
-                        "tipo": elem.findtext("jobType", "").strip(),
-                    }
-                    jobs.append(job_data)
+# =========================
+# HELPERS
+# =========================
 
-                elem.clear()
+def normalize(text):
+    if not text:
+        return ""
+    return text.strip().lower()
 
-                if len(jobs) >= 1000:
-                    json_path = os.path.join(json_folder, f"part_{file_count}.json")
-                    with open(json_path, "w", encoding="utf-8") as json_file:
-                        json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-                    print(f"Arquivo salvo: {json_path}")
-                    jobs = []
-                    file_count += 1
 
-        if jobs:
-            json_path = os.path.join(json_folder, f"part_{file_count}.json")
-            with open(json_path, "w", encoding="utf-8") as json_file:
-                json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-            print(f"Arquivo final salvo: {json_path}")
+def clean_html(text):
+    if not text:
+        return ""
 
-    print(f"JSONs gerados: {os.listdir(json_folder)}")
-else:
-    print(f"Erro ao baixar o feed: código HTTP {response.status_code}")
-    exit(1)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
+
+
+def normalize_company(company):
+    if not company or not company.strip():
+        return "Confidencial"
+    return company.strip()
+
+
+def normalize_salary(text):
+    if not text:
+        return "A Combinar"
+
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def generate_hash(title, company, city, url):
+    base = f"{title}-{company}-{city}-{url}"
+    return hashlib.md5(base.encode("utf-8")).hexdigest()
+
+
+def is_valid_keyword(text):
+    text = normalize(text)
+
+    for keyword in KEYWORDS:
+        if keyword in text:
+            return True
+
+    return False
+
+# =========================
+# MAIN
+# =========================
+
+print("Baixando feed...")
+
+response = requests.get(
+    FEED_URL,
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    },
+    timeout=60
+)
+
+if response.status_code != 200:
+    print("Erro ao baixar feed")
+    exit()
+
+jobs = []
+seen_urls = set()
+
+with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
+
+    for event, elem in ET.iterparse(f, events=("end",)):
+
+        if elem.tag != "job":
+            continue
+
+        title = elem.findtext("title", "").strip()
+        description = elem.findtext("description", "").strip()
+        company = normalize_company(
+            elem.findtext("company/name", "")
+        )
+
+        job_type = elem.findtext("jobType", "").strip()
+        url = elem.findtext("urlDeeplink", "").strip()
+
+        salary = elem.findtext("salary", "").strip()
+
+        location_elem = elem.find("locations/location")
+
+        city = ""
+        state = ""
+
+        if location_elem is not None:
+            city = location_elem.findtext("city", "").strip()
+            state = location_elem.findtext("state", "").strip()
+
+        if not city or not state or not title or not url:
+            elem.clear()
+            continue
+
+        city_lower = normalize(city)
+
+        # =========================
+        # FILTRO RJ
+        # =========================
+
+        if city_lower not in CIDADES_RJ:
+            elem.clear()
+            continue
+
+        # =========================
+        # FILTRO KEYWORDS
+        # =========================
+
+        content_text = f"{title} {description}"
+
+        if not is_valid_keyword(content_text):
+            elem.clear()
+            continue
+
+        # =========================
+        # DUPLICADOS
+        # =========================
+
+        if url in seen_urls:
+            elem.clear()
+            continue
+
+        seen_urls.add(url)
+
+        # =========================
+        # LIMPEZA
+        # =========================
+
+        description = clean_html(description)
+        salary = normalize_salary(salary)
+
+        # =========================
+        # HASH
+        # =========================
+
+        hash_unico = generate_hash(
+            title,
+            company,
+            city,
+            url
+        )
+
+        # =========================
+        # JSON
+        # =========================
+
+        jobs.append({
+            "title": title,
+            "description": description,
+            "company": company,
+            "city": city,
+            "state": state,
+            "salary": salary if salary else "A Combinar",
+            "tipo": job_type if job_type else "Nao informado",
+            "origem": "WhatJobs",
+            "url": url,
+            "data_publicacao": datetime.utcnow().isoformat(),
+            "hash_unico": hash_unico
+        })
+
+        elem.clear()
+
+# =========================
+# SAVE
+# =========================
+
+output_path = os.path.join(
+    feed_dir(),
+    OUTPUT_FILE
+)
+
+with open(output_path, "w", encoding="utf-8") as json_file:
+    json.dump(
+        jobs,
+        json_file,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print(f"TOTAL: {len(jobs)} vagas exportadas")
+print(f"Arquivo: {output_path}")
