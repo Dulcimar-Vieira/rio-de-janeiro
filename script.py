@@ -34,7 +34,7 @@ KEYWORDS = [
     "estagio"
 ]
 
-# Nome final do JSON
+# Pasta de saída
 OUTPUT_FOLDER = "json_parts"
 
 # ==========================================
@@ -44,17 +44,17 @@ OUTPUT_FOLDER = "json_parts"
 # vagas por arquivo
 MAX_JOBS_PER_FILE = 500
 
-# quantidade maxima de arquivos
+# quantidade máxima de arquivos
 MAX_FILES = 3
 
 # ==========================================
-# PASTA
+# CRIAR PASTA
 # ==========================================
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # ==========================================
-# HELPERS
+# FUNÇÕES
 # ==========================================
 
 def normalize(text):
@@ -105,7 +105,7 @@ def is_valid_keyword(text):
 
 
 # ==========================================
-# START
+# DOWNLOAD FEED
 # ==========================================
 
 print("📥 Baixando feed...")
@@ -166,7 +166,7 @@ with gzip.open(
         salary = elem.findtext("salary", "").strip()
 
         # ==========================================
-        # LOCATION
+        # LOCALIZAÇÃO
         # ==========================================
 
         location_elem = elem.find("locations/location")
@@ -187,7 +187,7 @@ with gzip.open(
             ).strip()
 
         # ==========================================
-        # VALIDACAO
+        # VALIDAÇÃO
         # ==========================================
 
         if not city or not state or not title or not url:
@@ -215,7 +215,7 @@ with gzip.open(
             continue
 
         # ==========================================
-        # DUPLICADOS
+        # REMOVER DUPLICADOS
         # ==========================================
 
         if url in seen_urls:
@@ -280,7 +280,7 @@ with gzip.open(
         # LIMITE POR ARQUIVO
         # ==========================================
 
-        if len(jobs) >= 1000:
+        if len(jobs) >= MAX_JOBS_PER_FILE:
 
             json_path = os.path.join(
                 OUTPUT_FOLDER,
@@ -306,13 +306,13 @@ with gzip.open(
             file_count += 1
 
             # ==========================================
-            # LIMITE TOTAL
+            # LIMITE TOTAL DE ARQUIVOS
             # ==========================================
 
-            if file_count > 5:
+            if file_count > MAX_FILES:
 
                 print(
-                    "⛔ Limite maximo de arquivos atingido"
+                    "⛔ Limite máximo de arquivos atingido"
                 )
 
                 stop_processing = True
@@ -322,7 +322,7 @@ with gzip.open(
 # SALVAR RESTANTE
 # ==========================================
 
-if jobs and file_count <= 5:
+if jobs and file_count <= MAX_FILES:
 
     json_path = os.path.join(
         OUTPUT_FOLDER,
