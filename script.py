@@ -34,7 +34,7 @@ KEYWORDS = [
     "estagio"
 ]
 
-# Pasta de saída
+# Nome final do JSON
 OUTPUT_FOLDER = "json_parts"
 
 # ==========================================
@@ -44,17 +44,17 @@ OUTPUT_FOLDER = "json_parts"
 # vagas por arquivo
 MAX_JOBS_PER_FILE = 500
 
-# quantidade máxima de arquivos
+# quantidade maxima de arquivos
 MAX_FILES = 3
 
 # ==========================================
-# CRIAR PASTA
+# PASTA
 # ==========================================
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # ==========================================
-# FUNÇÕES
+# HELPERS
 # ==========================================
 
 def normalize(text):
@@ -105,7 +105,7 @@ def is_valid_keyword(text):
 
 
 # ==========================================
-# DOWNLOAD FEED
+# START
 # ==========================================
 
 print("📥 Baixando feed...")
@@ -166,7 +166,7 @@ with gzip.open(
         salary = elem.findtext("salary", "").strip()
 
         # ==========================================
-        # LOCALIZAÇÃO
+        # LOCATION
         # ==========================================
 
         location_elem = elem.find("locations/location")
@@ -187,7 +187,7 @@ with gzip.open(
             ).strip()
 
         # ==========================================
-        # VALIDAÇÃO
+        # VALIDACAO
         # ==========================================
 
         if not city or not state or not title or not url:
@@ -215,7 +215,7 @@ with gzip.open(
             continue
 
         # ==========================================
-        # REMOVER DUPLICADOS
+        # DUPLICADOS
         # ==========================================
 
         if url in seen_urls:
@@ -276,43 +276,53 @@ with gzip.open(
 
         elem.clear()
 
-        # =========================
-# LIMITE POR ARQUIVO
-# =========================
+        # ==========================================
+        # LIMITE POR ARQUIVO
+        # ==========================================
 
-if len(jobs) >= 1000:
+        if len(jobs) >= 1000:
 
-    json_path = os.path.join(
-        json_folder,
-        f"part_{file_count}.json"
-    )
+            json_path = os.path.join(
+                OUTPUT_FOLDER,
+                f"part_{file_count}.json"
+            )
 
-    with open(json_path, "w", encoding="utf-8") as json_file:
-        json.dump(
-            jobs,
-            json_file,
-            ensure_ascii=False,
-            indent=2
-        )
+            with open(
+                json_path,
+                "w",
+                encoding="utf-8"
+            ) as json_file:
 
-    print(f"✅ {json_path} gerado")
+                json.dump(
+                    jobs,
+                    json_file,
+                    ensure_ascii=False,
+                    indent=2
+                )
 
-    jobs = []
-    file_count += 1
+            print(f"✅ {json_path} gerado")
 
-    # =========================
-    # LIMITE TOTAL DE ARQUIVOS
-    # =========================
+            jobs = []
+            file_count += 1
 
-    if file_count > 5:
-        print("⛔ Limite maximo de arquivos atingido")
-        break
+            # ==========================================
+            # LIMITE TOTAL
+            # ==========================================
+
+            if file_count > MAX_FILES:
+
+                print(
+                    "⛔ Limite maximo de arquivos atingido"
+                )
+
+                stop_processing = True
+                break
 
 # ==========================================
 # SALVAR RESTANTE
 # ==========================================
 
-if jobs and file_count <= MAX_FILES:
+if jobs and file_count <= 5:
 
     json_path = os.path.join(
         OUTPUT_FOLDER,
