@@ -27,12 +27,7 @@ CIDADES_RJ = [
 ]
 
 # Keywords
-KEYWORDS = [
-    "jovem aprendiz",
-    "aprendiz",
-    "primeiro emprego",
-    "estagio"
-]
+KEYWORDS = []
 
 # Pasta de saída
 OUTPUT_FOLDER = "json_parts"
@@ -95,13 +90,7 @@ def generate_hash(title, company, city, url):
 
 
 def is_valid_keyword(text):
-    text = normalize(text)
-
-    for keyword in KEYWORDS:
-        if keyword in text:
-            return True
-
-    return False
+    return True
 
 
 # ==========================================
