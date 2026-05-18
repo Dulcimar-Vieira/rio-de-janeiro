@@ -276,47 +276,37 @@ with gzip.open(
 
         elem.clear()
 
-        # ==========================================
-        # LIMITE POR ARQUIVO
-        # ==========================================
+        # =========================
+# LIMITE POR ARQUIVO
+# =========================
 
-        if len(jobs) >= MAX_JOBS_PER_FILE:
+if len(jobs) >= 1000:
 
-            json_path = os.path.join(
-                OUTPUT_FOLDER,
-                f"part_{file_count}.json"
-            )
+    json_path = os.path.join(
+        json_folder,
+        f"part_{file_count}.json"
+    )
 
-            with open(
-                json_path,
-                "w",
-                encoding="utf-8"
-            ) as json_file:
+    with open(json_path, "w", encoding="utf-8") as json_file:
+        json.dump(
+            jobs,
+            json_file,
+            ensure_ascii=False,
+            indent=2
+        )
 
-                json.dump(
-                    jobs,
-                    json_file,
-                    ensure_ascii=False,
-                    indent=2
-                )
+    print(f"✅ {json_path} gerado")
 
-            print(f"✅ {json_path} gerado")
+    jobs = []
+    file_count += 1
 
-            jobs = []
-            file_count += 1
+    # =========================
+    # LIMITE TOTAL DE ARQUIVOS
+    # =========================
 
-            # ==========================================
-            # LIMITE TOTAL DE ARQUIVOS
-            # ==========================================
-
-            if file_count > MAX_FILES:
-
-                print(
-                    "⛔ Limite máximo de arquivos atingido"
-                )
-
-                stop_processing = True
-                break
+    if file_count > 5:
+        print("⛔ Limite maximo de arquivos atingido")
+        break
 
 # ==========================================
 # SALVAR RESTANTE
