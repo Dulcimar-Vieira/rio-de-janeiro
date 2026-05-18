@@ -309,7 +309,7 @@ with gzip.open(
             # LIMITE TOTAL
             # ==========================================
 
-            if file_count > MAX_FILES:
+            if file_count > 5:
 
                 print(
                     "⛔ Limite maximo de arquivos atingido"
