@@ -42,10 +42,10 @@ OUTPUT_FOLDER = "json_parts"
 # ==========================================
 
 # vagas por arquivo
-MAX_JOBS_PER_FILE = 500
+MAX_JOBS_PER_FILE = 1000
 
 # quantidade máxima de arquivos
-MAX_FILES = 3
+MAX_FILES = 5
 
 # ==========================================
 # CRIAR PASTA
