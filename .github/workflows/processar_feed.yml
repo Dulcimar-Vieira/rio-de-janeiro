@@ -1,10 +1,11 @@
-# .github/workflows/processar_feed.yml
+# Atualização automática do feed
 name: Processar Feed XML
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas
-  workflow_dispatch:  # Permite rodar manualmente
+    # A cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,11 +23,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Garantir pasta json_parts existe
-        run: |
-          mkdir -p json_parts
-          touch json_parts/.gitkeep
-
       - name: Executar script.py
         run: |
           python script.py || { echo "Erro ao executar script.py"; exit 1; }
@@ -37,19 +33,22 @@ jobs:
 
       - name: Verificar arquivos gerados
         run: |
-          echo "📁 Conteúdo da pasta json_parts:"
+          echo "📁 json_parts:"
           ls -lh json_parts/
           echo "📄 merged.json:"
-          ls -lh merged.json || echo "merged.json não encontrado"
+          ls -lh merged.json || true
+          echo "📄 estado diário:"
+          ls -lh daily_jobs_state.json || true
 
       - name: Configurar Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Commit e Push dos Arquivos JSON
+      - name: Commit e Push
         run: |
           git add -f json_parts/
           git add -f merged.json
-          git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
+          git add -f daily_jobs_state.json
+          git commit -m "Atualização do feed - 100 vagas/dia" || echo "Nada para commitar"
           git push || echo "Nenhuma alteração para enviar"
