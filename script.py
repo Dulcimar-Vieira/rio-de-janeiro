@@ -28,19 +28,24 @@ OUTPUT_FOLDER = Path("json_parts")
 MAX_JOBS = 1000
 REQUEST_TIMEOUT = 90
 
-SALARY_CONTEXT = re.compile(
-    r"\b(?:sal[aá]rio|sal[aá]rios|remunera[cç][aã]o|faixa salarial|piso salarial|proventos)\b",
-    re.IGNORECASE,
-)
-AMOUNT_PATTERN = re.compile(
-    r"(?:R\$\s*)?(?:"
+# O campo estruturado <salary> é preferido. No fallback, o número precisa
+# aparecer logo após um rótulo salarial explícito, sem varrer a descrição inteira.
+MONEY_NUMBER = (
+    r"(?:"
     r"\d{1,3}(?:\.\d{3})+(?:,\d{2})?"
     r"|\d{1,3}(?:,\d{3})+(?:\.\d{2})?"
-    r"|\d+(?:[.,]\d{2})"
-    r")",
+    r"|\d+(?:,\d{2}|\.\d{2})?"
+    r")"
+)
+SALARY_AMOUNT_RE = re.compile(
+    rf"\b(?:faixa salarial|piso salarial|sal[aá]rios?|remunera[cç][aã]o|proventos)\b"
+    rf"(?:\s+(?:fixo|base|mensal(?:\s+de)?|bruto|inicial|m[ií]nimo garantido|"
+    rf"oferecido|oferecida|oferecidos|oferecidas|de at[eé]|a partir de|entre)){{0,3}}"
+    rf"\s*(?:[:：=–—-]\s*)?"
+    rf"(?:(?:a partir de|de|entre)\s+)?"
+    rf"(?P<amount>(?:R\$\s*)?{MONEY_NUMBER})(?![\d.,])",
     re.IGNORECASE,
 )
-
 
 def normalize(text):
     """Lowercase, remove accents, and collapse whitespace."""
@@ -88,27 +93,28 @@ def has_real_salary(salary):
 
 def extract_salary(structured_salary, description):
     """
-    Prefer the XML salary tag. If it's empty, accept a numeric amount only
-    when a salary/remuneration label appears close to that amount in text.
-    This reduces confusion with transport, meal, or other benefit amounts.
+    Use the salary field if it contains an explicit amount. Otherwise accept
+    only an amount immediately associated with an explicit salary label.
+    This intentionally rejects numbers that appear only in benefit sections.
     """
     structured_salary = re.sub(r"\s+", " ", structured_salary or "").strip()
     if has_real_salary(structured_salary):
         return structured_salary
 
     text = clean_html(description)
-    for match in AMOUNT_PATTERN.finditer(text):
-        start, end = match.span()
-        context_start = max(0, start - 110)
-        context_end = min(len(text), end + 50)
-        context = text[context_start:context_end]
-        if SALARY_CONTEXT.search(context):
-            amount = re.sub(r"\s+", " ", match.group(0)).strip()
-            if has_real_salary(amount):
-                return amount
+    for match in SALARY_AMOUNT_RE.finditer(text):
+        amount = re.sub(r"\s+", " ", match.group("amount")).strip()
+        raw_number = re.sub(r"^R\$\s*", "", amount, flags=re.IGNORECASE).strip()
+        has_currency = amount.upper().startswith("R$")
+
+        # Without an explicit currency, reject short bare integers that are
+        # likely section numbers (e.g. "Salários oferecidos 2. DOS CARGOS...").
+        if not has_currency and re.fullmatch(r"\d{1,2}", raw_number):
+            continue
+
+        return amount
 
     return ""
-
 
 def generate_hash(title, company, city, url):
     base = f"{normalize(title)}|{normalize(company)}|{normalize(city)}|{url.strip()}"
