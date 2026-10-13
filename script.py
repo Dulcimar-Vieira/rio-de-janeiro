@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
-"""Processa o feed WhatJobs e gera até 1.000 vagas filtradas para o RJ."""
+"""Processa o feed WhatJobs e gera até 1.000 vagas salariais do RJ."""
 
 import gzip
 import hashlib
 import io
 import json
-import os
 import re
 import sys
 import unicodedata
@@ -25,11 +24,22 @@ CIDADES_RJ = {
     "nova iguacu",
     "sao goncalo",
 }
-# Este repositório é para oportunidades de Jovem Aprendiz / início de carreira.
-KEYWORDS = ("jovem aprendiz", "aprendiz", "primeiro emprego", "estagio")
 OUTPUT_FOLDER = Path("json_parts")
 MAX_JOBS = 1000
 REQUEST_TIMEOUT = 90
+
+SALARY_CONTEXT = re.compile(
+    r"\b(?:sal[aá]rio|sal[aá]rios|remunera[cç][aã]o|faixa salarial|piso salarial|proventos)\b",
+    re.IGNORECASE,
+)
+AMOUNT_PATTERN = re.compile(
+    r"(?:R\$\s*)?(?:"
+    r"\d{1,3}(?:\.\d{3})+(?:,\d{2})?"
+    r"|\d{1,3}(?:,\d{3})+(?:\.\d{2})?"
+    r"|\d+(?:[.,]\d{2})"
+    r")",
+    re.IGNORECASE,
+)
 
 
 def normalize(text):
@@ -53,7 +63,7 @@ def normalize_company(company):
 
 
 def has_real_salary(salary):
-    """True only when the source salary field contains an explicit numeric amount."""
+    """Require a non-placeholder salary with a numeric amount."""
     value = normalize(salary)
     if not value:
         return False
@@ -73,19 +83,36 @@ def has_real_salary(salary):
     if any(marker in value for marker in placeholders):
         return False
 
-    # Avoid treating generic text such as "competitivo" as a salary.
-    return bool(re.search(r"\\d", value))
+    return bool(re.search(r"\d", value))
+
+
+def extract_salary(structured_salary, description):
+    """
+    Prefer the XML salary tag. If it's empty, accept a numeric amount only
+    when a salary/remuneration label appears close to that amount in text.
+    This reduces confusion with transport, meal, or other benefit amounts.
+    """
+    structured_salary = re.sub(r"\s+", " ", structured_salary or "").strip()
+    if has_real_salary(structured_salary):
+        return structured_salary
+
+    text = clean_html(description)
+    for match in AMOUNT_PATTERN.finditer(text):
+        start, end = match.span()
+        context_start = max(0, start - 110)
+        context_end = min(len(text), end + 50)
+        context = text[context_start:context_end]
+        if SALARY_CONTEXT.search(context):
+            amount = re.sub(r"\s+", " ", match.group(0)).strip()
+            if has_real_salary(amount):
+                return amount
+
+    return ""
 
 
 def generate_hash(title, company, city, url):
-    # URL is included so different published listings do not collapse together.
     base = f"{normalize(title)}|{normalize(company)}|{normalize(city)}|{url.strip()}"
     return hashlib.sha256(base.encode("utf-8")).hexdigest()
-
-
-def is_valid_keyword(text):
-    text = normalize(text)
-    return any(keyword in text for keyword in KEYWORDS)
 
 
 def clear_old_parts(folder):
@@ -125,7 +152,6 @@ def main():
         "sem_dados_obrigatorios": 0,
         "fora_cidades": 0,
         "estado_incompativel": 0,
-        "fora_palavras_chave": 0,
         "sem_salario_valido": 0,
         "duplicadas": 0,
     }
@@ -137,13 +163,12 @@ def main():
                     continue
 
                 counts["xml_lidas"] += 1
-
                 title = text_at(elem, "title")
                 description_raw = text_at(elem, "description")
                 company = normalize_company(text_at(elem, "company/name"))
                 job_type = text_at(elem, "jobType")
                 url = text_at(elem, "urlDeeplink")
-                salary = text_at(elem, "salary")
+                source_salary = text_at(elem, "salary")
 
                 location_elem = elem.find("locations/location")
                 city = text_at(location_elem, "city") if location_elem is not None else ""
@@ -159,22 +184,15 @@ def main():
                     elem.clear()
                     continue
 
-                if not has_real_salary(salary):
-                    counts["sem_salario_valido"] += 1
-                    elem.clear()
-                    continue
-
-                # O feed tem usado o nome do estado no campo state; aceite RJ e
-                # variações do nome, sem aceitar cidade de outro estado.
                 state_norm = normalize(state)
-                accepted_states = {"rj", "rio de janeiro"}
-                if state_norm not in accepted_states:
+                if state_norm not in {"rj", "rio de janeiro"}:
                     counts["estado_incompativel"] += 1
                     elem.clear()
                     continue
 
-                if not is_valid_keyword(f"{title} {clean_html(description_raw)}"):
-                    counts["fora_palavras_chave"] += 1
+                salary = extract_salary(source_salary, description_raw)
+                if not salary:
+                    counts["sem_salario_valido"] += 1
                     elem.clear()
                     continue
 
@@ -185,15 +203,13 @@ def main():
                     continue
                 seen_urls.add(url_key)
 
-                description = clean_html(description_raw)
-
                 job = {
                     "title": title,
-                    "description": description,
+                    "description": clean_html(description_raw),
                     "company": company,
                     "city": city,
                     "state": state,
-                    "salary": re.sub(r"\\s+", " ", salary).strip(),
+                    "salary": salary,
                     "tipo": job_type if job_type else "Nao informado",
                     "origem": "WhatJobs",
                     "url": url,
@@ -220,8 +236,14 @@ def main():
     print(f"  exportadas: {len(jobs)}")
     print(f"Arquivo gerado: {output_path}")
 
-    # Uma execução válida pode produzir menos de 1.000 vagas se o feed não
-    # contiver registros suficientes para os filtros aplicados.
+    # Não publicar feed vazio ou silenciosamente incompleto.
+    if not jobs:
+        print(
+            "ERRO: nenhuma vaga com salário válido foi encontrada. "
+            "O merged.json e a publicação não serão atualizados.",
+            file=sys.stderr,
+        )
+        return 1
     return 0
 
 
