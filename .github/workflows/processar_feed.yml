@@ -3,52 +3,68 @@ name: Processar Feed XML
 
 on:
   schedule:
-    # A cada 6 horas
+    # A cada 6 horas (UTC)
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: processar-feed-rio-de-janeiro
+  cancel-in-progress: false
+
 jobs:
   process-feed:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
-      - name: Checkout do Repositório
+      - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Instalar Dependências
+      - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Executar script.py
-        run: |
-          python script.py || { echo "Erro ao executar script.py"; exit 1; }
+      - name: Executar processador
+        run: python script.py
 
-      - name: Executar merge_json.py
-        run: |
-          python merge_json.py || { echo "Erro ao executar merge_json.py"; exit 1; }
+      - name: Montar merged.json
+        run: python merge_json.py
 
-      - name: Verificar arquivos gerados
+      - name: Validar limite e estrutura dos arquivos
         run: |
-          echo "📁 json_parts:"
-          ls -lh json_parts/
-          echo "📄 merged.json:"
-          ls -lh merged.json || true
-          echo "📄 estado diário:"
-          ls -lh daily_jobs_state.json || true
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          part = Path("json_parts/part_1.json")
+          merged = Path("merged.json")
+          if not part.exists() or not merged.exists():
+              raise SystemExit("Arquivos de saída ausentes.")
+
+          with part.open(encoding="utf-8") as f:
+              jobs = json.load(f)
+          with merged.open(encoding="utf-8") as f:
+              result = json.load(f)
+
+          assert isinstance(jobs, list), "part_1.json precisa conter uma lista."
+          assert len(jobs) <= 1000, f"Limite excedido: {len(jobs)} vagas."
+          assert result.get("total_vagas") == len(result.get("vagas", [])), "total_vagas inconsistente."
+          assert result["total_vagas"] <= 1000, "merged.json ultrapassou 1.000 vagas."
+          assert all(job.get("title") and job.get("url") for job in jobs), "Vaga sem título/URL."
+          print(f"Validação OK: {len(jobs)} vagas no part_1.json e {result['total_vagas']} no merged.json.")
+          PY
 
       - name: Configurar Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Commit e Push
+      - name: Commit e push
         run: |
-          git add -f json_parts/
-          git add -f merged.json
-          git add -f daily_jobs_state.json
-          git commit -m "Atualização do feed - 100 vagas/dia" || echo "Nada para commitar"
-          git push || echo "Nenhuma alteração para enviar"
+          git add -f json_parts/part_1.json merged.json
+          git diff --cached --quiet || git commit -m "Atualização automática do feed RJ - até 1000 vagas"
+          git push
