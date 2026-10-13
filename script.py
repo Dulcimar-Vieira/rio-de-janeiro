@@ -52,6 +52,31 @@ def normalize_company(company):
     return company.strip() if company and company.strip() else "Confidencial"
 
 
+def has_real_salary(salary):
+    """True only when the source salary field contains an explicit numeric amount."""
+    value = normalize(salary)
+    if not value:
+        return False
+
+    placeholders = (
+        "a combinar",
+        "nao informado",
+        "nao informada",
+        "nao divulgado",
+        "nao divulgada",
+        "confidencial",
+        "negociavel",
+        "sob consulta",
+        "salario nao informado",
+        "salario a combinar",
+    )
+    if any(marker in value for marker in placeholders):
+        return False
+
+    # Avoid treating generic text such as "competitivo" as a salary.
+    return bool(re.search(r"\\d", value))
+
+
 def generate_hash(title, company, city, url):
     # URL is included so different published listings do not collapse together.
     base = f"{normalize(title)}|{normalize(company)}|{normalize(city)}|{url.strip()}"
@@ -101,6 +126,7 @@ def main():
         "fora_cidades": 0,
         "estado_incompativel": 0,
         "fora_palavras_chave": 0,
+        "sem_salario_valido": 0,
         "duplicadas": 0,
     }
 
@@ -117,6 +143,7 @@ def main():
                 company = normalize_company(text_at(elem, "company/name"))
                 job_type = text_at(elem, "jobType")
                 url = text_at(elem, "urlDeeplink")
+                salary = text_at(elem, "salary")
 
                 location_elem = elem.find("locations/location")
                 city = text_at(location_elem, "city") if location_elem is not None else ""
@@ -129,6 +156,11 @@ def main():
 
                 if normalize(city) not in CIDADES_RJ:
                     counts["fora_cidades"] += 1
+                    elem.clear()
+                    continue
+
+                if not has_real_salary(salary):
+                    counts["sem_salario_valido"] += 1
                     elem.clear()
                     continue
 
@@ -154,7 +186,6 @@ def main():
                 seen_urls.add(url_key)
 
                 description = clean_html(description_raw)
-                salary = text_at(elem, "salary")
 
                 job = {
                     "title": title,
@@ -162,7 +193,7 @@ def main():
                     "company": company,
                     "city": city,
                     "state": state,
-                    "salary": salary if salary else "A Combinar",
+                    "salary": re.sub(r"\\s+", " ", salary).strip(),
                     "tipo": job_type if job_type else "Nao informado",
                     "origem": "WhatJobs",
                     "url": url,
