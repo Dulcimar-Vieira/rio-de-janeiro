@@ -17,7 +17,7 @@ import requests
 FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
 OUTPUT_FOLDER = "json_parts"
 STATE_FILE = "daily_jobs_state.json"
-MAX_JOBS_PER_DAY = 100
+MAX_JOBS_PER_DAY = 1000
 TIMEZONE = ZoneInfo("America/Sao_Paulo")
 
 CIDADES = {"rio de janeiro", "niteroi", "duque de caxias", "nova iguacu", "sao goncalo"}
