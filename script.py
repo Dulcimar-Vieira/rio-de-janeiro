@@ -88,7 +88,14 @@ def has_real_salary(salary):
     if any(marker in value for marker in placeholders):
         return False
 
-    return bool(re.search(r"\d", value))
+    # WhatJobs specifies salary as an amount plus currency. Reject bare
+    # integer placeholders from the structured field; description-based
+    # numbers are handled only through an explicit salary label below.
+    if not re.search(r"\d", value):
+        return False
+    if not re.search(r"(?:R\$|[$€£])", value) and re.fullmatch(r"\d+", value):
+        return False
+    return True
 
 
 def extract_salary(structured_salary, description):
