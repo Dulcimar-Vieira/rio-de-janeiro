@@ -42,7 +42,7 @@ OUTPUT_FOLDER = "json_parts"
 # ==========================================
 
 # vagas por arquivo
-MAX_JOBS_PER_FILE = 100
+MAX_JOBS_PER_FILE = 1000
 
 # quantidade máxima de arquivos
 MAX_FILES = 1
