@@ -240,23 +240,26 @@ def main():
         print(f"ERRO ao interpretar o XML compactado: {exc}", file=sys.stderr)
         return 1
 
-    output_path = OUTPUT_FOLDER / "part_1.json"
-    write_json(output_path, jobs)
-
     print("Resumo do processamento:")
     for name, value in counts.items():
         print(f"  {name}: {value}")
     print(f"  exportadas: {len(jobs)}")
-    print(f"Arquivo gerado: {output_path}")
 
-    # Não publicar feed vazio ou silenciosamente incompleto.
-    if not jobs:
+    # Proteção temporária para manter o último lote válido de 1.000 vagas
+    # enquanto a WhatJobs não voltar a fornecer o feed completo do RJ.
+    # Se vier um lote parcial, falha antes de gravar/mesclar/publicar JSON.
+    if len(jobs) < MAX_JOBS:
         print(
-            "ERRO: nenhuma vaga com salário válido foi encontrada. "
-            "O merged.json e a publicação não serão atualizados.",
+            f"ERRO: foram encontradas apenas {len(jobs)} vagas válidas, "
+            f"abaixo das {MAX_JOBS} esperadas. O merged.json e os JSON "
+            "publicados serão preservados até o feed normalizar.",
             file=sys.stderr,
         )
         return 1
+
+    output_path = OUTPUT_FOLDER / "part_1.json"
+    write_json(output_path, jobs)
+    print(f"Arquivo gerado: {output_path}")
     return 0
 
 
