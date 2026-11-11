@@ -36,7 +36,7 @@ MONEY_NUMBER = (
     r"|\d{1,3}(?:,\d{3})+(?:\.\d{2})?"
     r"|\d+(?:,\d{2}|\.\d{2})?"
     r")"
-    r"(?:\\s*(?:mil|k)\\b)?"
+    r"(?:\s*(?:mil|k)\b)?"
 )
 SALARY_AMOUNT_RE = re.compile(
     rf"\b(?:faixa salarial|piso salarial|sal[aá]rios?|remunera[cç][aã]o|proventos)\b"
@@ -100,7 +100,7 @@ def has_real_salary(salary):
 
 MAX_SALARY_BRL = 10000.0
 SALARY_VALUE_RE = re.compile(
-    rf"(?<![\\w])(?:R\\$\\s*|[$€£]\\s*)?{MONEY_NUMBER}(?![\\d.,])",
+    rf"(?<![\w])(?:R\$\s*|[$€£]\s*)?{MONEY_NUMBER}(?![\d.,])",
     re.IGNORECASE,
 )
 
@@ -108,10 +108,10 @@ SALARY_VALUE_RE = re.compile(
 def parse_salary_amount(raw_amount):
     """Converte valores salariais brasileiros/internacionais, incluindo mil/k."""
     raw_value = str(raw_amount or "").strip()
-    multiplier = 1000.0 if re.search(r"\\s*(?:mil|k)\\b", raw_value, re.IGNORECASE) else 1.0
-    value = re.sub(r"\\s*(?:mil|k)\\b", "", raw_value, flags=re.IGNORECASE)
-    value = re.sub(r"^(?:R\\$|[$€£])\\s*", "", value, flags=re.IGNORECASE)
-    value = re.sub(r"[^\\d.,]", "", value)
+    multiplier = 1000.0 if re.search(r"\s*(?:mil|k)\b", raw_value, re.IGNORECASE) else 1.0
+    value = re.sub(r"\s*(?:mil|k)\b", "", raw_value, flags=re.IGNORECASE)
+    value = re.sub(r"^(?:R\$|[$€£])\s*", "", value, flags=re.IGNORECASE)
+    value = re.sub(r"[^\d.,]", "", value)
     if not value:
         return None
 
@@ -148,7 +148,7 @@ def salary_exceeds_limit(salary, description=""):
 
     text = clean_html(description)
     range_tail_re = re.compile(
-        rf"\\s*(?:-|–|—|\\ba\\b|\\bat[eé]\\b)\\s*(?:R\\$\\s*)?({MONEY_NUMBER})(?![\\d.,])",
+        rf"\s*(?:-|–|—|\ba\b|\bat[eé]\b)\s*(?:R\$\s*)?({MONEY_NUMBER})(?![\d.,])",
         re.IGNORECASE,
     )
     for match in SALARY_AMOUNT_RE.finditer(text):
