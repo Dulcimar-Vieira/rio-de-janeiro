@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
-"""Processa o feed WhatJobs e gera até 1.000 vagas salariais do RJ."""
+"""Processa até 1.000 vagas do RJ, priorizando salários informados."""
 
 import gzip
 import hashlib
@@ -36,6 +36,7 @@ MONEY_NUMBER = (
     r"|\d{1,3}(?:,\d{3})+(?:\.\d{2})?"
     r"|\d+(?:,\d{2}|\.\d{2})?"
     r")"
+    r"(?:\\s*(?:mil|k)\\b)?"
 )
 SALARY_AMOUNT_RE = re.compile(
     rf"\b(?:faixa salarial|piso salarial|sal[aá]rios?|remunera[cç][aã]o|proventos)\b"
@@ -97,6 +98,70 @@ def has_real_salary(salary):
         return False
     return True
 
+MAX_SALARY_BRL = 10000.0
+SALARY_VALUE_RE = re.compile(
+    rf"(?<![\\w])(?:R\\$\\s*|[$€£]\\s*)?{MONEY_NUMBER}(?![\\d.,])",
+    re.IGNORECASE,
+)
+
+
+def parse_salary_amount(raw_amount):
+    """Converte valores salariais brasileiros/internacionais, incluindo mil/k."""
+    raw_value = str(raw_amount or "").strip()
+    multiplier = 1000.0 if re.search(r"\\s*(?:mil|k)\\b", raw_value, re.IGNORECASE) else 1.0
+    value = re.sub(r"\\s*(?:mil|k)\\b", "", raw_value, flags=re.IGNORECASE)
+    value = re.sub(r"^(?:R\\$|[$€£])\\s*", "", value, flags=re.IGNORECASE)
+    value = re.sub(r"[^\\d.,]", "", value)
+    if not value:
+        return None
+
+    if "." in value and "," in value:
+        if value.rfind(",") > value.rfind("."):
+            value = value.replace(".", "").replace(",", ".")
+        else:
+            value = value.replace(",", "")
+    elif "," in value:
+        left, _, right = value.rpartition(",")
+        if len(right) == 3 and left:
+            value = value.replace(",", "")
+        else:
+            value = left.replace(",", "") + "." + right
+    elif "." in value:
+        parts = value.split(".")
+        if len(parts) > 1 and len(parts[0]) <= 3 and all(len(part) == 3 for part in parts[1:]):
+            value = "".join(parts)
+        else:
+            value = "".join(parts[:-1]) + "." + parts[-1]
+
+    try:
+        return float(value) * multiplier
+    except ValueError:
+        return None
+
+
+def salary_exceeds_limit(salary, description=""):
+    """Descarta salários acima de R$ 10 mil, inclusive o teto de faixas."""
+    for match in SALARY_VALUE_RE.finditer(salary or ""):
+        amount = parse_salary_amount(match.group(0))
+        if amount is not None and amount > MAX_SALARY_BRL:
+            return True
+
+    text = clean_html(description)
+    range_tail_re = re.compile(
+        rf"\\s*(?:-|–|—|\\ba\\b|\\bat[eé]\\b)\\s*(?:R\\$\\s*)?({MONEY_NUMBER})(?![\\d.,])",
+        re.IGNORECASE,
+    )
+    for match in SALARY_AMOUNT_RE.finditer(text):
+        amount = parse_salary_amount(match.group("amount"))
+        if amount is not None and amount > MAX_SALARY_BRL:
+            return True
+        range_match = range_tail_re.match(text[match.end():match.end() + 100])
+        if range_match:
+            upper_amount = parse_salary_amount(range_match.group(1))
+            if upper_amount is not None and upper_amount > MAX_SALARY_BRL:
+                return True
+    return False
+
 
 def extract_salary(structured_salary, description):
     """
@@ -144,8 +209,6 @@ def write_json(path, data):
 
 
 def main():
-    clear_old_parts(OUTPUT_FOLDER)
-
     print("Baixando feed WhatJobs...")
     try:
         response = requests.get(
@@ -158,14 +221,16 @@ def main():
         print(f"ERRO ao baixar feed: {exc}", file=sys.stderr)
         return 1
 
-    jobs = []
-    seen_urls = set()
+    jobs_with_salary = {}
+    jobs_without_salary = {}
     counts = {
         "xml_lidas": 0,
         "sem_dados_obrigatorios": 0,
         "fora_cidades": 0,
         "estado_incompativel": 0,
-        "sem_salario_valido": 0,
+        "com_salario": 0,
+        "sem_salario": 0,
+        "salario_acima_de_10000": 0,
         "duplicadas": 0,
     }
 
@@ -204,17 +269,15 @@ def main():
                     continue
 
                 salary = extract_salary(source_salary, description_raw)
-                if not salary:
-                    counts["sem_salario_valido"] += 1
+                if salary_exceeds_limit(salary, description_raw):
+                    counts["salario_acima_de_10000"] += 1
                     elem.clear()
                     continue
+                has_salary = has_real_salary(salary)
+                salary_value = salary if has_salary else "A combinar"
+                counts["com_salario" if has_salary else "sem_salario"] += 1
 
                 url_key = url.strip().rstrip("/")
-                if url_key in seen_urls:
-                    counts["duplicadas"] += 1
-                    elem.clear()
-                    continue
-                seen_urls.add(url_key)
 
                 job = {
                     "title": title,
@@ -222,7 +285,7 @@ def main():
                     "company": company,
                     "city": city,
                     "state": state,
-                    "salary": salary,
+                    "salary": salary_value,
                     "tipo": job_type if job_type else "Nao informado",
                     "origem": "WhatJobs",
                     "url": url,
@@ -230,15 +293,43 @@ def main():
                     "hash_unico": generate_hash(title, company, city, url),
                 }
 
-                jobs.append(job)
-                elem.clear()
+                if has_salary:
+                    target = jobs_with_salary
+                    other = jobs_without_salary
+                else:
+                    target = jobs_without_salary
+                    other = jobs_with_salary
 
-                if len(jobs) >= MAX_JOBS:
-                    break
+                # Se a URL repetir, a versão que informa salário prevalece.
+                if url_key in other:
+                    if has_salary:
+                        other.pop(url_key, None)
+                    else:
+                        counts["duplicadas"] += 1
+                        elem.clear()
+                        continue
+                if url_key in target:
+                    counts["duplicadas"] += 1
+                else:
+                    target[url_key] = job
+
+                elem.clear()
 
     except (OSError, EOFError, ET.ParseError) as exc:
         print(f"ERRO ao interpretar o XML compactado: {exc}", file=sys.stderr)
         return 1
+
+    salary_jobs = sorted(
+        jobs_with_salary.values(),
+        key=lambda job: job.get("data_publicacao", ""),
+        reverse=True,
+    )
+    no_salary_jobs = sorted(
+        jobs_without_salary.values(),
+        key=lambda job: job.get("data_publicacao", ""),
+        reverse=True,
+    )
+    jobs = (salary_jobs + no_salary_jobs)[:MAX_JOBS]
 
     print("Resumo do processamento:")
     for name, value in counts.items():
@@ -257,6 +348,7 @@ def main():
         )
         return 1
 
+    clear_old_parts(OUTPUT_FOLDER)
     output_path = OUTPUT_FOLDER / "part_1.json"
     write_json(output_path, jobs)
     print(f"Arquivo gerado: {output_path}")
