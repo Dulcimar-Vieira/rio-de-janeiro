@@ -62,7 +62,7 @@ jobs:
           assert result.get("total_vagas") == len(result.get("vagas", [])), "total_vagas inconsistente."
           assert result["total_vagas"] <= 1000, "merged.json ultrapassou 1.000 vagas."
           assert all(job.get("title") and job.get("url") for job in jobs), "Vaga sem título/URL."
-          assert all(any(ch.isdigit() for ch in str(job.get("salary", ""))) for job in jobs), "Vaga sem salário numérico."
+          assert all(str(job.get("salary", "")).strip() == "A combinar" or any(ch.isdigit() for ch in str(job.get("salary", ""))) for job in jobs), "Vaga precisa ter salário numérico ou ser marcada como A combinar."
           print(f"Validação OK: {len(jobs)} vagas no part_1.json e {result['total_vagas']} no merged.json.")
           PY
 
